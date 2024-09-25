@@ -1,0 +1,84 @@
+{ "skeleton": { "images": "C:/Users/dasmonstrum/Desktop/Delete One Part 02/Animation/Level 42/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "background", "bone": "root", "attachment": "background" },
+	{ "name": "girl", "bone": "root", "attachment": "girl" },
+	{ "name": "girl_eye", "bone": "root", "attachment": "girl_eye" },
+	{ "name": "girl_eye_lid", "bone": "root", "attachment": "girl_eye_lid" },
+	{ "name": "girl_face_2", "bone": "root", "attachment": "girl_face_2" },
+	{ "name": "girl_face_1", "bone": "root", "attachment": "girl_face_1" },
+	{ "name": "mermaid", "bone": "root", "attachment": "mermaid" },
+	{ "name": "mermaid_hand", "bone": "root", "attachment": "mermaid_hand" },
+	{ "name": "mermaid_face_1", "bone": "root", "attachment": "mermaid_face_1" },
+	{ "name": "mermaid_face_2", "bone": "root", "attachment": "mermaid_face_2" },
+	{ "name": "WD_ towel", "bone": "root", "attachment": "WD_ towel" },
+	{ "name": "man", "bone": "root", "attachment": "man" },
+	{ "name": "man_tail", "bone": "root", "attachment": "man_tail" },
+	{ "name": "man_hand", "bone": "root", "attachment": "man_hand" },
+	{ "name": "man_eye", "bone": "root", "attachment": "man_eye" },
+	{ "name": "man_lids", "bone": "root", "attachment": "man_lids" },
+	{ "name": "man_face_1", "bone": "root", "attachment": "man_face_1" },
+	{ "name": "man_face_2", "bone": "root", "attachment": "man_face_2" }
+],
+"skins": {
+	"default": {
+		"background": {
+			"background": { "x": 437.5, "y": -477, "width": 875, "height": 954 }
+		},
+		"girl": {
+			"girl": { "x": 345.5, "y": -675.5, "width": 257, "height": 217 }
+		},
+		"girl_eye": {
+			"girl_eye": { "x": 343, "y": -639, "width": 52, "height": 16 }
+		},
+		"girl_eye_lid": {
+			"girl_eye_lid": { "x": 344, "y": -636.5, "width": 70, "height": 33 }
+		},
+		"girl_face_2": {
+			"girl_face_2": { "x": 342, "y": -640, "width": 62, "height": 74 }
+		},
+		"girl_face_1": {
+			"girl_face_1": { "x": 343.5, "y": -643, "width": 71, "height": 72 }
+		},
+		"mermaid": {
+			"mermaid": { "x": 411.5, "y": -308.5, "width": 579, "height": 393 }
+		},
+		"mermaid_hand": {
+			"mermaid_hand": { "x": 278.5, "y": -364, "width": 183, "height": 178 }
+		},
+		"mermaid_face_1": {
+			"mermaid_face_1": { "x": 231.5, "y": -200, "width": 61, "height": 88 }
+		},
+		"mermaid_face_2": {
+			"mermaid_face_2": { "x": 236.5, "y": -201, "width": 71, "height": 112 }
+		},
+		"WD_ towel": {
+			"WD_ towel": { "x": 499, "y": -388, "width": 528, "height": 316 }
+		},
+		"man": {
+			"man": { "x": 531, "y": -676, "width": 554, "height": 318 }
+		},
+		"man_tail": {
+			"man_tail": { "x": 411, "y": -783.5, "width": 548, "height": 171 }
+		},
+		"man_hand": {
+			"man_hand": { "x": 663.5, "y": -731.5, "width": 129, "height": 153 }
+		},
+		"man_eye": {
+			"man_eye": { "x": 671, "y": -590.5, "width": 40, "height": 19 }
+		},
+		"man_lids": {
+			"man_lids": { "x": 671.5, "y": -589.5, "width": 53, "height": 33 }
+		},
+		"man_face_1": {
+			"man_face_1": { "x": 674.5, "y": -592.5, "width": 57, "height": 65 }
+		},
+		"man_face_2": {
+			"man_face_2": { "x": 674.5, "y": -595, "width": 61, "height": 68 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

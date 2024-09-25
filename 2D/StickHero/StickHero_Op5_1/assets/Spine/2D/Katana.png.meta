@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f66810eb-9bf6-4076-a0ae-128b8b6d4224",
+  "importer": "image",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2048,
+  "height": 2048,
+  "platformSettings": {},
+  "subMetas": {
+    "Katana": {
+      "ver": "1.0.6",
+      "uuid": "f66810eb-9bf6-4076-a0ae-128b8b6d4224@6c48a",
+      "importer": "texture",
+      "rawTextureUuid": "f66810eb-9bf6-4076-a0ae-128b8b6d4224",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -4.5,
+      "offsetY": -131,
+      "trimX": 2,
+      "trimY": 273,
+      "width": 2035,
+      "height": 1764,
+      "rawWidth": 2048,
+      "rawHeight": 2048,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

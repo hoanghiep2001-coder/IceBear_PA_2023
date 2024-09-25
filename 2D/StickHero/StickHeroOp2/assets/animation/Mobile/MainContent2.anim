@@ -1,0 +1,161 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "MainContent2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "SecondTower/Character_Sword": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -100,
+                -202,
+                0
+              ]
+            },
+            {
+              "frame": 0.9833333333333333,
+              "value": [
+                -100,
+                -123.988,
+                0
+              ]
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.25,
+                "y": 0.25,
+                "z": 1
+              }
+            },
+            {
+              "frame": 0.9833333333333333,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.2,
+                "y": 0.2,
+                "z": 1
+              }
+            }
+          ]
+        }
+      },
+      "SecondTower/skeleton": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": -0.06,
+                "y": 0.06,
+                "z": 1
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": -0.05,
+                "y": 0.05,
+                "z": 1
+              }
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.5,
+              "value": [
+                -85,
+                -124,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -65,
+                -124,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "SecondTower/Transform": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -102,
+                -204.044,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -102,
+                -120,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "props": {
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 1,
+            "y": 1,
+            "z": 1
+          }
+        },
+        {
+          "frame": 1,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 1.7,
+            "y": 1.7,
+            "z": 1
+          }
+        }
+      ],
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 1,
+          "value": [
+            -80,
+            22,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

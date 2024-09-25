@@ -1,0 +1,55 @@
+
+creeps 1.png
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 39
+  size: 120, 173
+  orig: 120, 173
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 234, 63
+  size: 109, 149
+  orig: 109, 149
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 124, 61
+  size: 108, 151
+  orig: 108, 151
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 345, 186
+  size: 111, 146
+  orig: 111, 146
+  offset: 0, 0
+  index: -1
+Layer 51
+  rotate: false
+  xy: 345, 51
+  size: 81, 133
+  orig: 81, 133
+  offset: 0, 0
+  index: -1
+toilet1
+  rotate: false
+  xy: 2, 214
+  size: 231, 242
+  orig: 231, 242
+  offset: 0, 0
+  index: -1
+toilet2
+  rotate: false
+  xy: 235, 334
+  size: 204, 122
+  orig: 204, 122
+  offset: 0, 0
+  index: -1

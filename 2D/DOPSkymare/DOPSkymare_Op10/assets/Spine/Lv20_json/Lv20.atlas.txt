@@ -1,0 +1,153 @@
+
+Lv20.png
+size: 1944, 1944
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+arm1_L
+  rotate: true
+  xy: 1412, 530
+  size: 239, 374
+  orig: 241, 376
+  offset: 1, 1
+  index: -1
+arm2_L
+  rotate: true
+  xy: 1376, 1098
+  size: 325, 497
+  orig: 327, 499
+  offset: 1, 1
+  index: -1
+arm2_R
+  rotate: true
+  xy: 1376, 771
+  size: 325, 497
+  orig: 327, 499
+  offset: 1, 1
+  index: -1
+armR_1
+  rotate: true
+  xy: 1412, 289
+  size: 239, 374
+  orig: 241, 376
+  offset: 1, 1
+  index: -1
+board 1
+  rotate: true
+  xy: 2, 9
+  size: 786, 188
+  orig: 788, 190
+  offset: 1, 1
+  index: -1
+board 2
+  rotate: true
+  xy: 192, 10
+  size: 785, 389
+  orig: 787, 391
+  offset: 1, 1
+  index: -1
+body
+  rotate: true
+  xy: 583, 124
+  size: 645, 800
+  orig: 645, 800
+  offset: 0, 0
+  index: -1
+eyeL_1
+  rotate: false
+  xy: 583, 6
+  size: 103, 116
+  orig: 105, 118
+  offset: 1, 1
+  index: -1
+eyeL_2
+  rotate: false
+  xy: 688, 6
+  size: 103, 116
+  orig: 105, 118
+  offset: 1, 1
+  index: -1
+eyeR_1
+  rotate: false
+  xy: 793, 8
+  size: 101, 114
+  orig: 103, 116
+  offset: 1, 1
+  index: -1
+eyeR_2
+  rotate: false
+  xy: 896, 8
+  size: 101, 114
+  orig: 103, 116
+  offset: 1, 1
+  index: -1
+eyebrowR_1
+  rotate: false
+  xy: 999, 29
+  size: 220, 93
+  orig: 222, 95
+  offset: 1, 1
+  index: -1
+eyebrowR_2
+  rotate: true
+  xy: 1412, 11
+  size: 276, 77
+  orig: 278, 79
+  offset: 1, 1
+  index: -1
+finger_L
+  rotate: false
+  xy: 1491, 17
+  size: 124, 198
+  orig: 126, 200
+  offset: 1, 1
+  index: -1
+finger_R
+  rotate: false
+  xy: 1617, 17
+  size: 124, 198
+  orig: 126, 200
+  offset: 1, 1
+  index: -1
+hand_L
+  rotate: false
+  xy: 1788, 494
+  size: 152, 275
+  orig: 154, 277
+  offset: 1, 1
+  index: -1
+hand_R
+  rotate: false
+  xy: 1788, 217
+  size: 152, 275
+  orig: 154, 277
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 1376, 1425
+  size: 563, 515
+  orig: 565, 517
+  offset: 1, 1
+  index: -1
+mouth1
+  rotate: true
+  xy: 1875, 1263
+  size: 160, 44
+  orig: 162, 46
+  offset: 1, 1
+  index: -1
+mouth2
+  rotate: false
+  xy: 1221, 35
+  size: 189, 87
+  orig: 191, 89
+  offset: 1, 1
+  index: -1
+thuoc do
+  rotate: false
+  xy: 2, 797
+  size: 1372, 1143
+  orig: 1374, 1145
+  offset: 1, 1
+  index: -1

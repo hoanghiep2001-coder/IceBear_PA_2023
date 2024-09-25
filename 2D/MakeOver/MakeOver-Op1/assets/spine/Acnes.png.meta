@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "047e5702-2570-49f7-af08-75f36fc6fe42",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1024,
+  "height": 1024,
+  "platformSettings": {},
+  "subMetas": {
+    "Acnes": {
+      "ver": "1.0.6",
+      "uuid": "fc4310bc-b1f1-4ac7-9b4f-ff3203df25c7",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "047e5702-2570-49f7-af08-75f36fc6fe42",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -33,
+      "offsetY": 19.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 954,
+      "height": 981,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

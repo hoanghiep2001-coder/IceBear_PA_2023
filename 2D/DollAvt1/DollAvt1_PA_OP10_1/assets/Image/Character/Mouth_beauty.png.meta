@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "5d980c70-0a2f-4d48-ace9-f68d623a33ac",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 24,
+  "height": 17,
+  "platformSettings": {},
+  "subMetas": {
+    "Mouth_beauty": {
+      "ver": "1.0.6",
+      "uuid": "f1e81fdf-25f7-4764-b70d-6d86c8d26804",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "5d980c70-0a2f-4d48-ace9-f68d623a33ac",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 24,
+      "height": 17,
+      "rawWidth": 24,
+      "rawHeight": 17,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

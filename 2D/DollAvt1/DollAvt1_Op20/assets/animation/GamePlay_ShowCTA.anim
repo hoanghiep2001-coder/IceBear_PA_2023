@@ -1,0 +1,87 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "GamePlay_ShowCTA",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "CTA/Overlay": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 1.5,
+              "value": 150
+            }
+          ]
+        }
+      },
+      "CTA/Hand": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 2,
+              "value": 0
+            },
+            {
+              "frame": 2.5,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "CTA/2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.5,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": 255
+            }
+          ],
+          "angle": [
+            {
+              "frame": 2,
+              "value": 0
+            },
+            {
+              "frame": 2.0833333333333335,
+              "value": 5
+            },
+            {
+              "frame": 2.1666666666666665,
+              "value": -5
+            },
+            {
+              "frame": 2.25,
+              "value": 5
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": -5
+            },
+            {
+              "frame": 2.4166666666666665,
+              "value": 5
+            },
+            {
+              "frame": 2.5,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.Material",
+  "_name": "BloodParticle",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "829a282c-b049-4019-bd38-5ace8d8a6417"
+  },
+  "_techniqueIndex": 1,
+  "_techniqueData": {
+    "0": {
+      "props": {
+        "mainTexture": {
+          "__uuid__": "c52e1869-7386-4cc7-9451-7ab70f4bb66c"
+        },
+        "tintColor": {
+          "__type__": "cc.Color",
+          "r": 127,
+          "g": 127,
+          "b": 127,
+          "a": 255
+        }
+      },
+      "defines": {}
+    }
+  }
+}

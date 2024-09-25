@@ -1,0 +1,167 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Tablet_SwapDress",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Dress_2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                145,
+                -137,
+                0
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                145,
+                -137,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                7.509,
+                -165.746,
+                0
+              ]
+            },
+            {
+              "frame": 1.5,
+              "value": [
+                -151.246,
+                -139.802,
+                0
+              ]
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.3,
+                "y": 0.3,
+                "z": 1
+              }
+            },
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.33,
+                "y": 0.33,
+                "z": 1
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.25,
+                "y": 0.25,
+                "z": 1
+              }
+            },
+            {
+              "frame": 1.5,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.3,
+                "y": 0.3,
+                "z": 1
+              }
+            }
+          ]
+        }
+      },
+      "Dress_1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -150,
+                -134,
+                0
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -150,
+                -134,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -4.995,
+                71.012,
+                0
+              ]
+            },
+            {
+              "frame": 1.5,
+              "value": [
+                144.5,
+                -131,
+                0
+              ]
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.3,
+                "y": 0.3,
+                "z": 1
+              }
+            },
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.33,
+                "y": 0.33,
+                "z": 1
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.25,
+                "y": 0.25,
+                "z": 1
+              }
+            },
+            {
+              "frame": 1.5,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.3,
+                "y": 0.3,
+                "z": 1
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

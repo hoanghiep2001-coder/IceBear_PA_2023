@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "b6d3b911-5a76-41ec-8e77-afe2dbbb9c33",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 580,
+  "height": 101,
+  "platformSettings": {},
+  "subMetas": {
+    "Take the money": {
+      "ver": "1.0.6",
+      "uuid": "0d372725-dba1-4caa-b089-091815bb7b37",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "b6d3b911-5a76-41ec-8e77-afe2dbbb9c33",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 577,
+      "height": 99,
+      "rawWidth": 580,
+      "rawHeight": 101,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

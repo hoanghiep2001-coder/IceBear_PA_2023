@@ -1,0 +1,89 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Mobile_CameraAnim2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 8.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -170,
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 1,
+          "value": [
+            125,
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 3.8333333333333335,
+          "value": [
+            125,
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 4.333333333333333,
+          "value": [
+            550,
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 5,
+          "value": [
+            550,
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 5.5,
+          "value": [
+            125,
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 7,
+          "value": [
+            125,
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 7.5,
+          "value": [
+            200,
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 8.5,
+          "value": [
+            -200,
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

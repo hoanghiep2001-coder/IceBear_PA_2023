@@ -1,0 +1,71 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Hint_HandAnim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 0.4
+        },
+        {
+          "frame": 0.4166666666666667,
+          "value": 0.45
+        },
+        {
+          "frame": 0.8333333333333334,
+          "value": 0.4
+        },
+        {
+          "frame": 1.25,
+          "value": 0.45
+        },
+        {
+          "frame": 1.6666666666666667,
+          "value": 0.4
+        }
+      ],
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            110,
+            -180,
+            0
+          ]
+        },
+        {
+          "frame": 1.6666666666666667,
+          "value": [
+            110,
+            -180,
+            0
+          ]
+        },
+        {
+          "frame": 2.1666666666666665,
+          "value": [
+            110,
+            -60,
+            0
+          ]
+        },
+        {
+          "frame": 2.5,
+          "value": [
+            110,
+            -60,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

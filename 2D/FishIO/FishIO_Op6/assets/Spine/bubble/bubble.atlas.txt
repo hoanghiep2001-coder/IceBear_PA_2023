@@ -1,0 +1,20 @@
+
+bubble.png
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+bubble
+  rotate: false
+  xy: 2, 2
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+bubble_2
+  rotate: false
+  xy: 2, 73
+  size: 132, 131
+  orig: 132, 132
+  offset: 0, 1
+  index: -1

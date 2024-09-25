@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "bb8957eb-a4cf-49db-abd7-38d214a31ca9",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 338,
+  "height": 306,
+  "platformSettings": {},
+  "subMetas": {
+    "red house2": {
+      "ver": "1.0.6",
+      "uuid": "efff4b94-7eca-42e1-85ea-36dc0c525be3",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "bb8957eb-a4cf-49db-abd7-38d214a31ca9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 338,
+      "height": 306,
+      "rawWidth": 338,
+      "rawHeight": 306,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

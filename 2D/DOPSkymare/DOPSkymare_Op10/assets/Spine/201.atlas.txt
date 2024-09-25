@@ -1,0 +1,55 @@
+
+201.png
+size: 1408, 1408
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+arm
+  rotate: false
+  xy: 830, 319
+  size: 408, 188
+  orig: 408, 188
+  offset: 0, 0
+  index: -1
+bag
+  rotate: false
+  xy: 301, 3
+  size: 529, 472
+  orig: 529, 472
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: true
+  xy: 730, 507
+  size: 901, 539
+  orig: 901, 539
+  offset: 0, 0
+  index: -1
+bunny
+  rotate: false
+  xy: 0, 0
+  size: 301, 475
+  orig: 301, 475
+  offset: 0, 0
+  index: -1
+hair_1_1
+  rotate: false
+  xy: 1061, 24
+  size: 168, 295
+  orig: 168, 295
+  offset: 0, 0
+  index: -1
+hair_2_2
+  rotate: false
+  xy: 830, 80
+  size: 231, 239
+  orig: 231, 239
+  offset: 0, 0
+  index: -1
+pomni
+  rotate: false
+  xy: 0, 475
+  size: 730, 933
+  orig: 730, 933
+  offset: 0, 0
+  index: -1

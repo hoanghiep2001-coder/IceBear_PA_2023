@@ -1,0 +1,167 @@
+
+Stick Kizaru.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Comp 403
+  rotate: false
+  xy: 408, 542
+  size: 393, 204
+  orig: 400, 216
+  offset: 4, 4
+  index: -1
+Comp 405
+  rotate: false
+  xy: 442, 748
+  size: 432, 216
+  orig: 441, 232
+  offset: 5, 6
+  index: -1
+Comp 407
+  rotate: false
+  xy: 2, 1144
+  size: 442, 219
+  orig: 451, 235
+  offset: 5, 4
+  index: -1
+Comp 409
+  rotate: false
+  xy: 2, 919
+  size: 438, 223
+  orig: 448, 237
+  offset: 7, 4
+  index: -1
+Comp 413
+  rotate: false
+  xy: 1037, 1058
+  size: 326, 305
+  orig: 355, 344
+  offset: 13, 22
+  index: -1
+Comp 414
+  rotate: false
+  xy: 2, 224
+  size: 363, 323
+  orig: 389, 364
+  offset: 10, 25
+  index: -1
+Comp 416
+  rotate: false
+  xy: 2, 549
+  size: 404, 368
+  orig: 426, 394
+  offset: 11, 14
+  index: -1
+Comp 418
+  rotate: false
+  xy: 619, 981
+  size: 416, 382
+  orig: 446, 411
+  offset: 15, 16
+  index: -1
+Layer 1
+  rotate: false
+  xy: 803, 367
+  size: 336, 183
+  orig: 345, 194
+  offset: 4, 4
+  index: -1
+Spark01
+  rotate: false
+  xy: 367, 281
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+cloak_1
+  rotate: false
+  xy: 876, 552
+  size: 147, 427
+  orig: 147, 427
+  offset: 0, 0
+  index: -1
+cloak_2
+  rotate: false
+  xy: 446, 966
+  size: 171, 397
+  orig: 171, 397
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 367, 411
+  size: 154, 129
+  orig: 154, 129
+  offset: 0, 0
+  index: -1
+l_hand_1
+  rotate: false
+  xy: 572, 262
+  size: 54, 138
+  orig: 56, 140
+  offset: 1, 1
+  index: -1
+l_hand_2
+  rotate: false
+  xy: 1156, 775
+  size: 63, 136
+  orig: 64, 136
+  offset: 0, 0
+  index: -1
+l_leg_1
+  rotate: false
+  xy: 803, 604
+  size: 63, 142
+  orig: 64, 142
+  offset: 0, 0
+  index: -1
+l_leg_2
+  rotate: false
+  xy: 1156, 913
+  size: 59, 143
+  orig: 60, 143
+  offset: 0, 0
+  index: -1
+r_hand_1
+  rotate: false
+  xy: 572, 402
+  size: 55, 138
+  orig: 57, 138
+  offset: 1, 0
+  index: -1
+r_hand_2
+  rotate: false
+  xy: 1025, 607
+  size: 83, 166
+  orig: 85, 169
+  offset: 1, 2
+  index: -1
+r_leg_1
+  rotate: false
+  xy: 1110, 624
+  size: 51, 149
+  orig: 52, 151
+  offset: 0, 2
+  index: -1
+r_leg_2
+  rotate: false
+  xy: 1217, 913
+  size: 59, 143
+  orig: 60, 143
+  offset: 1, 0
+  index: -1
+shirt
+  rotate: false
+  xy: 1037, 775
+  size: 117, 281
+  orig: 117, 281
+  offset: 0, 0
+  index: -1
+wave
+  rotate: false
+  xy: 497, 332
+  size: 73, 77
+  orig: 73, 77
+  offset: 0, 0
+  index: -1

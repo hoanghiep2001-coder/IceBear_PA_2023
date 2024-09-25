@@ -1,0 +1,20 @@
+
+Scissor01.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sis01
+  rotate: false
+  xy: 2, 2
+  size: 868, 362
+  orig: 868, 362
+  offset: 0, 0
+  index: -1
+sis02
+  rotate: false
+  xy: 2, 366
+  size: 849, 420
+  orig: 849, 420
+  offset: 0, 0
+  index: -1

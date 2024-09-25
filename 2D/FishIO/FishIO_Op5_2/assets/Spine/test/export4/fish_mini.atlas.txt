@@ -1,0 +1,27 @@
+
+fish_mini.png
+size: 493, 493
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 147
+  size: 385, 344
+  orig: 385, 344
+  offset: 0, 0
+  index: -1
+fin
+  rotate: false
+  xy: 389, 184
+  size: 84, 83
+  orig: 84, 83
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 389, 269
+  size: 102, 222
+  orig: 102, 222
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,316 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "GamePlayAnim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.75,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "line1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -20,
+                -60,
+                0
+              ]
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.4,
+                "y": 0.4,
+                "z": 1
+              }
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": -90
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "line2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -20,
+                -90,
+                0
+              ]
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.4,
+                "y": 0.4,
+                "z": 1
+              }
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": -90
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "line3": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -20,
+                -120,
+                0
+              ]
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.4,
+                "y": 0.4,
+                "z": 1
+              }
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": -90
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.6666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "line4": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -20,
+                -150,
+                0
+              ]
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.4,
+                "y": 0.4,
+                "z": 1
+              }
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": -90
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "line5": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -20,
+                -180,
+                0
+              ]
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.4,
+                "y": 0.4,
+                "z": 1
+              }
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": -90
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "line6": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -20,
+                -210,
+                0
+              ]
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.4,
+                "y": 0.4,
+                "z": 1
+              }
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 90
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "hand": {
+        "props": {
+          "position": [
+            {
+              "frame": 1.8333333333333333,
+              "value": [
+                -62.7,
+                -44.661,
+                0
+              ]
+            },
+            {
+              "frame": 2.75,
+              "value": [
+                -62.7,
+                -190.924,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.8333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": 255
+            },
+            {
+              "frame": 2.75,
+              "value": 0
+            }
+          ],
+          "scale": [
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": -0.3,
+                "y": 0.3,
+                "z": 1
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

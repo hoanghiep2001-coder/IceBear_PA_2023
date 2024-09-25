@@ -1,0 +1,146 @@
+
+Level 14.png
+size: 1229, 1229
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+background
+  rotate: false
+  xy: 2, 301
+  size: 716, 926
+  orig: 723, 934
+  offset: 0, 8
+  index: -1
+background_window
+  rotate: false
+  xy: 720, 815
+  size: 406, 412
+  orig: 406, 412
+  offset: 0, 0
+  index: -1
+boy
+  rotate: false
+  xy: 1048, 393
+  size: 128, 329
+  orig: 128, 329
+  offset: 0, 0
+  index: -1
+boy_eye
+  rotate: false
+  xy: 1101, 726
+  size: 33, 5
+  orig: 33, 5
+  offset: 0, 0
+  index: -1
+boy_face_1
+  rotate: false
+  xy: 1173, 277
+  size: 46, 62
+  orig: 46, 62
+  offset: 0, 0
+  index: -1
+boy_face_2
+  rotate: false
+  xy: 1101, 748
+  size: 52, 65
+  orig: 52, 65
+  offset: 0, 0
+  index: -1
+boy_lids
+  rotate: false
+  xy: 1128, 820
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+girl
+  rotate: false
+  xy: 1048, 11
+  size: 123, 380
+  orig: 123, 380
+  offset: 0, 0
+  index: -1
+girl_eye
+  rotate: false
+  xy: 1176, 843
+  size: 37, 11
+  orig: 37, 11
+  offset: 0, 0
+  index: -1
+girl_face_1
+  rotate: false
+  xy: 1173, 341
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1
+girl_face_2
+  rotate: false
+  xy: 1155, 754
+  size: 57, 64
+  orig: 57, 65
+  offset: 0, 1
+  index: -1
+women
+  rotate: false
+  xy: 720, 57
+  size: 326, 665
+  orig: 326, 665
+  offset: 0, 0
+  index: -1
+women_backhand
+  rotate: false
+  xy: 1128, 1065
+  size: 95, 162
+  orig: 95, 163
+  offset: 0, 0
+  index: -1
+women_eye_1
+  rotate: false
+  xy: 1155, 741
+  size: 52, 11
+  orig: 52, 11
+  offset: 0, 0
+  index: -1
+women_eye_2
+  rotate: false
+  xy: 1101, 733
+  size: 52, 13
+  orig: 52, 13
+  offset: 0, 0
+  index: -1
+women_face_1
+  rotate: false
+  xy: 2, 184
+  size: 111, 115
+  orig: 111, 115
+  offset: 0, 0
+  index: -1
+women_face_2
+  rotate: false
+  xy: 115, 190
+  size: 103, 109
+  orig: 103, 110
+  offset: 0, 0
+  index: -1
+women_hand
+  rotate: false
+  xy: 720, 724
+  size: 379, 89
+  orig: 379, 89
+  offset: 0, 0
+  index: -1
+women_left_hand
+  rotate: false
+  xy: 1128, 856
+  size: 63, 167
+  orig: 63, 167
+  offset: 0, 0
+  index: -1
+women_lids
+  rotate: false
+  xy: 1128, 1025
+  size: 80, 38
+  orig: 80, 38
+  offset: 0, 0
+  index: -1

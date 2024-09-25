@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "power_poles",
+    "texture": "a0d9ad29-4da9-45e9-a904-b82be490a41c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      351,
+      1950
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      351,
+      1950
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

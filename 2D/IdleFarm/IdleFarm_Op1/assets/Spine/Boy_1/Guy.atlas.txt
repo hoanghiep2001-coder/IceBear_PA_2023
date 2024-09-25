@@ -1,0 +1,537 @@
+
+Guy.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+asset/flower01
+  rotate: false
+  xy: 491, 52
+  size: 170, 233
+  orig: 170, 233
+  offset: 0, 0
+  index: -1
+asset/flower02
+  rotate: false
+  xy: 378, 690
+  size: 189, 112
+  orig: 189, 112
+  offset: 0, 0
+  index: -1
+asset/phone
+  rotate: false
+  xy: 68, 717
+  size: 68, 110
+  orig: 68, 110
+  offset: 0, 0
+  index: -1
+b_eye
+  rotate: false
+  xy: 258, 970
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+f_eye
+  rotate: false
+  xy: 258, 970
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+b_eyebrown
+  rotate: false
+  xy: 16, 1003
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+b_hand
+  rotate: false
+  xy: 662, 787
+  size: 53, 99
+  orig: 53, 99
+  offset: 0, 0
+  index: -1
+b_hand1
+  rotate: false
+  xy: 756, 884
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+b_hand_warp02
+  rotate: false
+  xy: 101, 916
+  size: 65, 67
+  orig: 65, 67
+  offset: 0, 0
+  index: -1
+b_hand_wrap
+  rotate: false
+  xy: 972, 955
+  size: 44, 65
+  orig: 44, 65
+  offset: 0, 0
+  index: -1
+b_low_arm
+  rotate: false
+  xy: 214, 556
+  size: 71, 152
+  orig: 71, 152
+  offset: 0, 0
+  index: -1
+b_pup
+  rotate: false
+  xy: 2, 1008
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+f_pup
+  rotate: false
+  xy: 2, 1008
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+b_shoe
+  rotate: false
+  xy: 717, 782
+  size: 131, 97
+  orig: 131, 97
+  offset: 0, 0
+  index: -1
+f_eyebrown
+  rotate: false
+  xy: 54, 1000
+  size: 49, 20
+  orig: 49, 20
+  offset: 0, 0
+  index: -1
+f_hand
+  rotate: false
+  xy: 900, 769
+  size: 70, 104
+  orig: 70, 104
+  offset: 0, 0
+  index: -1
+f_low_arm
+  rotate: false
+  xy: 2, 576
+  size: 60, 169
+  orig: 60, 169
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 186
+  size: 160, 202
+  orig: 160, 202
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 635, 644
+  size: 169, 136
+  orig: 169, 136
+  offset: 0, 0
+  index: -1
+hand03
+  rotate: false
+  xy: 822, 881
+  size: 69, 79
+  orig: 69, 79
+  offset: 0, 0
+  index: -1
+hand04
+  rotate: false
+  xy: 2, 937
+  size: 97, 61
+  orig: 97, 61
+  offset: 0, 0
+  index: -1
+hand05
+  rotate: false
+  xy: 458, 893
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+hand06
+  rotate: false
+  xy: 570, 796
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+hand07
+  rotate: false
+  xy: 893, 875
+  size: 91, 78
+  orig: 91, 78
+  offset: 0, 0
+  index: -1
+hand08
+  rotate: false
+  xy: 2, 747
+  size: 64, 108
+  orig: 64, 108
+  offset: 0, 0
+  index: -1
+hand10
+  rotate: false
+  xy: 168, 909
+  size: 65, 67
+  orig: 65, 67
+  offset: 0, 0
+  index: -1
+hand11
+  rotate: false
+  xy: 143, 821
+  size: 103, 80
+  orig: 103, 80
+  offset: 0, 0
+  index: -1
+hand12
+  rotate: false
+  xy: 648, 888
+  size: 79, 77
+  orig: 79, 77
+  offset: 0, 0
+  index: -1
+hand15
+  rotate: false
+  xy: 365, 815
+  size: 57, 86
+  orig: 57, 86
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: false
+  xy: 105, 992
+  size: 52, 28
+  orig: 52, 28
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 871, 962
+  size: 32, 58
+  orig: 32, 58
+  offset: 0, 0
+  index: -1
+spray/smoke
+  rotate: false
+  xy: 806, 630
+  size: 148, 137
+  orig: 148, 137
+  offset: 0, 0
+  index: -1
+spray/smoke02
+  rotate: false
+  xy: 64, 571
+  size: 148, 137
+  orig: 148, 137
+  offset: 0, 0
+  index: -1
+spray/spray01
+  rotate: false
+  xy: 867, 443
+  size: 89, 185
+  orig: 89, 185
+  offset: 0, 0
+  index: -1
+spray/spray02
+  rotate: false
+  xy: 2, 857
+  size: 82, 78
+  orig: 82, 78
+  offset: 0, 0
+  index: -1
+story02/coke_bottle
+  rotate: false
+  xy: 351, 352
+  size: 68, 197
+  orig: 68, 197
+  offset: 0, 0
+  index: -1
+story02/ice_cream01
+  rotate: false
+  xy: 569, 682
+  size: 64, 112
+  orig: 64, 112
+  offset: 0, 0
+  index: -1
+story02/love_pipe
+  rotate: false
+  xy: 972, 698
+  size: 42, 163
+  orig: 42, 163
+  offset: 0, 0
+  index: -1
+story02/meat_stick
+  rotate: false
+  xy: 463, 967
+  size: 295, 53
+  orig: 295, 53
+  offset: 0, 0
+  index: -1
+story02/phone_music
+  rotate: false
+  xy: 308, 703
+  size: 68, 110
+  orig: 68, 110
+  offset: 0, 0
+  index: -1
+story02/picnic_basket
+  rotate: false
+  xy: 259, 137
+  size: 230, 207
+  orig: 230, 207
+  offset: 0, 0
+  index: -1
+story03/broom01
+  rotate: false
+  xy: 958, 427
+  size: 31, 269
+  orig: 31, 269
+  offset: 0, 0
+  index: -1
+story03/broom02
+  rotate: false
+  xy: 801, 234
+  size: 147, 207
+  orig: 147, 207
+  offset: 0, 0
+  index: -1
+story03/sandal
+  rotate: false
+  xy: 310, 969
+  size: 151, 51
+  orig: 151, 51
+  offset: 0, 0
+  index: -1
+story05/b_up_arm
+  rotate: false
+  xy: 421, 346
+  size: 89, 203
+  orig: 89, 203
+  offset: 0, 0
+  index: -1
+story05/f_feet
+  rotate: false
+  xy: 248, 819
+  size: 115, 82
+  orig: 115, 82
+  offset: 0, 0
+  index: -1
+story05/f_low_leg
+  rotate: false
+  xy: 278, 363
+  size: 71, 186
+  orig: 71, 186
+  offset: 0, 0
+  index: -1
+story05/f_up_arm
+  rotate: false
+  xy: 512, 312
+  size: 89, 203
+  orig: 89, 203
+  offset: 0, 0
+  index: -1
+story05/f_up_leg
+  rotate: false
+  xy: 164, 162
+  size: 93, 226
+  orig: 93, 226
+  offset: 0, 0
+  index: -1
+story06/cherry
+  rotate: false
+  xy: 905, 961
+  size: 65, 59
+  orig: 65, 59
+  offset: 0, 0
+  index: -1
+story06/wallet
+  rotate: false
+  xy: 424, 804
+  size: 144, 86
+  orig: 144, 86
+  offset: 0, 0
+  index: -1
+story06/wine_glass
+  rotate: false
+  xy: 563, 517
+  size: 68, 163
+  orig: 68, 163
+  offset: 0, 0
+  index: -1
+story06/wine_liquid
+  rotate: false
+  xy: 86, 829
+  size: 55, 85
+  orig: 55, 85
+  offset: 0, 0
+  index: -1
+story07/gift_box
+  rotate: false
+  xy: 603, 287
+  size: 196, 200
+  orig: 196, 200
+  offset: 0, 0
+  index: -1
+story07/lipstick01
+  rotate: false
+  xy: 986, 863
+  size: 34, 90
+  orig: 34, 90
+  offset: 0, 0
+  index: -1
+story07/lipstick02
+  rotate: false
+  xy: 729, 885
+  size: 25, 80
+  orig: 25, 80
+  offset: 0, 0
+  index: -1
+story08/car_key
+  rotate: false
+  xy: 850, 771
+  size: 48, 102
+  orig: 48, 102
+  offset: 0, 0
+  index: -1
+story08/credit_card
+  rotate: false
+  xy: 532, 892
+  size: 114, 73
+  orig: 114, 73
+  offset: 0, 0
+  index: -1
+story08/gem
+  rotate: false
+  xy: 194, 978
+  size: 62, 42
+  orig: 62, 42
+  offset: 0, 0
+  index: -1
+story08/hat_cowboy
+  rotate: false
+  xy: 633, 489
+  size: 232, 139
+  orig: 232, 139
+  offset: 0, 0
+  index: -1
+story08/ring
+  rotate: false
+  xy: 159, 985
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+story09/cake_dish
+  rotate: false
+  xy: 235, 903
+  size: 221, 64
+  orig: 221, 64
+  offset: 0, 0
+  index: -1
+story09/fireex02
+  rotate: false
+  xy: 760, 964
+  size: 109, 56
+  orig: 109, 56
+  offset: 0, 0
+  index: -1
+story09/gift_box
+  rotate: false
+  xy: 2, 390
+  size: 274, 164
+  orig: 274, 164
+  offset: 0, 0
+  index: -1
+story09/gift_box_cap
+  rotate: false
+  xy: 287, 551
+  size: 274, 137
+  orig: 274, 137
+  offset: 0, 0
+  index: -1
+story09/hammer
+  rotate: false
+  xy: 138, 710
+  size: 168, 107
+  orig: 168, 107
+  offset: 0, 0
+  index: -1
+
+Guy_2.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+story02/wire
+  rotate: false
+  xy: 674, 688
+  size: 326, 312
+  orig: 326, 312
+  offset: 0, 0
+  index: -1
+story03/umbrella01
+  rotate: false
+  xy: 2, 773
+  size: 670, 227
+  orig: 670, 227
+  offset: 0, 0
+  index: -1
+story03/umbrella02
+  rotate: false
+  xy: 878, 79
+  size: 109, 607
+  orig: 109, 607
+  offset: 0, 0
+  index: -1
+story05/swim_body
+  rotate: false
+  xy: 450, 357
+  size: 219, 414
+  orig: 219, 414
+  offset: 0, 0
+  index: -1
+story06/guitar
+  rotate: false
+  xy: 2, 443
+  size: 446, 328
+  orig: 446, 328
+  offset: 0, 0
+  index: -1
+story09/basketsball_stick
+  rotate: false
+  xy: 342, 152
+  size: 390, 203
+  orig: 390, 203
+  offset: 0, 0
+  index: -1
+story09/birthday_cake
+  rotate: false
+  xy: 671, 453
+  size: 205, 233
+  orig: 205, 233
+  offset: 0, 0
+  index: -1
+story09/dress_01
+  rotate: false
+  xy: 2, 18
+  size: 205, 423
+  orig: 205, 423
+  offset: 0, 0
+  index: -1
+story09/fireex01
+  rotate: false
+  xy: 209, 59
+  size: 131, 382
+  orig: 131, 382
+  offset: 0, 0
+  index: -1

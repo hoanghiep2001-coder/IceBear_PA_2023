@@ -1,0 +1,286 @@
+
+Girl.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_pup
+  rotate: false
+  xy: 386, 325
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+eyebrow_1
+  rotate: false
+  xy: 70, 64
+  size: 55, 17
+  orig: 55, 17
+  offset: 0, 0
+  index: -1
+eyebrow_2
+  rotate: false
+  xy: 221, 159
+  size: 63, 11
+  orig: 63, 11
+  offset: 0, 0
+  index: -1
+eyebrow_3
+  rotate: false
+  xy: 2, 138
+  size: 70, 56
+  orig: 70, 56
+  offset: 0, 0
+  index: -1
+eyebrow_4
+  rotate: false
+  xy: 318, 178
+  size: 56, 20
+  orig: 56, 20
+  offset: 0, 0
+  index: -1
+eyebrow_5
+  rotate: false
+  xy: 2, 57
+  size: 66, 55
+  orig: 66, 55
+  offset: 0, 0
+  index: -1
+eyebrow_6
+  rotate: false
+  xy: 2, 114
+  size: 68, 22
+  orig: 68, 22
+  offset: 0, 0
+  index: -1
+eyebrow_7
+  rotate: false
+  xy: 145, 209
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: -1
+eyebrow_8
+  rotate: false
+  xy: 341, 293
+  size: 53, 20
+  orig: 53, 20
+  offset: 0, 0
+  index: -1
+eyebrow_9
+  rotate: false
+  xy: 341, 282
+  size: 61, 9
+  orig: 61, 9
+  offset: 0, 0
+  index: -1
+f_pup
+  rotate: false
+  xy: 372, 325
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+l_close_eye
+  rotate: false
+  xy: 194, 271
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+l_eye
+  rotate: false
+  xy: 285, 200
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+l_eye_stun
+  rotate: false
+  xy: 145, 239
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+l_eyelid_1
+  rotate: false
+  xy: 170, 144
+  size: 45, 24
+  orig: 45, 24
+  offset: 0, 0
+  index: -1
+l_eyelid_2
+  rotate: false
+  xy: 372, 391
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+r_eyelid_2
+  rotate: false
+  xy: 372, 391
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+l_eyelid_3
+  rotate: false
+  xy: 372, 355
+  size: 34, 15
+  orig: 34, 15
+  offset: 0, 0
+  index: -1
+mouth_angry
+  rotate: false
+  xy: 221, 172
+  size: 57, 35
+  orig: 57, 35
+  offset: 0, 0
+  index: -1
+mouth_angry_2
+  rotate: false
+  xy: 190, 239
+  size: 56, 30
+  orig: 56, 30
+  offset: 0, 0
+  index: -1
+mouth_erhh
+  rotate: false
+  xy: 372, 339
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+mouth_happy
+  rotate: false
+  xy: 207, 209
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+mouth_hehe
+  rotate: false
+  xy: 294, 242
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+mouth_scare
+  rotate: false
+  xy: 248, 239
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+mouth_smile
+  rotate: false
+  xy: 372, 372
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+mouth_terrible
+  rotate: false
+  xy: 170, 170
+  size: 49, 37
+  orig: 49, 37
+  offset: 0, 0
+  index: -1
+r_close_eye
+  rotate: false
+  xy: 244, 271
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+r_eye
+  rotate: false
+  xy: 294, 276
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+r_eyelid_1
+  rotate: false
+  xy: 286, 153
+  size: 39, 17
+  orig: 39, 17
+  offset: 0, 0
+  index: -1
+skin/skin06/girl_b_arm
+  rotate: false
+  xy: 145, 285
+  size: 47, 125
+  orig: 47, 125
+  offset: 0, 0
+  index: -1
+skin/skin06/girl_b_leg
+  rotate: false
+  xy: 74, 83
+  size: 51, 111
+  orig: 51, 111
+  offset: 0, 0
+  index: -1
+skin/skin06/girl_f_leg
+  rotate: false
+  xy: 74, 83
+  size: 51, 111
+  orig: 51, 111
+  offset: 0, 0
+  index: -1
+skin/skin06/girl_f_arm
+  rotate: false
+  xy: 127, 66
+  size: 41, 128
+  orig: 41, 128
+  offset: 0, 0
+  index: -1
+skin/skin06/girl_head
+  rotate: false
+  xy: 2, 196
+  size: 141, 214
+  orig: 141, 214
+  offset: 0, 0
+  index: -1
+skin/skin06/girl_lower_body
+  rotate: false
+  xy: 194, 311
+  size: 84, 99
+  orig: 84, 99
+  offset: 0, 0
+  index: -1
+skin/skin06/girl_upper_body
+  rotate: false
+  xy: 280, 315
+  size: 90, 95
+  orig: 90, 95
+  offset: 0, 0
+  index: -1
+skin/skin06/nose1
+  rotate: false
+  xy: 297, 173
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+sweat_1
+  rotate: false
+  xy: 268, 211
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+sweat_2
+  rotate: false
+  xy: 252, 210
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1
+sweat_3
+  rotate: false
+  xy: 280, 172
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1

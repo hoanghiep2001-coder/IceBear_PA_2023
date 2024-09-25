@@ -1,0 +1,330 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ItemAnim2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "ItemButton1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -40,
+                -72,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -260,
+                -72,
+                0
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                -40,
+                -72,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "ItemButton2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                40,
+                -72,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                260,
+                -72,
+                0
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                40,
+                -72,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "ItemButton3": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -40,
+                -152.744,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -260,
+                -152.744,
+                0
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                -40,
+                -152.744,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "ItemButton4": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                40,
+                -152.744,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                260,
+                -152.744,
+                0
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                40,
+                -152.744,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "ItemButton1/item1": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "17b81450-31fe-4bc0-83aa-4fc2e5d33914"
+                }
+              },
+              {
+                "frame": 1,
+                "value": {
+                  "__uuid__": "a82bdf9e-d5a1-427a-a750-617dfb9fa628"
+                }
+              }
+            ]
+          }
+        },
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1.3,
+                "y": 1.3,
+                "z": 1
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1.8,
+                "y": 1.8,
+                "z": 1
+              }
+            }
+          ]
+        }
+      },
+      "ItemButton2/item2": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.8,
+                "y": 0.8,
+                "z": 1
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.8,
+                "y": 0.8,
+                "z": 1
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1.8,
+                "y": 1.8,
+                "z": 1
+              }
+            }
+          ]
+        },
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "c70f9d69-4b52-45b3-906d-ff9312208075"
+                }
+              },
+              {
+                "frame": 1,
+                "value": {
+                  "__uuid__": "65a9681a-4743-4fcc-baea-9500102edaf4"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "ItemButton3/item3": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1.7,
+                "y": 1.7,
+                "z": 1
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1.7,
+                "y": 1.7,
+                "z": 1
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1.8,
+                "y": 1.8,
+                "z": 1
+              }
+            }
+          ]
+        },
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "daf684cf-2dfe-475e-b0a9-9c3520a583bf"
+                }
+              },
+              {
+                "frame": 1,
+                "value": {
+                  "__uuid__": "4633a344-3af1-434e-8ee6-24f94a9dfef0"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "ItemButton4/item4": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1,
+                "y": 1,
+                "z": 1
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1,
+                "y": 1,
+                "z": 1
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1.8,
+                "y": 1.8,
+                "z": 1
+              }
+            }
+          ]
+        },
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "8de61406-1eea-44a4-93d7-4deda07a9431"
+                }
+              },
+              {
+                "frame": 1,
+                "value": {
+                  "__uuid__": "f9003289-000d-46ec-8c67-ff72f50aa39e"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": []
+}

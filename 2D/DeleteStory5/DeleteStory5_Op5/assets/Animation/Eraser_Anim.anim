@@ -1,0 +1,82 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Eraser_Anim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4.016666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -85,
+            -33
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 1,
+          "value": [
+            39.2,
+            -17.9
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 1.6666666666666667,
+          "value": [
+            25.7,
+            19.7
+          ],
+          "motionPath": [
+            [
+              14.3,
+              1.5,
+              16.9,
+              11.1,
+              11.8,
+              -7.6
+            ]
+          ]
+        },
+        {
+          "frame": 2.3333333333333335,
+          "value": [
+            15.4,
+            -17.9
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 3,
+          "value": [
+            -55.1,
+            -29.8
+          ],
+          "motionPath": [
+            [
+              -55.5,
+              10.9,
+              -65.3,
+              -2.8,
+              -48.1,
+              21.3
+            ]
+          ]
+        },
+        {
+          "frame": 4.016666666666667,
+          "value": [
+            -19.9,
+            19.2
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

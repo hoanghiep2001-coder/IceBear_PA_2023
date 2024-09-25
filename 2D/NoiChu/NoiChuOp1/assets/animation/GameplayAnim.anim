@@ -1,0 +1,150 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "GameplayAnim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.3333333333333335,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "TitleContainer/Text": {
+        "comps": {},
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.5,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "BoxContainer/box_an van": {
+        "comps": {},
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "BoxContainer/box_do an": {
+        "comps": {},
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "BoxContainer/box_van den_": {
+        "comps": {},
+        "props": {
+          "opacity": [
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 1.5,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "BoxContainer/main_button_Den": {
+        "comps": {},
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.5,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "BoxContainer/button_Xi": {
+        "comps": {},
+        "props": {
+          "opacity": [
+            {
+              "frame": 2,
+              "value": 0
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "BoxContainer/button_Vau": {
+        "comps": {},
+        "props": {
+          "opacity": [
+            {
+              "frame": 2,
+              "value": 0
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "BoxContainer/button_Si": {
+        "comps": {},
+        "props": {
+          "opacity": [
+            {
+              "frame": 2,
+              "value": 0
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "BoxContainer/button_Dui_": {
+        "comps": {},
+        "props": {
+          "opacity": [
+            {
+              "frame": 2,
+              "value": 0
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

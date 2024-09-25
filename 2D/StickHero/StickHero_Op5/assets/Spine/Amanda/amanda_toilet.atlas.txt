@@ -1,0 +1,62 @@
+
+amanda_toilet.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banban_toilet/head
+  rotate: false
+  xy: 899, 781
+  size: 105, 223
+  orig: 105, 223
+  offset: 0, 0
+  index: -1
+boss/head
+  rotate: true
+  xy: 2, 514
+  size: 218, 278
+  orig: 218, 278
+  offset: 0, 0
+  index: -1
+camara/head
+  rotate: false
+  xy: 778, 624
+  size: 217, 132
+  orig: 217, 132
+  offset: 0, 0
+  index: -1
+co
+  rotate: true
+  xy: 565, 615
+  size: 141, 211
+  orig: 150, 213
+  offset: 7, 1
+  index: -1
+head
+  rotate: false
+  xy: 2, 734
+  size: 295, 270
+  orig: 297, 272
+  offset: 1, 1
+  index: -1
+juan_toliet/head
+  rotate: false
+  xy: 628, 758
+  size: 269, 246
+  orig: 269, 246
+  offset: 0, 0
+  index: -1
+rainbow_toliet/head
+  rotate: true
+  xy: 299, 537
+  size: 238, 264
+  orig: 238, 264
+  offset: 0, 0
+  index: -1
+toliet
+  rotate: true
+  xy: 299, 777
+  size: 227, 327
+  orig: 229, 329
+  offset: 1, 1
+  index: -1

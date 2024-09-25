@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "ef8e5eea-b8c0-440d-9a8c-1f059cf7bae0",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 389,
+  "height": 76,
+  "platformSettings": {},
+  "subMetas": {
+    "We just launched a  new model of glasses": {
+      "ver": "1.0.6",
+      "uuid": "753a6b66-e474-497a-87da-6a5d8d642142",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "ef8e5eea-b8c0-440d-9a8c-1f059cf7bae0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 389,
+      "height": 76,
+      "rawWidth": 389,
+      "rawHeight": 76,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "scaleLogo",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 1.5,
+          "value": [
+            0,
+            160,
+            0
+          ]
+        },
+        {
+          "frame": 2.5,
+          "value": [
+            0,
+            47,
+            0
+          ]
+        }
+      ],
+      "scale": [
+        {
+          "frame": 1.5,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 0.4,
+            "y": 0.4,
+            "z": 0.4
+          }
+        },
+        {
+          "frame": 2.5,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 0.5,
+            "y": 0.5,
+            "z": 0.4
+          }
+        }
+      ]
+    }
+  },
+  "events": []
+}

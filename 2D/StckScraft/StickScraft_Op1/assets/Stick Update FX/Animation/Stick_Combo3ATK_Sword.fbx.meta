@@ -1,0 +1,173 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e41a4b0c-63a2-4519-a46e-3e5a78a853fd",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "27971": {
+      "importer": "gltf-animation",
+      "uuid": "e41a4b0c-63a2-4519-a46e-3e5a78a853fd@27971",
+      "displayName": "",
+      "id": "27971",
+      "name": "Sword_2.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 1,
+        "speed": 1,
+        "sample": 30,
+        "span": {
+          "from": 0.6666666666666666,
+          "to": 1.3333333333333333
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "32a5a": {
+      "importer": "gltf-animation",
+      "uuid": "e41a4b0c-63a2-4519-a46e-3e5a78a853fd@32a5a",
+      "displayName": "",
+      "id": "32a5a",
+      "name": "Sword.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.28
+        },
+        "events": [],
+        "speed": 1
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "de666": {
+      "importer": "gltf-animation",
+      "uuid": "e41a4b0c-63a2-4519-a46e-3e5a78a853fd@de666",
+      "displayName": "",
+      "id": "de666",
+      "name": "Sword_1.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 1,
+        "speed": 1,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.66
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "f4a0d": {
+      "importer": "gltf-animation",
+      "uuid": "e41a4b0c-63a2-4519-a46e-3e5a78a853fd@f4a0d",
+      "displayName": "",
+      "id": "f4a0d",
+      "name": "Sword_3.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 1,
+        "speed": 1,
+        "sample": 30,
+        "span": {
+          "from": 1.43,
+          "to": 2.3333332538604736
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "4a6eb": {
+      "importer": "gltf-scene",
+      "uuid": "e41a4b0c-63a2-4519-a46e-3e5a78a853fd@4a6eb",
+      "displayName": "",
+      "id": "4a6eb",
+      "name": "Stick_Combo3ATK_Sword.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Sword",
+        "duration": 2.3333332538604736,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Sword",
+            "from": 0,
+            "to": 2.28,
+            "wrapMode": 2
+          },
+          {
+            "name": "Sword_1",
+            "from": 0,
+            "to": 0.66,
+            "wrapMode": 1,
+            "speed": 1
+          },
+          {
+            "name": "Sword_2",
+            "from": 0.6666666666666666,
+            "to": 1.3333333333333333,
+            "wrapMode": 1,
+            "speed": 1
+          },
+          {
+            "name": "Sword_3",
+            "from": 1.43,
+            "to": 2.3333332538604736,
+            "wrapMode": 1,
+            "speed": 1
+          }
+        ]
+      }
+    ],
+    "redirect": "e41a4b0c-63a2-4519-a46e-3e5a78a853fd@4a6eb",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "e41a4b0c-63a2-4519-a46e-3e5a78a853fd@4a6eb"
+      ]
+    }
+  }
+}

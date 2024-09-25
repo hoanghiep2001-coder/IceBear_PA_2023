@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "c403a828-25c1-43ef-8cfc-5aaaac1266d6",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 432,
+  "height": 33,
+  "platformSettings": {},
+  "subMetas": {
+    "Your girlfriend left you__": {
+      "ver": "1.0.6",
+      "uuid": "13bee5ad-e5f5-43a4-9c8e-77e37c31cb47",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "c403a828-25c1-43ef-8cfc-5aaaac1266d6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 432,
+      "height": 33,
+      "rawWidth": 432,
+      "rawHeight": 33,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

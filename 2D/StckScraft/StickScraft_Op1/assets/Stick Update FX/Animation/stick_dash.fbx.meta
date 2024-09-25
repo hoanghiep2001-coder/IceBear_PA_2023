@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "89b5175f-ac25-48d5-b7e1-d585b7a08779",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "32109": {
+      "importer": "gltf-animation",
+      "uuid": "89b5175f-ac25-48d5-b7e1-d585b7a08779@32109",
+      "displayName": "",
+      "id": "32109",
+      "name": "Stick.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.8999999761581421
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "7dee2": {
+      "importer": "gltf-scene",
+      "uuid": "89b5175f-ac25-48d5-b7e1-d585b7a08779@7dee2",
+      "displayName": "",
+      "id": "7dee2",
+      "name": "stick_dash.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Stick",
+        "duration": 0.8999999761581421,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Stick",
+            "from": 0,
+            "to": 0.8999999761581421,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "89b5175f-ac25-48d5-b7e1-d585b7a08779@7dee2",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "89b5175f-ac25-48d5-b7e1-d585b7a08779@7dee2"
+      ]
+    }
+  }
+}

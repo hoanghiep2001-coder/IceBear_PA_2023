@@ -1,0 +1,63 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "index",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.15,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 0.168,
+            "y": 0.168,
+            "z": 0.168
+          }
+        },
+        {
+          "frame": 0.06666666666666667,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 0.213,
+            "y": 0.213,
+            "z": 0.213
+          }
+        },
+        {
+          "frame": 0.1,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 0.203,
+            "y": 0.203,
+            "z": 0.203
+          }
+        },
+        {
+          "frame": 0.15,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 0.253,
+            "y": 0.253,
+            "z": 0.253
+          }
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0.1,
+          "value": 255
+        },
+        {
+          "frame": 0.15,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

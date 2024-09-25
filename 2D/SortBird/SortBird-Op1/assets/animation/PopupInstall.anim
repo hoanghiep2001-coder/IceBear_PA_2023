@@ -1,0 +1,105 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "PopupInstall",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 10.516666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Cover": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 170.085
+            }
+          ]
+        }
+      },
+      "tap02": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                327.32,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                0,
+                109.445,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "BtnPlayNow": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                -352.979,
+                0
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                0,
+                -352.979,
+                0
+              ]
+            },
+            {
+              "frame": 1.5,
+              "value": [
+                0,
+                -4.769,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "BtnPlayNow/img_glow_optimized": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 10,
+              "value": 1440
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 9.983333333333333,
+              "value": 255
+            },
+            {
+              "frame": 10.516666666666667,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

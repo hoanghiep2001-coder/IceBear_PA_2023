@@ -1,0 +1,169 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Mobile_SwapPrincess",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.8333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Sub_Character_1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -55,
+                -45,
+                0
+              ]
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                -130,
+                -45,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Sub_Character_2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                55,
+                -45,
+                0
+              ]
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                130,
+                -45,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Character_3": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                -270,
+                -60,
+                0
+              ]
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": [
+                -55,
+                -60,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.6666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Character_4": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                270,
+                -60,
+                0
+              ]
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": [
+                55,
+                -60,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.6666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "title": {
+        "props": {
+          "skewX": [
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 20
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 10
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 20
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_helpbird",
+    "texture": "b0847ef9-76dd-441a-a431-9acecee6f306",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      845,
+      175
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      845,
+      175
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

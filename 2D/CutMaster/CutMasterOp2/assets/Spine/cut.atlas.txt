@@ -1,0 +1,34 @@
+
+cut.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood/Blood_F1
+  rotate: false
+  xy: 2, 2
+  size: 301, 346
+  orig: 301, 346
+  offset: 0, 0
+  index: -1
+blood/Blood_F2
+  rotate: false
+  xy: 305, 2
+  size: 301, 346
+  orig: 301, 346
+  offset: 0, 0
+  index: -1
+blood/Blood_F3
+  rotate: false
+  xy: 608, 2
+  size: 301, 346
+  orig: 301, 346
+  offset: 0, 0
+  index: -1
+blood/Blood_F4
+  rotate: false
+  xy: 911, 2
+  size: 301, 346
+  orig: 301, 346
+  offset: 0, 0
+  index: -1

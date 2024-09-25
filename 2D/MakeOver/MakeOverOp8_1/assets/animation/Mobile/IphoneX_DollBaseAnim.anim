@@ -1,0 +1,139 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "IphoneX_DollBaseAnim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 1,
+            "y": 1,
+            "z": 1
+          }
+        },
+        {
+          "frame": 2,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 6,
+            "y": 6,
+            "z": 1
+          }
+        }
+      ],
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 2,
+          "value": [
+            166,
+            -108,
+            0
+          ]
+        }
+      ]
+    },
+    "paths": {
+      "Impacts": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Whac-A-Mole": {
+        "props": {
+          "position": [
+            {
+              "frame": 1.5,
+              "value": [
+                -28,
+                100,
+                0
+              ]
+            },
+            {
+              "frame": 2.5,
+              "value": [
+                -28,
+                50,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.5,
+              "value": 0
+            },
+            {
+              "frame": 2.5,
+              "value": 255
+            }
+          ],
+          "scale": [
+            {
+              "frame": 2.5,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.05,
+                "y": 0.05,
+                "z": 1
+              }
+            },
+            {
+              "frame": 2.8333333333333335,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.035,
+                "y": 0.035,
+                "z": 1
+              }
+            },
+            {
+              "frame": 3.1666666666666665,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.04,
+                "y": 0.04,
+                "z": 1
+              }
+            },
+            {
+              "frame": 3.5,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.035,
+                "y": 0.035,
+                "z": 1
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

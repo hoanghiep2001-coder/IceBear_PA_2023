@@ -1,0 +1,47 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "CanvasUpRange",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Canvas": {
+        "designResolution": [
+          {
+            "frame": 0,
+            "value": {
+              "width": 480,
+              "height": 320
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "width": 720,
+              "height": 480
+            }
+          }
+        ]
+      },
+      "cc.Widget": {
+        "top": [
+          {
+            "frame": 0,
+            "value": 0
+          }
+        ],
+        "right": [
+          {
+            "frame": 0,
+            "value": 0
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

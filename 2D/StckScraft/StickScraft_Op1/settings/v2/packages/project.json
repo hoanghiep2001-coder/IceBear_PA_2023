@@ -1,0 +1,37 @@
+{
+  "general": {
+    "designResolution": {
+      "width": 480,
+      "height": 320,
+      "fitHeight": true
+    }
+  },
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "Ground"
+      },
+      {
+        "index": 2,
+        "name": "Character"
+      },
+      {
+        "index": 3,
+        "name": "Enemy"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 0,
+      "1": 12,
+      "2": 10,
+      "3": 14
+    },
+    "defaultMaterial": {
+      "friction": 0
+    },
+    "gravity": {
+      "y": -100
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "22163e1f-7fa2-4ee2-8f01-c7a71c1499c8",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 155,
+  "height": 142,
+  "platformSettings": {},
+  "subMetas": {
+    "ic_tool_skincare_drop1": {
+      "ver": "1.0.6",
+      "uuid": "686c3ee8-9a31-4453-8037-71f59f65d296",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "22163e1f-7fa2-4ee2-8f01-c7a71c1499c8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 153,
+      "height": 142,
+      "rawWidth": 155,
+      "rawHeight": 142,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

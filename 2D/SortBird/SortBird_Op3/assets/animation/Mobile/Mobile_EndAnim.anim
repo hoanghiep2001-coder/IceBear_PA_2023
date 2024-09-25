@@ -1,0 +1,199 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Mobile_EndAnim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3.1666666666666665,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "logo": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.5,
+              "value": [
+                0,
+                300,
+                0
+              ]
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": [
+                0,
+                165,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.5,
+              "value": 0
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 255
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.5,
+                "y": 0.5,
+                "z": 1
+              }
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.65,
+                "y": 0.65,
+                "z": 1
+              }
+            }
+          ]
+        }
+      },
+      "boss2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.1666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": 255
+            }
+          ],
+          "scale": [
+            {
+              "frame": 1.1666666666666667,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.65,
+                "y": 0.65,
+                "z": 1
+              }
+            }
+          ]
+        }
+      },
+      "btn_tryagain": {
+        "props": {
+          "position": [
+            {
+              "frame": 1.8333333333333333,
+              "value": [
+                0,
+                -285.416,
+                0
+              ]
+            },
+            {
+              "frame": 2.5,
+              "value": [
+                0,
+                -184.653,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.8333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 2.5,
+              "value": 255
+            }
+          ],
+          "scale": [
+            {
+              "frame": 2.5,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.3,
+                "y": 0.3,
+                "z": 0
+              }
+            },
+            {
+              "frame": 2.6666666666666665,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.35,
+                "y": 0.35,
+                "z": 0
+              }
+            },
+            {
+              "frame": 2.8333333333333335,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.3,
+                "y": 0.3,
+                "z": 0
+              }
+            },
+            {
+              "frame": 3,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.35,
+                "y": 0.35,
+                "z": 0
+              }
+            },
+            {
+              "frame": 3.1666666666666665,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.3,
+                "y": 0.3,
+                "z": 0
+              }
+            }
+          ]
+        }
+      },
+      "overlay": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "red_banner": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a8833cb0-3b31-41c4-9269-bc66540c6d59",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "stickman fighter_4": {
+      "ver": "1.0.6",
+      "uuid": "043e71a1-d526-4e65-8c1a-6c50d9330ec4",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a8833cb0-3b31-41c4-9269-bc66540c6d59",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -47.5,
+      "trimX": 2,
+      "trimY": 97,
+      "width": 508,
+      "height": 413,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

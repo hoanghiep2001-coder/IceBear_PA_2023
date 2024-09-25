@@ -1,0 +1,123 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "44976b8f-d1a4-4322-9373-d6bae982d074",
+  "files": [],
+  "subMetas": {
+    "61433": {
+      "importer": "gltf-scene",
+      "uuid": "44976b8f-d1a4-4322-9373-d6bae982d074@61433",
+      "displayName": "",
+      "id": "61433",
+      "name": "bow_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3bf2a": {
+      "importer": "gltf-mesh",
+      "uuid": "44976b8f-d1a4-4322-9373-d6bae982d074@3bf2a",
+      "displayName": "",
+      "id": "3bf2a",
+      "name": "bow_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "43c71": {
+      "importer": "gltf-embeded-image",
+      "uuid": "44976b8f-d1a4-4322-9373-d6bae982d074@43c71",
+      "displayName": "",
+      "id": "43c71",
+      "name": "file1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d20e9": {
+      "importer": "texture",
+      "uuid": "44976b8f-d1a4-4322-9373-d6bae982d074@d20e9",
+      "displayName": "",
+      "id": "d20e9",
+      "name": "file1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "44976b8f-d1a4-4322-9373-d6bae982d074@43c71"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c4a77": {
+      "importer": "gltf-material",
+      "uuid": "44976b8f-d1a4-4322-9373-d6bae982d074@c4a77",
+      "displayName": "",
+      "id": "c4a77",
+      "name": "megatexture_bow.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1",
+        "uri": "44976b8f-d1a4-4322-9373-d6bae982d074@43c71"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "44976b8f-d1a4-4322-9373-d6bae982d074@61433",
+    "assetFinder": {
+      "meshes": [
+        "44976b8f-d1a4-4322-9373-d6bae982d074@3bf2a"
+      ],
+      "skeletons": [],
+      "textures": [
+        "44976b8f-d1a4-4322-9373-d6bae982d074@d20e9"
+      ],
+      "materials": [
+        "44976b8f-d1a4-4322-9373-d6bae982d074@c4a77"
+      ],
+      "scenes": [
+        "44976b8f-d1a4-4322-9373-d6bae982d074@61433"
+      ]
+    }
+  }
+}

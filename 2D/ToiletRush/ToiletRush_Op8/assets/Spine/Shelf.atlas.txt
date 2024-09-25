@@ -1,0 +1,34 @@
+
+Shelf.png
+size: 2048, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+box
+  rotate: false
+  xy: 738, 298
+  size: 504, 566
+  orig: 504, 566
+  offset: 0, 0
+  index: -1
+shelf01
+  rotate: false
+  xy: 2, 402
+  size: 734, 462
+  orig: 734, 462
+  offset: 0, 0
+  index: -1
+shelf02
+  rotate: false
+  xy: 1244, 336
+  size: 46, 528
+  orig: 46, 528
+  offset: 0, 0
+  index: -1
+shelf03
+  rotate: false
+  xy: 2, 2
+  size: 734, 398
+  orig: 734, 398
+  offset: 0, 0
+  index: -1

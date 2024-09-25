@@ -1,0 +1,93 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Hand_HintAnimLv2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            0
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            41.6,
+            41.6
+          ],
+          "motionPath": [
+            [
+              58.5,
+              103.8,
+              44.4,
+              76.3,
+              71.9,
+              129.7
+            ]
+          ]
+        },
+        {
+          "frame": 1.5,
+          "value": [
+            96.7,
+            148.5
+          ],
+          "motionPath": [
+            [
+              135.7,
+              107.9,
+              125,
+              132.6,
+              150.5,
+              73.6
+            ]
+          ]
+        },
+        {
+          "frame": 2.5,
+          "value": [
+            149,
+            27.2
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 3,
+          "value": [
+            94.913,
+            19.349,
+            0
+          ]
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.5,
+          "value": 255
+        },
+        {
+          "frame": 2.5,
+          "value": 255
+        },
+        {
+          "frame": 3,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

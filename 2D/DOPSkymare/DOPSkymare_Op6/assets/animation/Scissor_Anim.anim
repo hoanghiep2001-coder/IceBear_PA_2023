@@ -1,0 +1,79 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Scissor_Anim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -12,
+            -63,
+            0
+          ]
+        },
+        {
+          "frame": 1,
+          "value": [
+            367.507,
+            -35.734,
+            0
+          ]
+        },
+        {
+          "frame": 1.4166666666666667,
+          "value": [
+            367.507,
+            -35.734,
+            0
+          ]
+        },
+        {
+          "frame": 2,
+          "value": [
+            176.101,
+            4.605,
+            0
+          ]
+        },
+        {
+          "frame": 3,
+          "value": [
+            321.561,
+            52.429,
+            0
+          ]
+        }
+      ],
+      "angle": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 1,
+          "value": 0
+        },
+        {
+          "frame": 1.4166666666666667,
+          "value": 122.378
+        },
+        {
+          "frame": 2,
+          "value": 122.378
+        },
+        {
+          "frame": 2.4166666666666665,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

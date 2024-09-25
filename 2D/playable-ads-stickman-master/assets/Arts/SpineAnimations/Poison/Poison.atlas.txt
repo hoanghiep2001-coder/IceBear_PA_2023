@@ -1,0 +1,283 @@
+
+Poison.png
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+atk01
+  rotate: false
+  xy: 2, 151
+  size: 107, 195
+  orig: 107, 195
+  offset: 0, 0
+  index: -1
+atk13
+  rotate: false
+  xy: 2, 348
+  size: 145, 162
+  orig: 145, 162
+  offset: 0, 0
+  index: -1
+atk15
+  rotate: false
+  xy: 149, 384
+  size: 145, 126
+  orig: 145, 126
+  offset: 0, 0
+  index: -1
+atk17
+  rotate: false
+  xy: 231, 252
+  size: 140, 130
+  orig: 140, 130
+  offset: 0, 0
+  index: -1
+atk19
+  rotate: false
+  xy: 129, 50
+  size: 132, 138
+  orig: 132, 138
+  offset: 0, 0
+  index: -1
+atk21
+  rotate: false
+  xy: 2, 2
+  size: 125, 147
+  orig: 125, 147
+  offset: 0, 0
+  index: -1
+atk23
+  rotate: false
+  xy: 111, 190
+  size: 118, 156
+  orig: 118, 156
+  offset: 0, 0
+  index: -1
+idle25
+  rotate: false
+  xy: 366, 44
+  size: 99, 206
+  orig: 99, 206
+  offset: 0, 0
+  index: -1
+idle27
+  rotate: false
+  xy: 373, 307
+  size: 100, 203
+  orig: 100, 203
+  offset: 0, 0
+  index: -1
+idle31
+  rotate: false
+  xy: 263, 48
+  size: 101, 202
+  orig: 101, 202
+  offset: 0, 0
+  index: -1
+
+Poison_2.png
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+atk03
+  rotate: false
+  xy: 282, 127
+  size: 103, 197
+  orig: 103, 197
+  offset: 0, 0
+  index: -1
+atk11
+  rotate: false
+  xy: 108, 79
+  size: 76, 198
+  orig: 76, 198
+  offset: 0, 0
+  index: -1
+atk25
+  rotate: false
+  xy: 188, 326
+  size: 110, 163
+  orig: 110, 163
+  offset: 0, 0
+  index: -1
+atk27
+  rotate: false
+  xy: 2, 110
+  size: 104, 167
+  orig: 104, 167
+  offset: 0, 0
+  index: -1
+atk29
+  rotate: false
+  xy: 387, 321
+  size: 102, 168
+  orig: 102, 168
+  offset: 0, 0
+  index: -1
+atk31
+  rotate: false
+  xy: 387, 151
+  size: 102, 168
+  orig: 102, 168
+  offset: 0, 0
+  index: -1
+idle09
+  rotate: false
+  xy: 188, 115
+  size: 92, 209
+  orig: 92, 209
+  offset: 0, 0
+  index: -1
+idle13
+  rotate: false
+  xy: 2, 279
+  size: 91, 210
+  orig: 91, 210
+  offset: 0, 0
+  index: -1
+idle15
+  rotate: false
+  xy: 95, 279
+  size: 91, 210
+  orig: 91, 210
+  offset: 0, 0
+  index: -1
+
+Poison_3.png
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+atk05
+  rotate: false
+  xy: 292, 279
+  size: 92, 198
+  orig: 92, 198
+  offset: 0, 0
+  index: -1
+atk07
+  rotate: false
+  xy: 103, 69
+  size: 80, 197
+  orig: 80, 197
+  offset: 0, 0
+  index: -1
+atk09
+  rotate: false
+  xy: 386, 281
+  size: 75, 196
+  orig: 75, 196
+  offset: 0, 0
+  index: -1
+idle11
+  rotate: false
+  xy: 96, 268
+  size: 91, 209
+  orig: 91, 209
+  offset: 0, 0
+  index: -1
+idle17
+  rotate: false
+  xy: 189, 65
+  size: 91, 209
+  orig: 91, 209
+  offset: 0, 0
+  index: -1
+idle19
+  rotate: false
+  xy: 2, 268
+  size: 92, 209
+  orig: 92, 209
+  offset: 0, 0
+  index: -1
+idle23
+  rotate: false
+  xy: 282, 66
+  size: 95, 208
+  orig: 95, 208
+  offset: 0, 0
+  index: -1
+idle29
+  rotate: false
+  xy: 189, 276
+  size: 101, 201
+  orig: 101, 201
+  offset: 0, 0
+  index: -1
+idle33
+  rotate: false
+  xy: 2, 64
+  size: 99, 202
+  orig: 99, 202
+  offset: 0, 0
+  index: -1
+idle35
+  rotate: false
+  xy: 379, 74
+  size: 98, 203
+  orig: 98, 203
+  offset: 0, 0
+  index: -1
+
+Poison_4.png
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+idle01
+  rotate: false
+  xy: 194, 214
+  size: 94, 206
+  orig: 94, 206
+  offset: 0, 0
+  index: -1
+idle03
+  rotate: false
+  xy: 98, 213
+  size: 94, 207
+  orig: 94, 207
+  offset: 0, 0
+  index: -1
+idle05
+  rotate: false
+  xy: 2, 2
+  size: 93, 208
+  orig: 93, 208
+  offset: 0, 0
+  index: -1
+idle07
+  rotate: false
+  xy: 97, 2
+  size: 92, 208
+  orig: 92, 208
+  offset: 0, 0
+  index: -1
+idle21
+  rotate: false
+  xy: 2, 212
+  size: 94, 208
+  orig: 94, 208
+  offset: 0, 0
+  index: -1
+idle37
+  rotate: false
+  xy: 288, 7
+  size: 97, 205
+  orig: 97, 205
+  offset: 0, 0
+  index: -1
+idle39
+  rotate: false
+  xy: 290, 215
+  size: 95, 205
+  orig: 95, 205
+  offset: 0, 0
+  index: -1
+idle41
+  rotate: false
+  xy: 191, 5
+  size: 95, 206
+  orig: 95, 206
+  offset: 0, 0
+  index: -1

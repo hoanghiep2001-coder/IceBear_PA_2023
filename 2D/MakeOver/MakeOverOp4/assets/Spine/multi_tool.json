@@ -1,0 +1,56 @@
+{
+  "skeleton": {
+    "hash": "dxWmbe4xDLY3DCFsZ1yvoOpRxbQ",
+    "spine": "3.8.99",
+    "x": -367.26,
+    "y": 59.08,
+    "width": 777,
+    "height": 143,
+    "images": "./images/",
+    "audio": "C:/Users/Admin/Desktop/Doll Makeover/Remake/Tool/Shaver"
+  },
+  "bones": [
+    { "name": "root" },
+    {
+      "name": "bone",
+      "parent": "root",
+      "length": 821.04,
+      "rotation": 129.87,
+      "x": 418.72,
+      "y": -527.47
+    }
+  ],
+  "slots": [{ "name": "tools", "bone": "bone", "attachment": "tools" }],
+  "skins": [
+    {
+      "name": "comb02",
+      "attachments": {
+        "tools": {
+          "tools": {
+            "name": "comb_1",
+            "x": 759.85,
+            "y": -116.81,
+            "rotation": -129.87,
+            "width": 777,
+            "height": 143
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "action": {
+      "bones": {
+        "bone": {
+          "rotate": [{}, { "time": 0.3333, "angle": 6 }, { "time": 0.6667 }],
+          "translate": [
+            {},
+            { "time": 0.3333, "x": 81.71, "y": -81.71 },
+            { "time": 0.6667 }
+          ]
+        }
+      }
+    },
+    "idle": {}
+  }
+}

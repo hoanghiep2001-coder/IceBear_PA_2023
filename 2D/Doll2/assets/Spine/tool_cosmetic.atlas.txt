@@ -1,0 +1,27 @@
+
+tool_cosmetic.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lipstick
+  rotate: false
+  xy: 143, 17
+  size: 75, 278
+  orig: 75, 278
+  offset: 0, 0
+  index: -1
+lipstick02
+  rotate: false
+  xy: 220, 17
+  size: 75, 278
+  orig: 75, 278
+  offset: 0, 0
+  index: -1
+powderbrush
+  rotate: false
+  xy: 2, 48
+  size: 139, 247
+  orig: 139, 247
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,156 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ItemContainer1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 8.016666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "text": {
+        "props": {
+          "position": [
+            {
+              "frame": 1,
+              "value": [
+                50,
+                320,
+                0
+              ]
+            },
+            {
+              "frame": 2.0166666666666666,
+              "value": [
+                50,
+                142.055,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "poke": {
+        "props": {
+          "position": [
+            {
+              "frame": 3.0166666666666666,
+              "value": [
+                198.764,
+                -140,
+                0
+              ]
+            },
+            {
+              "frame": 4.5,
+              "value": [
+                83.146,
+                -140,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 3.0166666666666666,
+              "value": 0
+            },
+            {
+              "frame": 4.5,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "hand": {
+        "props": {
+          "position": [
+            {
+              "frame": 5.516666666666667,
+              "value": [
+                26.416,
+                -145.658,
+                0
+              ]
+            },
+            {
+              "frame": 6.033333333333333,
+              "value": [
+                1,
+                -58,
+                0
+              ]
+            },
+            {
+              "frame": 6.5,
+              "value": [
+                24.814,
+                -144.583,
+                0
+              ]
+            },
+            {
+              "frame": 7.016666666666667,
+              "value": [
+                1,
+                -58,
+                0
+              ]
+            },
+            {
+              "frame": 7.516666666666667,
+              "value": [
+                27.185,
+                -145.548,
+                0
+              ]
+            },
+            {
+              "frame": 8,
+              "value": [
+                1,
+                -58,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 5.016666666666667,
+              "value": 0
+            },
+            {
+              "frame": 5.516666666666667,
+              "value": 255
+            },
+            {
+              "frame": 7.516666666666667,
+              "value": 255
+            },
+            {
+              "frame": 8.016666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "text_optimized": {
+        "props": {
+          "position": [],
+          "opacity": [
+            {
+              "frame": 3,
+              "value": 0
+            },
+            {
+              "frame": 4,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

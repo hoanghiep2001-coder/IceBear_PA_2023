@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "ef330a10-eb92-4228-9e8e-8ff1530d7f09",
+  "importer": "image",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 230,
+  "platformSettings": {},
+  "subMetas": {
+    "Logo_StickHero": {
+      "ver": "1.0.6",
+      "uuid": "ef330a10-eb92-4228-9e8e-8ff1530d7f09@6c48a",
+      "importer": "texture",
+      "rawTextureUuid": "ef330a10-eb92-4228-9e8e-8ff1530d7f09",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 300,
+      "height": 230,
+      "rawWidth": 300,
+      "rawHeight": 230,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

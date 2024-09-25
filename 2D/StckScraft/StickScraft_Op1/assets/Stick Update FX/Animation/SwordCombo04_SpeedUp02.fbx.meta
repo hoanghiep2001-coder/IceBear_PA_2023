@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a1f0ff3f-b147-45f1-9663-e24c0da16e89",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "88805": {
+      "importer": "gltf-scene",
+      "uuid": "a1f0ff3f-b147-45f1-9663-e24c0da16e89@88805",
+      "displayName": "",
+      "id": "88805",
+      "name": "SwordCombo04_SpeedUp02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a1566": {
+      "importer": "gltf-animation",
+      "uuid": "a1f0ff3f-b147-45f1-9663-e24c0da16e89@a1566",
+      "displayName": "",
+      "id": "a1566",
+      "name": "stick_supreme_comboAtk_fixTime.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 4.4666666984558105
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "stick_supreme_comboAtk_fixTime",
+        "duration": 4.4666666984558105,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "stick_supreme_comboAtk_fixTime",
+            "from": 0,
+            "to": 4.4666666984558105,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "a1f0ff3f-b147-45f1-9663-e24c0da16e89@88805",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "a1f0ff3f-b147-45f1-9663-e24c0da16e89@88805"
+      ]
+    }
+  }
+}

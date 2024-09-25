@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "11dc4dd9-9254-4937-97f5-6b9318cf4a21",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1024,
+  "height": 1024,
+  "platformSettings": {},
+  "subMetas": {
+    "amanda_toilet": {
+      "ver": "1.0.6",
+      "uuid": "a89f91a0-add7-4e9d-bbc8-2215d15d2b3a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "11dc4dd9-9254-4937-97f5-6b9318cf4a21",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -9,
+      "offsetY": -247,
+      "trimX": 2,
+      "trimY": 514,
+      "width": 1002,
+      "height": 490,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

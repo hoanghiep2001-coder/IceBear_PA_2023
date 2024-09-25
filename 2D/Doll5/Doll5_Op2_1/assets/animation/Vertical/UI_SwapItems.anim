@@ -1,0 +1,353 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "UI_SwapItems",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.5833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Items/Box_1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -55,
+                -117,
+                0
+              ]
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": [
+                -80,
+                -117,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -80,
+                -117,
+                0
+              ]
+            },
+            {
+              "frame": 1.5833333333333333,
+              "value": [
+                -55,
+                -117,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 1.5833333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Items/Box_2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                55,
+                -117,
+                0
+              ]
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": [
+                80,
+                -117,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                80,
+                -117,
+                0
+              ]
+            },
+            {
+              "frame": 1.5833333333333333,
+              "value": [
+                55,
+                -117,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 1.5833333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Items/Box_3": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -55,
+                -218,
+                0
+              ]
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": [
+                -80,
+                -218,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -80,
+                -218,
+                0
+              ]
+            },
+            {
+              "frame": 1.5833333333333333,
+              "value": [
+                -55,
+                -218,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 1.5833333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Items/Box_4": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                55,
+                -218,
+                0
+              ]
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": [
+                80,
+                -218,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                80,
+                -218,
+                0
+              ]
+            },
+            {
+              "frame": 1.5833333333333333,
+              "value": [
+                55,
+                -218,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 1.5833333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Items/Box_1/item_1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5833333333333334,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Items/Box_1/Dress": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5833333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Items/Box_2/item_2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5833333333333334,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Items/Box_3/item_3": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5833333333333334,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Items/Box_4/item_4": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5833333333333334,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Items/Box_2/Dress": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5833333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Items/Box_3/Dress": {
+        "comps": {},
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5833333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Items/Box_4/Dress": {
+        "comps": {},
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5833333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

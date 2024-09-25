@@ -1,0 +1,41 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "_ngang",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.8333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -147.843,
+            -172.948,
+            0
+          ]
+        },
+        {
+          "frame": 1.5,
+          "value": [
+            224.554,
+            103.211,
+            0
+          ]
+        },
+        {
+          "frame": 1.8333333333333333,
+          "value": [
+            224.554,
+            103.211,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

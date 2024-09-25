@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "3a06c7f4-e179-4b27-8a5e-88a819db90f1",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 181,
+  "height": 69,
+  "platformSettings": {},
+  "subMetas": {
+    "My husband": {
+      "ver": "1.0.6",
+      "uuid": "ed613429-7fbd-469d-b81f-1079fb5be829",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "3a06c7f4-e179-4b27-8a5e-88a819db90f1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 181,
+      "height": 69,
+      "rawWidth": 181,
+      "rawHeight": 69,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

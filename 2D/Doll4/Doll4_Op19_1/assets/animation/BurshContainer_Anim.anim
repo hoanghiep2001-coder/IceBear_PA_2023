@@ -1,0 +1,136 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "BurshContainer_Anim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.25,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "brush": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": -5
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 5
+            },
+            {
+              "frame": 0.5,
+              "value": -5
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 5
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": -5
+            },
+            {
+              "frame": 1.25,
+              "value": 5
+            }
+          ],
+          "opacity": [],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -94,
+                90,
+                0
+              ]
+            },
+            {
+              "frame": 1.25,
+              "value": [
+                -75,
+                90,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "kemat": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": -5
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 5
+            },
+            {
+              "frame": 0.5,
+              "value": -5
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 5
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": -5
+            },
+            {
+              "frame": 1.25,
+              "value": 5
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                100,
+                150,
+                0
+              ]
+            },
+            {
+              "frame": 1.25,
+              "value": [
+                85,
+                150,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "props": {
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.5,
+          "value": 255
+        },
+        {
+          "frame": 1.25,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

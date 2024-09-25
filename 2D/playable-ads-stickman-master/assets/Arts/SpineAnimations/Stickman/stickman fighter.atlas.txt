@@ -1,0 +1,482 @@
+
+stickman fighter.png
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+stickman/Joker/than
+  rotate: true
+  xy: 170, 436
+  size: 33, 166
+  orig: 33, 166
+  offset: 0, 0
+  index: -1
+vfx/Slash1/Elements - Energy 020 Slash1 Ray Right noCT noRSZ_00002
+  rotate: true
+  xy: 419, 392
+  size: 75, 76
+  orig: 350, 350
+  offset: 7, 110
+  index: -1
+vfx/Slash1/Elements - Energy 020 Slash1 Ray Right noCT noRSZ_00003
+  rotate: true
+  xy: 125, 181
+  size: 104, 107
+  orig: 350, 350
+  offset: 2, 112
+  index: -1
+vfx/Slash1/Elements - Energy 020 Slash1 Ray Right noCT noRSZ_00013
+  rotate: false
+  xy: 2, 8
+  size: 194, 90
+  orig: 350, 350
+  offset: 118, 120
+  index: -1
+vfx/Slash3/Elements - Energy 029 Slash Right noCT noRSZ_00000
+  rotate: true
+  xy: 393, 315
+  size: 75, 77
+  orig: 350, 350
+  offset: 17, 143
+  index: -1
+vfx/Slash3/Elements - Energy 029 Slash Right noCT noRSZ_00001
+  rotate: false
+  xy: 2, 224
+  size: 121, 78
+  orig: 350, 350
+  offset: 20, 143
+  index: -1
+vfx/Slash3/Elements - Energy 029 Slash Right noCT noRSZ_00002
+  rotate: false
+  xy: 234, 149
+  size: 191, 79
+  orig: 350, 350
+  offset: 19, 142
+  index: -1
+vfx/Slash3/Elements - Energy 029 Slash Right noCT noRSZ_00004
+  rotate: false
+  xy: 225, 68
+  size: 269, 79
+  orig: 350, 350
+  offset: 32, 140
+  index: -1
+vfx/Slash3/Elements - Energy 029 Slash Right noCT noRSZ_00007
+  rotate: false
+  xy: 2, 100
+  size: 221, 79
+  orig: 350, 350
+  offset: 97, 139
+  index: -1
+vfx/Slash3/Elements - Energy 029 Slash Right noCT noRSZ_00008
+  rotate: false
+  xy: 246, 259
+  size: 143, 77
+  orig: 350, 350
+  offset: 179, 140
+  index: -1
+vfx/Slash3/Elements - Energy 029 Slash Right noCT noRSZ_00009
+  rotate: false
+  xy: 2, 304
+  size: 122, 75
+  orig: 350, 350
+  offset: 205, 141
+  index: -1
+vfx/Slash3/Elements - Energy 029 Slash Right noCT noRSZ_00010
+  rotate: false
+  xy: 126, 287
+  size: 118, 76
+  orig: 350, 350
+  offset: 211, 141
+  index: -1
+vfx/Slash3/Elements - Energy 029 Slash Right noCT noRSZ_00011
+  rotate: false
+  xy: 273, 338
+  size: 118, 74
+  orig: 350, 350
+  offset: 212, 142
+  index: -1
+vfx/Slash3/Elements - Energy 029 Slash Right noCT noRSZ_00012
+  rotate: false
+  xy: 161, 365
+  size: 110, 69
+  orig: 350, 350
+  offset: 220, 145
+  index: -1
+vfx/smoke right/smoke right_00000
+  rotate: false
+  xy: 2, 489
+  size: 40, 11
+  orig: 117, 117
+  offset: 11, 56
+  index: -1
+vfx/smoke right/smoke right_00001
+  rotate: false
+  xy: 66, 480
+  size: 58, 20
+  orig: 117, 117
+  offset: 13, 53
+  index: -1
+vfx/smoke right/smoke right_00002
+  rotate: false
+  xy: 126, 474
+  size: 63, 26
+  orig: 117, 117
+  offset: 16, 53
+  index: -1
+vfx/smoke right/smoke right_00003
+  rotate: false
+  xy: 226, 472
+  size: 63, 28
+  orig: 117, 117
+  offset: 19, 52
+  index: -1
+vfx/smoke right/smoke right_00004
+  rotate: false
+  xy: 291, 471
+  size: 62, 29
+  orig: 117, 117
+  offset: 21, 52
+  index: -1
+vfx/smoke right/smoke right_00005
+  rotate: false
+  xy: 355, 469
+  size: 63, 31
+  orig: 117, 117
+  offset: 22, 51
+  index: -1
+vfx/smoke right/smoke right_00006
+  rotate: false
+  xy: 420, 469
+  size: 63, 31
+  orig: 117, 117
+  offset: 23, 51
+  index: -1
+vfx/smoke right/smoke right_00007
+  rotate: false
+  xy: 38, 446
+  size: 53, 32
+  orig: 117, 117
+  offset: 34, 50
+  index: -1
+vfx/smoke right/smoke right_00008
+  rotate: false
+  xy: 93, 439
+  size: 37, 33
+  orig: 117, 117
+  offset: 51, 49
+  index: -1
+vfx/smoke right/smoke right_00009
+  rotate: false
+  xy: 132, 439
+  size: 36, 33
+  orig: 117, 117
+  offset: 53, 49
+  index: -1
+vfx/smoke right/smoke right_00010
+  rotate: false
+  xy: 2, 456
+  size: 34, 31
+  orig: 117, 117
+  offset: 56, 49
+  index: -1
+vfx/smoke right/smoke right_00011
+  rotate: false
+  xy: 191, 474
+  size: 33, 26
+  orig: 117, 117
+  offset: 57, 48
+  index: -1
+vfx/smoke right/smoke right_00012
+  rotate: true
+  xy: 44, 488
+  size: 12, 20
+  orig: 117, 117
+  offset: 78, 48
+  index: -1
+weapon/pistol
+  rotate: false
+  xy: 338, 414
+  size: 79, 53
+  orig: 79, 53
+  offset: 0, 0
+  index: -1
+weapon/rifle
+  rotate: false
+  xy: 2, 381
+  size: 157, 56
+  orig: 157, 56
+  offset: 0, 0
+  index: -1
+weapon/uzi
+  rotate: false
+  xy: 391, 230
+  size: 109, 83
+  orig: 109, 83
+  offset: 0, 0
+  index: -1
+
+stickman fighter_2.png
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+stickman/Joker/chan_ trai
+  rotate: true
+  xy: 2, 131
+  size: 96, 222
+  orig: 96, 222
+  offset: 0, 0
+  index: -1
+stickman/Joker/tay_ trai
+  rotate: true
+  xy: 2, 230
+  size: 93, 179
+  orig: 93, 179
+  offset: 0, 0
+  index: -1
+stickman/Joker/tay_phai
+  rotate: true
+  xy: 226, 53
+  size: 101, 175
+  orig: 101, 175
+  offset: 0, 0
+  index: -1
+vfx/Slash1/Elements - Energy 020 Slash1 Ray Right noCT noRSZ_00004
+  rotate: true
+  xy: 355, 156
+  size: 167, 121
+  orig: 350, 350
+  offset: 1, 114
+  index: -1
+vfx/Slash1/Elements - Energy 020 Slash1 Ray Right noCT noRSZ_00012
+  rotate: false
+  xy: 2, 24
+  size: 207, 105
+  orig: 350, 350
+  offset: 109, 120
+  index: -1
+vfx/Slash2/Elements - Energy 030 Slash Right noCT noRSZ_00012
+  rotate: true
+  xy: 183, 229
+  size: 94, 170
+  orig: 350, 350
+  offset: 167, 0
+  index: -1
+vfx/Slash3/Elements - Energy 029 Slash Right noCT noRSZ_00003
+  rotate: false
+  xy: 2, 408
+  size: 239, 80
+  orig: 350, 350
+  offset: 19, 141
+  index: -1
+vfx/Slash3/Elements - Energy 029 Slash Right noCT noRSZ_00005
+  rotate: false
+  xy: 243, 408
+  size: 245, 80
+  orig: 350, 350
+  offset: 62, 140
+  index: -1
+vfx/Slash3/Elements - Energy 029 Slash Right noCT noRSZ_00006
+  rotate: false
+  xy: 2, 325
+  size: 248, 81
+  orig: 350, 350
+  offset: 67, 139
+  index: -1
+weapon/sword
+  rotate: true
+  xy: 252, 325
+  size: 81, 235
+  orig: 81, 235
+  offset: 0, 0
+  index: -1
+
+stickman fighter_3.png
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+stickman/Joker/chan_ phai
+  rotate: true
+  xy: 2, 382
+  size: 110, 218
+  orig: 110, 218
+  offset: 0, 0
+  index: -1
+vfx/Slash1/Elements - Energy 020 Slash1 Ray Right noCT noRSZ_00005
+  rotate: false
+  xy: 243, 251
+  size: 249, 128
+  orig: 350, 350
+  offset: 2, 114
+  index: -1
+vfx/Slash1/Elements - Energy 020 Slash1 Ray Right noCT noRSZ_00008
+  rotate: false
+  xy: 2, 133
+  size: 300, 116
+  orig: 350, 350
+  offset: 17, 128
+  index: -1
+vfx/Slash1/Elements - Energy 020 Slash1 Ray Right noCT noRSZ_00009
+  rotate: false
+  xy: 2, 15
+  size: 289, 116
+  orig: 350, 350
+  offset: 28, 126
+  index: -1
+vfx/Slash1/Elements - Energy 020 Slash1 Ray Right noCT noRSZ_00010
+  rotate: false
+  xy: 2, 265
+  size: 239, 114
+  orig: 350, 350
+  offset: 78, 123
+  index: -1
+vfx/Slash1/Elements - Energy 020 Slash1 Ray Right noCT noRSZ_00011
+  rotate: false
+  xy: 222, 381
+  size: 227, 111
+  orig: 350, 350
+  offset: 91, 122
+  index: -1
+vfx/Slash2/Elements - Energy 030 Slash Right noCT noRSZ_00011
+  rotate: true
+  xy: 304, 74
+  size: 175, 185
+  orig: 350, 350
+  offset: 98, 0
+  index: -1
+
+stickman fighter_4.png
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+vfx/Slash2/Elements - Energy 030 Slash Right noCT noRSZ_00002
+  rotate: false
+  xy: 2, 179
+  size: 243, 331
+  orig: 350, 350
+  offset: 37, 0
+  index: -1
+vfx/Slash2/Elements - Energy 030 Slash Right noCT noRSZ_00007
+  rotate: true
+  xy: 247, 302
+  size: 208, 263
+  orig: 350, 350
+  offset: 74, 0
+  index: -1
+vfx/Slash2/Elements - Energy 030 Slash Right noCT noRSZ_00009
+  rotate: true
+  xy: 247, 97
+  size: 203, 259
+  orig: 350, 350
+  offset: 78, 0
+  index: -1
+
+stickman fighter_5.png
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+stickman/Joker/dau
+  rotate: true
+  xy: 310, 316
+  size: 179, 185
+  orig: 193, 193
+  offset: 11, 5
+  index: -1
+vfx/Slash1/Elements - Energy 020 Slash1 Ray Right noCT noRSZ_00006
+  rotate: false
+  xy: 2, 252
+  size: 306, 124
+  orig: 350, 350
+  offset: 5, 119
+  index: -1
+vfx/Slash1/Elements - Energy 020 Slash1 Ray Right noCT noRSZ_00007
+  rotate: false
+  xy: 2, 378
+  size: 306, 117
+  orig: 350, 350
+  offset: 10, 126
+  index: -1
+vfx/Slash2/Elements - Energy 030 Slash Right noCT noRSZ_00000
+  rotate: false
+  xy: 310, 133
+  size: 182, 181
+  orig: 350, 350
+  offset: 24, 161
+  index: -1
+vfx/Slash2/Elements - Energy 030 Slash Right noCT noRSZ_00010
+  rotate: true
+  xy: 2, 55
+  size: 195, 258
+  orig: 350, 350
+  offset: 83, 0
+  index: -1
+
+stickman fighter_6.png
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+vfx/Slash2/Elements - Energy 030 Slash Right noCT noRSZ_00001
+  rotate: false
+  xy: 236, 131
+  size: 223, 328
+  orig: 350, 350
+  offset: 32, 7
+  index: -1
+vfx/Slash2/Elements - Energy 030 Slash Right noCT noRSZ_00003
+  rotate: false
+  xy: 2, 136
+  size: 232, 323
+  orig: 350, 350
+  offset: 48, 0
+  index: -1
+
+stickman fighter_7.png
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+vfx/Slash2/Elements - Energy 030 Slash Right noCT noRSZ_00005
+  rotate: true
+  xy: 2, 55
+  size: 210, 289
+  orig: 350, 350
+  offset: 72, 0
+  index: -1
+vfx/Slash2/Elements - Energy 030 Slash Right noCT noRSZ_00008
+  rotate: true
+  xy: 208, 267
+  size: 206, 265
+  orig: 350, 350
+  offset: 76, 0
+  index: -1
+weapon/bow
+  rotate: false
+  xy: 2, 269
+  size: 204, 204
+  orig: 217, 217
+  offset: 0, 13
+  index: -1
+
+stickman fighter_8.png
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+vfx/Slash2/Elements - Energy 030 Slash Right noCT noRSZ_00004
+  rotate: false
+  xy: 2, 137
+  size: 222, 307
+  orig: 350, 350
+  offset: 60, 0
+  index: -1
+vfx/Slash2/Elements - Energy 030 Slash Right noCT noRSZ_00006
+  rotate: false
+  xy: 226, 144
+  size: 218, 300
+  orig: 350, 350
+  offset: 65, 0
+  index: -1

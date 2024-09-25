@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "thunder_cloud.atlas",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "\nthunder_cloud.png\nsize: 1024,1024\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nlightning/lightningtx0001\n  rotate: false\n  xy: 538, 906\n  size: 159, 113\n  orig: 159, 113\n  offset: 0, 0\n  index: -1\nlightning/lightningtx0002\n  rotate: false\n  xy: 699, 906\n  size: 159, 113\n  orig: 159, 113\n  offset: 0, 0\n  index: -1\nlightning/lightningtx0003\n  rotate: false\n  xy: 860, 906\n  size: 159, 113\n  orig: 159, 113\n  offset: 0, 0\n  index: -1\nlightning/lightningtx0004\n  rotate: false\n  xy: 538, 791\n  size: 159, 113\n  orig: 159, 113\n  offset: 0, 0\n  index: -1\nlightning/lightningtx0005\n  rotate: false\n  xy: 699, 791\n  size: 159, 113\n  orig: 159, 113\n  offset: 0, 0\n  index: -1\nrain_1\n  rotate: false\n  xy: 2, 782\n  size: 534, 237\n  orig: 534, 237\n  offset: 0, 0\n  index: -1\nrain_2\n  rotate: false\n  xy: 860, 875\n  size: 11, 29\n  orig: 11, 29\n  offset: 0, 0\n  index: -1\n"
+}

@@ -1,0 +1,215 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ItemContainerAnim3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "item1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -40,
+                -62.699,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -235,
+                -62.699,
+                0
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                -40,
+                -62.699,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "item3": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -40,
+                -141.508,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -235,
+                -141.508,
+                0
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                -40,
+                -141.508,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "item2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                40,
+                -62.699,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                235,
+                -62.699,
+                0
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                40,
+                -62.699,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "item4": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                40,
+                -141.508,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                235,
+                -141.508,
+                0
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                40,
+                -141.508,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "item1/iten_1_optimized": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "ac6a5ed5-5680-493c-b63f-aaea588df87d"
+                }
+              },
+              {
+                "frame": 1,
+                "value": {
+                  "__uuid__": "a726ab74-cc19-4de8-8560-3bdb63ac0862"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "item2/iten_2_optimized": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "01cc7121-622d-45a0-ae65-1318f2fc1913"
+                }
+              },
+              {
+                "frame": 1,
+                "value": {
+                  "__uuid__": "61f34de6-50f3-4f19-867e-b6bfced6d346"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "item3/iten_3_optimized": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "7308b43f-a849-4d57-919c-1c158d0866e2"
+                }
+              },
+              {
+                "frame": 1,
+                "value": {
+                  "__uuid__": "52ca6cef-b3fe-4da4-af82-ef94679e3bca"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "item4/iten_4_optimized": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "f1163d6f-87b7-4074-94cf-20011b42e1e3"
+                }
+              },
+              {
+                "frame": 1,
+                "value": {
+                  "__uuid__": "bbed5e1f-0640-4412-86ab-17a4fe3e33b5"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": []
+}

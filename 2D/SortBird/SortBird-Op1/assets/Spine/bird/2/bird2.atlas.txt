@@ -1,0 +1,139 @@
+
+bird2.png
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+B1
+  rotate: false
+  xy: 137, 337
+  size: 119, 169
+  orig: 119, 169
+  offset: 0, 0
+  index: -1
+B2
+  rotate: false
+  xy: 258, 255
+  size: 135, 94
+  orig: 135, 94
+  offset: 0, 0
+  index: -1
+B4
+  rotate: false
+  xy: 136, 72
+  size: 56, 87
+  orig: 56, 87
+  offset: 0, 0
+  index: -1
+B6
+  rotate: true
+  xy: 2, 14
+  size: 106, 132
+  orig: 106, 132
+  offset: 0, 0
+  index: -1
+B7
+  rotate: false
+  xy: 2, 308
+  size: 133, 198
+  orig: 133, 198
+  offset: 0, 0
+  index: -1
+B9
+  rotate: true
+  xy: 472, 463
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+skin1/Layer 1
+  rotate: false
+  xy: 194, 108
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+skin1/Layer 1 copy
+  rotate: false
+  xy: 136, 19
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+skin1/Layer 2
+  rotate: false
+  xy: 246, 233
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+skin1/Layer 2 copy
+  rotate: false
+  xy: 2, 2
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+skin1/body
+  rotate: false
+  xy: 2, 122
+  size: 119, 184
+  orig: 119, 184
+  offset: 0, 0
+  index: -1
+skin1/eye
+  rotate: false
+  xy: 194, 81
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+skin1/hat (3)
+  rotate: false
+  xy: 395, 243
+  size: 109, 106
+  orig: 109, 106
+  offset: 0, 0
+  index: -1
+skin1/leg1
+  rotate: false
+  xy: 472, 427
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+skin1/leg1 copy
+  rotate: false
+  xy: 472, 445
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+skin1/mouth
+  rotate: false
+  xy: 123, 161
+  size: 121, 80
+  orig: 121, 80
+  offset: 0, 0
+  index: -1
+skin1/tail
+  rotate: true
+  xy: 137, 243
+  size: 92, 118
+  orig: 92, 118
+  offset: 0, 0
+  index: -1
+skin1/wing1
+  rotate: false
+  xy: 365, 351
+  size: 105, 155
+  orig: 105, 155
+  offset: 0, 0
+  index: -1
+skin1/wing1 copy
+  rotate: false
+  xy: 258, 351
+  size: 105, 155
+  orig: 105, 155
+  offset: 0, 0
+  index: -1

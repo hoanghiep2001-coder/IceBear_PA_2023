@@ -1,0 +1,133 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "GamePlay_ChangeModeAnim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.0833333333333335,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "MonsterBase": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Tap_To_Slap": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "tab1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Overlay": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 150
+            }
+          ]
+        }
+      },
+      "ChangeMode": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.6666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "ChangeMode/btn_continue": {
+        "props": {
+          "angle": [
+            {
+              "frame": 1.1666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 1.25,
+              "value": -5
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 5
+            },
+            {
+              "frame": 1.4166666666666667,
+              "value": -5
+            },
+            {
+              "frame": 1.5,
+              "value": 5
+            },
+            {
+              "frame": 1.5833333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ChangeMode/btn_autoplay": {
+        "props": {
+          "angle": [
+            {
+              "frame": 1.6666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 1.75,
+              "value": -5
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": 5
+            },
+            {
+              "frame": 1.9166666666666667,
+              "value": -5
+            },
+            {
+              "frame": 2,
+              "value": 5
+            },
+            {
+              "frame": 2.0833333333333335,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

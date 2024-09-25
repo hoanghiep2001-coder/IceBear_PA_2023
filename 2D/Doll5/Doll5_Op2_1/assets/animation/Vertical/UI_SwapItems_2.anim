@@ -1,0 +1,239 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "UI_SwapItems_2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Items/Box_1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -55,
+                -117,
+                0
+              ]
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": [
+                -80,
+                -117,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Items/Box_2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                55,
+                -117,
+                0
+              ]
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": [
+                80,
+                -117,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Items/Box_3": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -55,
+                -218,
+                0
+              ]
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": [
+                -80,
+                -218,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Items/Box_4": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                55,
+                -218,
+                0
+              ]
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": [
+                80,
+                -218,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Items/Box_1/item_1": {
+        "props": {
+          "opacity": []
+        }
+      },
+      "Items/Box_1/Dress": {
+        "props": {
+          "opacity": []
+        }
+      },
+      "Items/Box_2/item_2": {
+        "props": {
+          "opacity": []
+        }
+      },
+      "Items/Box_3/item_3": {
+        "props": {
+          "opacity": []
+        }
+      },
+      "Items/Box_4/item_4": {
+        "props": {
+          "opacity": []
+        }
+      },
+      "Items/Box_2/Dress": {
+        "props": {
+          "opacity": []
+        }
+      },
+      "Items/Box_3/Dress": {
+        "comps": {},
+        "props": {
+          "opacity": []
+        }
+      },
+      "Items/Box_4/Dress": {
+        "comps": {},
+        "props": {
+          "opacity": []
+        }
+      },
+      "btn_next": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5833333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1.0833333333333333,
+              "value": 255
+            }
+          ],
+          "angle": [
+            {
+              "frame": 1.0833333333333333,
+              "value": 0
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": -5
+            },
+            {
+              "frame": 1.25,
+              "value": 5
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": -5
+            },
+            {
+              "frame": 1.4166666666666667,
+              "value": 5
+            },
+            {
+              "frame": 1.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "text1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

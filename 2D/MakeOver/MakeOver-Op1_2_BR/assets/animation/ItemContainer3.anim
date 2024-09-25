@@ -1,0 +1,77 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ItemContainer3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Soap": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                57.965,
+                -115.275,
+                0
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                68.126,
+                -78.018,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                46.957,
+                -36.527,
+                0
+              ]
+            },
+            {
+              "frame": 1.5,
+              "value": [
+                -10.622,
+                -54.309,
+                0
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                -4.695,
+                -112.734,
+                0
+              ]
+            },
+            {
+              "frame": 2.5,
+              "value": [
+                42.723,
+                -131.363,
+                0
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                35.102,
+                -88.179,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

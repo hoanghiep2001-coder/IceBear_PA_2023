@@ -1,0 +1,59 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "hand",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3.5166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -4,
+            153,
+            0
+          ]
+        },
+        {
+          "frame": 0.9333333333333333,
+          "value": [
+            -80,
+            130,
+            0
+          ]
+        },
+        {
+          "frame": 1.7666666666666666,
+          "value": [
+            -4,
+            153,
+            0
+          ]
+        },
+        {
+          "frame": 2.75,
+          "value": [
+            -80,
+            130,
+            0
+          ]
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 3,
+          "value": 255
+        },
+        {
+          "frame": 3.5166666666666666,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

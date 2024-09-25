@@ -1,0 +1,54 @@
+
+multi_tool.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+razor
+  rotate: false
+  xy: 703, 381
+  size: 238, 629
+  orig: 238, 629
+  offset: 0, 0
+  index: -1
+shampoo-comb
+  rotate: false
+  xy: 2, 349
+  size: 699, 661
+  orig: 699, 661
+  offset: 0, 0
+  index: -1
+sponge
+  rotate: false
+  xy: 2, 2
+  size: 527, 345
+  orig: 527, 345
+  offset: 0, 0
+  index: -1
+
+multi_tool2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e_shaver
+  rotate: false
+  xy: 2, 2
+  size: 227, 611
+  orig: 227, 611
+  offset: 0, 0
+  index: -1
+eyelash
+  rotate: false
+  xy: 2, 615
+  size: 760, 407
+  orig: 760, 407
+  offset: 0, 0
+  index: -1
+shaver
+  rotate: false
+  xy: 764, 358
+  size: 205, 664
+  orig: 205, 664
+  offset: 0, 0
+  index: -1

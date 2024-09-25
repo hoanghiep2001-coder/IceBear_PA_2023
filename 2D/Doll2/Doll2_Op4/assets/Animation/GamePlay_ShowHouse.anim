@@ -1,0 +1,180 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "GamePlay_ShowHouse",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.1666666666666665,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Overlay": {
+        "props": {
+          "opacity": []
+        }
+      },
+      "House/text": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.1666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 255
+            }
+          ],
+          "angle": [
+            {
+              "frame": 1.6666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 1.75,
+              "value": -5
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": 5
+            },
+            {
+              "frame": 1.9166666666666667,
+              "value": -5
+            },
+            {
+              "frame": 2,
+              "value": 5
+            },
+            {
+              "frame": 2.0833333333333335,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "House/Character/button/button2": {
+        "props": {
+          "position": [
+            {
+              "frame": 1.6666666666666667,
+              "value": [
+                -160,
+                -460,
+                0
+              ]
+            },
+            {
+              "frame": 2.1666666666666665,
+              "value": [
+                -120,
+                -460,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.6666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 2.1666666666666665,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "House/Character/button/button3": {
+        "props": {
+          "position": [
+            {
+              "frame": 1.6666666666666667,
+              "value": [
+                160,
+                -460,
+                0
+              ]
+            },
+            {
+              "frame": 2.1666666666666665,
+              "value": [
+                120,
+                -460,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.6666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 2.1666666666666665,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "House/Character/body": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.5,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": [
+                0,
+                75,
+                0
+              ]
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1,
+                "y": 1,
+                "z": 1
+              }
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.8,
+                "y": 0.8,
+                "z": 1
+              }
+            }
+          ]
+        }
+      },
+      "House/baby": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

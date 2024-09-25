@@ -1,0 +1,227 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "cbc0bb57-8ce4-4ab4-9d2e-41f9f6682a91",
+  "files": [
+    "__original-animation-0.cconb",
+    "__original-animation-1.cconb",
+    "__original-animation-2.cconb",
+    "__original-animation-3.cconb",
+    "__original-animation-4.cconb"
+  ],
+  "subMetas": {
+    "73836": {
+      "importer": "gltf-animation",
+      "uuid": "cbc0bb57-8ce4-4ab4-9d2e-41f9f6682a91@73836",
+      "displayName": "",
+      "id": "73836",
+      "name": "stick_animBow.animation",
+      "userData": {
+        "gltfIndex": 4,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 5.166666507720947
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "be593": {
+      "importer": "gltf-animation",
+      "uuid": "cbc0bb57-8ce4-4ab4-9d2e-41f9f6682a91@be593",
+      "displayName": "",
+      "id": "be593",
+      "name": "stick_animBow_shot_0.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.2666666507720947
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "8e234": {
+      "importer": "gltf-animation",
+      "uuid": "cbc0bb57-8ce4-4ab4-9d2e-41f9f6682a91@8e234",
+      "displayName": "",
+      "id": "8e234",
+      "name": "stick_animBow_shot_45.animation",
+      "userData": {
+        "gltfIndex": 1,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.2666666507720947
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "27d1f": {
+      "importer": "gltf-animation",
+      "uuid": "cbc0bb57-8ce4-4ab4-9d2e-41f9f6682a91@27d1f",
+      "displayName": "",
+      "id": "27d1f",
+      "name": "stick_animBow_shot_90.animation",
+      "userData": {
+        "gltfIndex": 2,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.2666666507720947
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "5e261": {
+      "importer": "gltf-animation",
+      "uuid": "cbc0bb57-8ce4-4ab4-9d2e-41f9f6682a91@5e261",
+      "displayName": "",
+      "id": "5e261",
+      "name": "stick_animBow_shot_-45.animation",
+      "userData": {
+        "gltfIndex": 3,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.2666666507720947
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "ad114": {
+      "importer": "gltf-scene",
+      "uuid": "cbc0bb57-8ce4-4ab4-9d2e-41f9f6682a91@ad114",
+      "displayName": "",
+      "id": "ad114",
+      "name": "stick_animBow.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "stick_animBow_shot_0",
+        "duration": 1.2666666507720947,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "stick_animBow_shot_0",
+            "from": 0,
+            "to": 1.2666666507720947,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "stick_animBow_shot_45",
+        "duration": 1.2666666507720947,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "stick_animBow_shot_45",
+            "from": 0,
+            "to": 1.2666666507720947,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "stick_animBow_shot_90",
+        "duration": 1.2666666507720947,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "stick_animBow_shot_90",
+            "from": 0,
+            "to": 1.2666666507720947,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "stick_animBow_shot_-45",
+        "duration": 1.2666666507720947,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "stick_animBow_shot_-45",
+            "from": 0,
+            "to": 1.2666666507720947,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "stick_animBow",
+        "duration": 5.166666507720947,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "stick_animBow",
+            "from": 0,
+            "to": 5.166666507720947,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "cbc0bb57-8ce4-4ab4-9d2e-41f9f6682a91@ad114",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "cbc0bb57-8ce4-4ab4-9d2e-41f9f6682a91@ad114"
+      ]
+    }
+  }
+}

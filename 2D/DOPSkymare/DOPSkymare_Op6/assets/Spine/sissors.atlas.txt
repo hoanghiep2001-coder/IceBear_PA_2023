@@ -1,0 +1,20 @@
+
+sissors.png
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+l01_s01_scissors01
+  rotate: false
+  xy: 2, 131
+  size: 127, 67
+  orig: 127, 67
+  offset: 0, 0
+  index: -1
+l01_s01_scissors02
+  rotate: false
+  xy: 131, 72
+  size: 67, 126
+  orig: 67, 126
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+skeleton.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fish_fillet1
+  rotate: false
+  xy: 2, 100
+  size: 152, 123
+  orig: 152, 123
+  offset: 0, 0
+  index: -1
+fish_fillet2
+  rotate: true
+  xy: 328, 317
+  size: 152, 141
+  orig: 152, 141
+  offset: 0, 0
+  index: -1
+fish_fillet3
+  rotate: true
+  xy: 328, 171
+  size: 144, 129
+  orig: 144, 129
+  offset: 0, 0
+  index: -1
+fishbone
+  rotate: false
+  xy: 2, 225
+  size: 324, 244
+  orig: 338, 254
+  offset: 4, 5
+  index: -1

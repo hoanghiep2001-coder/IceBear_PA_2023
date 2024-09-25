@@ -1,0 +1,171 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ItemContainerAnim2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "ItemButton1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -55,
+                -151.631,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -260,
+                -151.631,
+                0
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                -55,
+                -151.631,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "ItemButton2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                55,
+                -151.631,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                260,
+                -151.631,
+                0
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                55,
+                -151.631,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "ItemButton1/1_optimized": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "548e30e3-0856-4f30-9571-49b876ae3b99"
+                }
+              },
+              {
+                "frame": 1,
+                "value": {
+                  "__uuid__": "317f335a-5ad3-43f3-aa79-941df38c1d21"
+                }
+              }
+            ]
+          }
+        },
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.5,
+                "y": 0.5,
+                "z": 1
+              }
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.5,
+                "y": 0.5,
+                "z": 1
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.7,
+                "y": 0.7,
+                "z": 1
+              }
+            }
+          ]
+        }
+      },
+      "ItemButton2/2_optimized": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.5,
+                "y": 0.5,
+                "z": 1
+              }
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.5,
+                "y": 0.5,
+                "z": 1
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.6,
+                "y": 0.6,
+                "z": 1
+              }
+            }
+          ]
+        },
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 1,
+                "value": {
+                  "__uuid__": "ec552bec-dcb5-45d2-9afb-9f54ebc9a16f"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": []
+}

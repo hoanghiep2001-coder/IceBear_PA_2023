@@ -1,0 +1,104 @@
+
+Fight.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+00
+  rotate: false
+  xy: 2, 413
+  size: 231, 115
+  orig: 231, 115
+  offset: 0, 0
+  index: -1
+01
+  rotate: false
+  xy: 483, 203
+  size: 241, 121
+  orig: 241, 121
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 726, 399
+  size: 251, 129
+  orig: 251, 129
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 726, 270
+  size: 244, 127
+  orig: 244, 127
+  offset: 0, 0
+  index: -1
+z00
+  rotate: false
+  xy: 249, 756
+  size: 246, 221
+  orig: 246, 221
+  offset: 0, 0
+  index: -1
+z01
+  rotate: false
+  xy: 2, 755
+  size: 245, 222
+  orig: 245, 222
+  offset: 0, 0
+  index: -1
+z02
+  rotate: false
+  xy: 249, 531
+  size: 241, 223
+  orig: 241, 223
+  offset: 0, 0
+  index: -1
+z03
+  rotate: false
+  xy: 497, 753
+  size: 240, 224
+  orig: 240, 224
+  offset: 0, 0
+  index: -1
+z04
+  rotate: false
+  xy: 732, 530
+  size: 236, 221
+  orig: 236, 221
+  offset: 0, 0
+  index: -1
+z05
+  rotate: false
+  xy: 739, 753
+  size: 235, 224
+  orig: 235, 224
+  offset: 0, 0
+  index: -1
+z06
+  rotate: false
+  xy: 2, 530
+  size: 237, 223
+  orig: 237, 223
+  offset: 0, 0
+  index: -1
+z07
+  rotate: false
+  xy: 492, 531
+  size: 238, 220
+  orig: 238, 220
+  offset: 0, 0
+  index: -1
+z08
+  rotate: false
+  xy: 241, 317
+  size: 240, 212
+  orig: 240, 212
+  offset: 0, 0
+  index: -1
+z09
+  rotate: false
+  xy: 483, 326
+  size: 241, 203
+  orig: 241, 203
+  offset: 0, 0
+  index: -1

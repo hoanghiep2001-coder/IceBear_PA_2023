@@ -1,0 +1,129 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "IntroAnim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Monster": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.5,
+              "value": [
+                -228,
+                -210,
+                0
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                3,
+                -210,
+                0
+              ]
+            },
+            {
+              "frame": 4.5,
+              "value": [
+                400,
+                -210,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "Princess": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                1,
+                -160
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 1.9833333333333334,
+              "value": [
+                1,
+                -160
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 2,
+              "value": [
+                -1,
+                -90,
+                0
+              ]
+            },
+            {
+              "frame": 4.5,
+              "value": [
+                400,
+                -90,
+                0
+              ]
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1.9833333333333334,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": 10
+            },
+            {
+              "frame": 2.1666666666666665,
+              "value": 0
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": 10
+            },
+            {
+              "frame": 2.4833333333333334,
+              "value": 0
+            },
+            {
+              "frame": 2.5,
+              "value": 0
+            },
+            {
+              "frame": 2.6666666666666665,
+              "value": 10
+            },
+            {
+              "frame": 2.8333333333333335,
+              "value": 0
+            },
+            {
+              "frame": 3,
+              "value": 10
+            },
+            {
+              "frame": 3.1666666666666665,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

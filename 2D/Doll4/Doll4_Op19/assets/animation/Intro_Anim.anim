@@ -1,0 +1,139 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Intro_Anim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 6.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Man1_Container/Man1/boxxmarrk/Text_2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 2.6666666666666665,
+              "value": 0
+            },
+            {
+              "frame": 3,
+              "value": 255
+            },
+            {
+              "frame": 3.6666666666666665,
+              "value": 255
+            },
+            {
+              "frame": 4,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Man1_Container/Man1/boxxmarrk/Text_1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.75,
+              "value": 255
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": 255
+            },
+            {
+              "frame": 2.6666666666666665,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Man1_Container/Man1/boxxmarrk/Text_3": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 4,
+              "value": 0
+            },
+            {
+              "frame": 4.333333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Man1_Container/Man1/boxxmarrk": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.5,
+              "value": 0
+            },
+            {
+              "frame": 1.75,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "MakeUp_Btn": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 5.5,
+              "value": 0
+            },
+            {
+              "frame": 6,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Man1_Container/Man1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "vesi": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "MakeUp_Btn/hand": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 6,
+              "value": 0
+            },
+            {
+              "frame": 6.5,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

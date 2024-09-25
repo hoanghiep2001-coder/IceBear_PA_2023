@@ -1,0 +1,62 @@
+
+dop5_nga.png
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+HAND L
+  rotate: true
+  xy: 261, 284
+  size: 116, 134
+  orig: 116, 134
+  offset: 0, 0
+  index: -1
+HAND R
+  rotate: true
+  xy: 261, 284
+  size: 116, 134
+  orig: 116, 134
+  offset: 0, 0
+  index: -1
+Layer 13
+  rotate: false
+  xy: 2, 371
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+Layer 15
+  rotate: true
+  xy: 185, 148
+  size: 134, 214
+  orig: 134, 214
+  offset: 0, 0
+  index: -1
+Layer 71
+  rotate: true
+  xy: 2, 2
+  size: 144, 317
+  orig: 144, 317
+  offset: 0, 0
+  index: -1
+Layer 72
+  rotate: false
+  xy: 43, 325
+  size: 95, 75
+  orig: 95, 75
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: false
+  xy: 140, 314
+  size: 119, 86
+  orig: 193, 468
+  offset: 39, 195
+  index: -1
+head
+  rotate: true
+  xy: 2, 187
+  size: 125, 181
+  orig: 125, 181
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,239 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Btn1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "box1": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -250
+            },
+            {
+              "frame": 1,
+              "value": -50
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "box2": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 250
+            },
+            {
+              "frame": 1,
+              "value": 50
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "box3": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -250
+            },
+            {
+              "frame": 1,
+              "value": -50
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "box4": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 250
+            },
+            {
+              "frame": 1,
+              "value": 50
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "hand": {
+        "props": {
+          "position": [
+            {
+              "frame": 1.3333333333333333,
+              "value": [
+                -135,
+                -110,
+                0
+              ]
+            },
+            {
+              "frame": 1.5,
+              "value": [
+                -150,
+                -110,
+                0
+              ]
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": [
+                -135,
+                -110,
+                0
+              ]
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": [
+                -150,
+                -110,
+                0
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                -135,
+                -110,
+                0
+              ]
+            },
+            {
+              "frame": 2.1666666666666665,
+              "value": [
+                -150,
+                -110,
+                0
+              ]
+            },
+            {
+              "frame": 2.25,
+              "value": [
+                -150,
+                -200,
+                0
+              ]
+            },
+            {
+              "frame": 2.4166666666666665,
+              "value": [
+                -135,
+                -200,
+                0
+              ]
+            },
+            {
+              "frame": 2.5833333333333335,
+              "value": [
+                -150,
+                -200,
+                0
+              ]
+            },
+            {
+              "frame": 2.75,
+              "value": [
+                -135,
+                -200,
+                0
+              ]
+            },
+            {
+              "frame": 2.9166666666666665,
+              "value": [
+                -150,
+                -200,
+                0
+              ]
+            },
+            {
+              "frame": 3.0833333333333335,
+              "value": [
+                -135,
+                -200,
+                0
+              ]
+            },
+            {
+              "frame": 3.25,
+              "value": [
+                -150,
+                -200,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.5,
+              "value": 0
+            },
+            {
+              "frame": 3,
+              "value": 255
+            },
+            {
+              "frame": 3.25,
+              "value": 255
+            },
+            {
+              "frame": 3.5,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

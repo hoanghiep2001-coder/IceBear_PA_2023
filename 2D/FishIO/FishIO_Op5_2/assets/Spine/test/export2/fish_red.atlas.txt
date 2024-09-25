@@ -1,0 +1,34 @@
+
+fish_red.png
+size: 433, 433
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+fish_red_body
+  rotate: false
+  xy: 2, 92
+  size: 243, 339
+  orig: 244, 339
+  offset: 0, 0
+  index: -1
+fish_red_mouth
+  rotate: false
+  xy: 247, 321
+  size: 184, 110
+  orig: 185, 110
+  offset: 0, 0
+  index: -1
+fish_red_oar
+  rotate: false
+  xy: 333, 206
+  size: 87, 113
+  orig: 87, 114
+  offset: 0, 1
+  index: -1
+fish_red_tail
+  rotate: false
+  xy: 247, 151
+  size: 84, 168
+  orig: 84, 168
+  offset: 0, 0
+  index: -1

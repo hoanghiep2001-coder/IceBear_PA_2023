@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f3e3cfa3-0652-44c6-88b3-9c6c38a770cd",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "f8354": {
+      "importer": "gltf-animation",
+      "uuid": "f3e3cfa3-0652-44c6-88b3-9c6c38a770cd@f8354",
+      "displayName": "",
+      "id": "f8354",
+      "name": "stick_sword_run.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.6666666865348816
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "cd721": {
+      "importer": "gltf-scene",
+      "uuid": "f3e3cfa3-0652-44c6-88b3-9c6c38a770cd@cd721",
+      "displayName": "",
+      "id": "cd721",
+      "name": "stick_sword_run.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "stick_sword_run",
+        "duration": 0.6666666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "stick_sword_run",
+            "from": 0,
+            "to": 0.6666666865348816,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "f3e3cfa3-0652-44c6-88b3-9c6c38a770cd@cd721",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "f3e3cfa3-0652-44c6-88b3-9c6c38a770cd@cd721"
+      ]
+    }
+  }
+}

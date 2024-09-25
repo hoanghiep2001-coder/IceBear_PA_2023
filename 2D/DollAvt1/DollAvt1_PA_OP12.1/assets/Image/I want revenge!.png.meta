@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "ffc9e47c-6601-4b47-934d-2142b161680b",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 276,
+  "height": 32,
+  "platformSettings": {},
+  "subMetas": {
+    "I want revenge!": {
+      "ver": "1.0.6",
+      "uuid": "9ea032d4-02d1-40db-850e-efc32aadbe35",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "ffc9e47c-6601-4b47-934d-2142b161680b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 276,
+      "height": 32,
+      "rawWidth": 276,
+      "rawHeight": 32,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

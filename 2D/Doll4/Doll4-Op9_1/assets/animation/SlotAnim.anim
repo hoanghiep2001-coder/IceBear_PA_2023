@@ -1,0 +1,59 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "SlotAnim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            -448.775,
+            0
+          ]
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            0,
+            -616.775,
+            0
+          ]
+        },
+        {
+          "frame": 1,
+          "value": [
+            0,
+            -444.775,
+            0
+          ]
+        }
+      ]
+    },
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "51349eec-ec9c-45a6-948b-517ca1457317"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "07050306-0545-44c8-8a50-c0bd32df2129"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,27 @@
+
+Angry.png
+size: 512, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+auraB_01
+  rotate: false
+  xy: 2, 9
+  size: 165, 233
+  orig: 165, 233
+  offset: 0, 0
+  index: -1
+auraB_02
+  rotate: false
+  xy: 324, 2
+  size: 148, 240
+  orig: 148, 240
+  offset: 0, 0
+  index: -1
+auraB_03
+  rotate: false
+  xy: 169, 2
+  size: 153, 240
+  orig: 153, 240
+  offset: 0, 0
+  index: -1

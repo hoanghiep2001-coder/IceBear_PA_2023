@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "df38724b-1f28-464c-8ebb-ac45bb67160f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 263,
+  "height": 281,
+  "platformSettings": {},
+  "subMetas": {
+    "BOY OP 01": {
+      "ver": "1.0.6",
+      "uuid": "d21d797c-7511-4f98-a3cb-659b5f93b37b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "df38724b-1f28-464c-8ebb-ac45bb67160f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 263,
+      "height": 281,
+      "rawWidth": 263,
+      "rawHeight": 281,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "46071827-0ad2-4b3d-98c9-12dea19b27e6",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 819,
+  "height": 1223,
+  "platformSettings": {},
+  "subMetas": {
+    "Trapgirl": {
+      "ver": "1.0.6",
+      "uuid": "6b377724-da0a-4292-8bae-b80c3a1893af",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "46071827-0ad2-4b3d-98c9-12dea19b27e6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 819,
+      "height": 1223,
+      "rawWidth": 819,
+      "rawHeight": 1223,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

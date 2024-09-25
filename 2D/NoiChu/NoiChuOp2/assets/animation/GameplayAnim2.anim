@@ -1,0 +1,590 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "GameplayAnim2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4.333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "SentenseContainer": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1,
+                "y": 1,
+                "z": 1
+              }
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.5,
+                "y": 0.5,
+                "z": 1
+              }
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                30,
+                15.5,
+                0
+              ]
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 1,
+              "value": false
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.6666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "TypingText": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                -95,
+                -20,
+                0
+              ]
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": [
+                -75,
+                -20,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 255
+            },
+            {
+              "frame": 2.6666666666666665,
+              "value": 255
+            },
+            {
+              "frame": 3.15,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "TypingText/shape typing/Ellipse typing 3": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                60,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": [
+                60,
+                40,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                60,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": [
+                60,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": [
+                60,
+                40,
+                0
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                60,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 2.6666666666666665,
+              "value": [
+                60,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 2.8333333333333335,
+              "value": [
+                60,
+                40,
+                0
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                60,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 3.6666666666666665,
+              "value": [
+                60,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 3.8333333333333335,
+              "value": [
+                60,
+                40,
+                0
+              ]
+            },
+            {
+              "frame": 4,
+              "value": [
+                60,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "TypingText/shape typing/Ellipse typing 1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.8333333333333334,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                0,
+                20,
+                0
+              ]
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                0,
+                40,
+                0
+              ]
+            },
+            {
+              "frame": 2.1666666666666665,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 2.8333333333333335,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                0,
+                40,
+                0
+              ]
+            },
+            {
+              "frame": 3.1666666666666665,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 3.3333333333333335,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 3.8333333333333335,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 4,
+              "value": [
+                0,
+                40,
+                0
+              ]
+            },
+            {
+              "frame": 4.166666666666667,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 4.333333333333333,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "TypingText/shape typing/Ellipse typing 2": {
+        "props": {
+          "position": [
+            {
+              "frame": 1,
+              "value": [
+                -60,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": [
+                -60,
+                40,
+                0
+              ]
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": [
+                -60,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                -60,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 2.1666666666666665,
+              "value": [
+                -60,
+                40,
+                0
+              ]
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": [
+                -60,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                -60,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 3.1666666666666665,
+              "value": [
+                -60,
+                40,
+                0
+              ]
+            },
+            {
+              "frame": 3.3333333333333335,
+              "value": [
+                -60,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 4,
+              "value": [
+                -60,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 4.166666666666667,
+              "value": [
+                -60,
+                40,
+                0
+              ]
+            },
+            {
+              "frame": 4.333333333333333,
+              "value": [
+                -60,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "box_chan tinh": {
+        "props": {
+          "position": []
+        }
+      },
+      "TextBoxContainer/box_cai ban": {
+        "props": {
+          "position": [
+            {
+              "frame": 1,
+              "value": [
+                -30,
+                -95,
+                0
+              ]
+            },
+            {
+              "frame": 2.5,
+              "value": [
+                -30,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "TextBoxContainer/box_ban chan": {
+        "props": {
+          "position": [
+            {
+              "frame": 1,
+              "value": [
+                30,
+                -145,
+                0
+              ]
+            },
+            {
+              "frame": 2.5,
+              "value": [
+                30,
+                -50,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "TextBoxContainer/box_chan tinh": {
+        "props": {
+          "position": [
+            {
+              "frame": 1,
+              "value": [
+                -30,
+                -195,
+                0
+              ]
+            },
+            {
+              "frame": 2.5,
+              "value": [
+                -30,
+                -100,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "TextBoxContainer/box_Tinh thuong": {
+        "props": {
+          "position": [
+            {
+              "frame": 1,
+              "value": [
+                30,
+                -245,
+                0
+              ]
+            },
+            {
+              "frame": 2.5,
+              "value": [
+                30,
+                -150,
+                0
+              ]
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1,
+              "value": true
+            }
+          ]
+        }
+      },
+      "TextBoxContainer/box_Thuong cho tam than co han": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 3,
+              "value": true
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -30,
+                -295,
+                0
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                -30,
+                -195,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,55 @@
+
+Gun_01.png
+size: 1024, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 154
+  size: 615, 332
+  orig: 615, 332
+  offset: 0, 0
+  index: -1
+drum
+  rotate: false
+  xy: 2, 2
+  size: 244, 150
+  orig: 244, 150
+  offset: 0, 0
+  index: -1
+drum_blur
+  rotate: false
+  xy: 248, 8
+  size: 122, 144
+  orig: 122, 144
+  offset: 0, 0
+  index: -1
+drum_blur02
+  rotate: false
+  xy: 372, 66
+  size: 122, 86
+  orig: 122, 86
+  offset: 0, 0
+  index: -1
+hammer
+  rotate: false
+  xy: 496, 102
+  size: 78, 50
+  orig: 78, 50
+  offset: 0, 0
+  index: -1
+handle
+  rotate: false
+  xy: 619, 24
+  size: 201, 462
+  orig: 201, 462
+  offset: 0, 0
+  index: -1
+trigger
+  rotate: false
+  xy: 496, 45
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1

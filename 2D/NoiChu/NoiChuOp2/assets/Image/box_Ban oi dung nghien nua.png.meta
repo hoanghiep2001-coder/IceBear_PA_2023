@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "edffb00e-caf8-4a56-9119-13670ac83488",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 835,
+  "height": 119,
+  "platformSettings": {},
+  "subMetas": {
+    "box_Ban oi dung nghien nua": {
+      "ver": "1.0.6",
+      "uuid": "104018c0-4562-4a4f-b02f-8a8a68cc8cec",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "edffb00e-caf8-4a56-9119-13670ac83488",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 835,
+      "height": 119,
+      "rawWidth": 835,
+      "rawHeight": 119,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

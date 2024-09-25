@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e345507c-3889-49de-be20-2e990eae4c72",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2001,
+  "height": 900,
+  "platformSettings": {},
+  "subMetas": {
+    "female-anime-bg": {
+      "ver": "1.0.6",
+      "uuid": "ebcad545-ce5d-4ce7-8f54-71982011e8f5",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e345507c-3889-49de-be20-2e990eae4c72",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 2001,
+      "height": 900,
+      "rawWidth": 2001,
+      "rawHeight": 900,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

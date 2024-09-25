@@ -1,0 +1,104 @@
+
+Level 42.png
+size: 1354, 1354
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+background
+  rotate: false
+  xy: 2, 398
+  size: 875, 954
+  orig: 875, 954
+  offset: 0, 0
+  index: -1
+boy01
+  rotate: false
+  xy: 2, 3
+  size: 579, 393
+  orig: 579, 393
+  offset: 0, 0
+  index: -1
+boy01_face_1
+  rotate: false
+  xy: 952, 710
+  size: 61, 88
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+boy01_face_2
+  rotate: false
+  xy: 879, 686
+  size: 71, 112
+  orig: 71, 112
+  offset: 0, 0
+  index: -1
+boy01_hand
+  rotate: false
+  xy: 879, 955
+  size: 183, 178
+  orig: 183, 178
+  offset: 0, 0
+  index: -1
+girl
+  rotate: false
+  xy: 879, 1135
+  size: 257, 217
+  orig: 257, 217
+  offset: 0, 0
+  index: -1
+girl02
+  rotate: false
+  xy: 583, 78
+  size: 554, 318
+  orig: 554, 318
+  offset: 0, 0
+  index: -1
+girl02_face_1
+  rotate: false
+  xy: 783, 11
+  size: 57, 65
+  orig: 57, 65
+  offset: 0, 0
+  index: -1
+girl02_face_2
+  rotate: false
+  xy: 720, 8
+  size: 61, 68
+  orig: 61, 68
+  offset: 0, 0
+  index: -1
+girl02_hand
+  rotate: false
+  xy: 879, 800
+  size: 129, 153
+  orig: 129, 153
+  offset: 0, 0
+  index: -1
+girl_eye
+  rotate: false
+  xy: 914, 61
+  size: 51, 15
+  orig: 52, 16
+  offset: 1, 0
+  index: -1
+girl_eye_lid
+  rotate: false
+  xy: 842, 43
+  size: 70, 33
+  orig: 70, 33
+  offset: 0, 0
+  index: -1
+girl_face_1
+  rotate: false
+  xy: 647, 4
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+girl_face_2
+  rotate: false
+  xy: 583, 2
+  size: 62, 74
+  orig: 62, 74
+  offset: 0, 0
+  index: -1

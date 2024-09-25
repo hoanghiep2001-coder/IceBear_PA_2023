@@ -1,0 +1,559 @@
+
+Acnes.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+acne_1
+  rotate: false
+  xy: 854, 808
+  size: 87, 105
+  orig: 87, 105
+  offset: 0, 0
+  index: -1
+acne_10
+  rotate: false
+  xy: 641, 785
+  size: 211, 198
+  orig: 211, 198
+  offset: 0, 0
+  index: -1
+acne_11
+  rotate: false
+  xy: 398, 50
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+acne_12
+  rotate: false
+  xy: 491, 164
+  size: 64, 51
+  orig: 64, 51
+  offset: 0, 0
+  index: -1
+acne_13
+  rotate: false
+  xy: 648, 115
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+acne_14
+  rotate: false
+  xy: 398, 92
+  size: 61, 39
+  orig: 61, 39
+  offset: 0, 0
+  index: -1
+acne_15
+  rotate: false
+  xy: 783, 496
+  size: 121, 139
+  orig: 121, 139
+  offset: 0, 0
+  index: -1
+acne_18
+  rotate: false
+  xy: 2, 2
+  size: 174, 155
+  orig: 174, 155
+  offset: 0, 0
+  index: -1
+acne_2
+  rotate: false
+  xy: 557, 162
+  size: 62, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1
+acne_3
+  rotate: false
+  xy: 709, 208
+  size: 96, 103
+  orig: 96, 103
+  offset: 0, 0
+  index: -1
+acne_4
+  rotate: false
+  xy: 854, 915
+  size: 102, 68
+  orig: 102, 68
+  offset: 0, 0
+  index: -1
+acne_5
+  rotate: false
+  xy: 709, 313
+  size: 125, 110
+  orig: 125, 110
+  offset: 0, 0
+  index: -1
+acne_6
+  rotate: false
+  xy: 641, 637
+  size: 156, 146
+  orig: 156, 146
+  offset: 0, 0
+  index: -1
+acne_7
+  rotate: false
+  xy: 641, 425
+  size: 102, 69
+  orig: 102, 69
+  offset: 0, 0
+  index: -1
+acne_8
+  rotate: false
+  xy: 641, 496
+  size: 140, 139
+  orig: 140, 139
+  offset: 0, 0
+  index: -1
+acne_eye
+  rotate: false
+  xy: 2, 159
+  size: 374, 260
+  orig: 374, 260
+  offset: 0, 0
+  index: -1
+acne_scar_1
+  rotate: false
+  xy: 489, 80
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+acne_scar_2
+  rotate: false
+  xy: 489, 80
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+acne_scar_9
+  rotate: false
+  xy: 489, 80
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+acne_scar_10
+  rotate: false
+  xy: 799, 648
+  size: 110, 135
+  orig: 110, 135
+  offset: 0, 0
+  index: -1
+acne_scar_18
+  rotate: false
+  xy: 178, 2
+  size: 174, 155
+  orig: 174, 155
+  offset: 0, 0
+  index: -1
+acne_scar_3
+  rotate: false
+  xy: 555, 114
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+acne_scar_11
+  rotate: false
+  xy: 555, 114
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+acne_scar_12
+  rotate: false
+  xy: 555, 114
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+acne_scar_13
+  rotate: false
+  xy: 555, 114
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+acne_scar_14
+  rotate: false
+  xy: 555, 114
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+acne_scar_4
+  rotate: false
+  xy: 555, 114
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+acne_scar_5
+  rotate: false
+  xy: 398, 133
+  size: 91, 82
+  orig: 91, 82
+  offset: 0, 0
+  index: -1
+acne_scar_15
+  rotate: false
+  xy: 398, 133
+  size: 91, 82
+  orig: 91, 82
+  offset: 0, 0
+  index: -1
+acne_scar_6
+  rotate: false
+  xy: 398, 133
+  size: 91, 82
+  orig: 91, 82
+  offset: 0, 0
+  index: -1
+acne_scar_8
+  rotate: false
+  xy: 398, 133
+  size: 91, 82
+  orig: 91, 82
+  offset: 0, 0
+  index: -1
+acne_scar_7
+  rotate: false
+  xy: 745, 426
+  size: 62, 68
+  orig: 62, 68
+  offset: 0, 0
+  index: -1
+core_1
+  rotate: false
+  xy: 370, 8
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+core_11
+  rotate: false
+  xy: 354, 85
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+core_12
+  rotate: false
+  xy: 354, 85
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+core_13
+  rotate: false
+  xy: 354, 85
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+core_14
+  rotate: false
+  xy: 354, 85
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+core_18
+  rotate: false
+  xy: 2, 421
+  size: 637, 562
+  orig: 637, 562
+  offset: 0, 0
+  index: -1
+core_2
+  rotate: false
+  xy: 648, 150
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+core_19
+  rotate: false
+  xy: 648, 150
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+core_3
+  rotate: false
+  xy: 608, 130
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+core_4
+  rotate: false
+  xy: 413, 14
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+core_10
+  rotate: false
+  xy: 413, 14
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+core_5
+  rotate: false
+  xy: 809, 431
+  size: 31, 63
+  orig: 31, 63
+  offset: 0, 0
+  index: -1
+core_6
+  rotate: false
+  xy: 621, 181
+  size: 61, 34
+  orig: 61, 34
+  offset: 0, 0
+  index: -1
+core_7
+  rotate: false
+  xy: 491, 129
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+core_8
+  rotate: false
+  xy: 447, 37
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+core_15
+  rotate: false
+  xy: 447, 37
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+cream
+  rotate: false
+  xy: 699, 149
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+hole
+  rotate: false
+  xy: 370, 51
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+s_acne_1
+  rotate: false
+  xy: 461, 104
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+s_acne_2
+  rotate: false
+  xy: 461, 104
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+s_acne_3
+  rotate: false
+  xy: 461, 104
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+s_acne_8
+  rotate: false
+  xy: 461, 104
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+s_acne_9
+  rotate: false
+  xy: 461, 104
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+s_acne_4
+  rotate: false
+  xy: 354, 42
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+s_acne_6
+  rotate: false
+  xy: 354, 42
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+s_acne_7
+  rotate: false
+  xy: 354, 42
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+s_acne_5
+  rotate: false
+  xy: 354, 113
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+s_core_1
+  rotate: false
+  xy: 684, 189
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+s_core_2
+  rotate: false
+  xy: 854, 791
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+s_core_3
+  rotate: false
+  xy: 354, 59
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+s_core_4
+  rotate: false
+  xy: 891, 800
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+s_core_5
+  rotate: false
+  xy: 876, 799
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+s_core_6
+  rotate: false
+  xy: 370, 44
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+s_core_7
+  rotate: false
+  xy: 902, 801
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+s_core_8
+  rotate: false
+  xy: 354, 72
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+s_core_9
+  rotate: false
+  xy: 864, 795
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+scar_1
+  rotate: false
+  xy: 354, 137
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+scar_2
+  rotate: false
+  xy: 354, 137
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+scar_3
+  rotate: false
+  xy: 354, 137
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+scar_4
+  rotate: false
+  xy: 354, 137
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+scar_4 copy
+  rotate: false
+  xy: 354, 137
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+scar_5
+  rotate: false
+  xy: 354, 137
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+scar_6
+  rotate: false
+  xy: 354, 137
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+scar_8
+  rotate: false
+  xy: 354, 137
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+scar_9
+  rotate: false
+  xy: 354, 137
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+scar_acne_eye
+  rotate: false
+  xy: 398, 217
+  size: 309, 202
+  orig: 309, 202
+  offset: 0, 0
+  index: -1
+squeeze
+  rotate: false
+  xy: 378, 50
+  size: 18, 369
+  orig: 18, 369
+  offset: 0, 0
+  index: -1

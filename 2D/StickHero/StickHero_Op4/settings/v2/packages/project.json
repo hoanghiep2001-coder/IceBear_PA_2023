@@ -1,0 +1,51 @@
+{
+  "general": {
+    "designResolution": {
+      "width": 320,
+      "height": 480
+    }
+  },
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "Ground"
+      },
+      {
+        "index": 2,
+        "name": "Boss"
+      },
+      {
+        "index": 3,
+        "name": "StickMan"
+      },
+      {
+        "index": 4,
+        "name": "Wall"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 0,
+      "1": 8,
+      "2": 8,
+      "3": 30,
+      "4": 8
+    },
+    "gravity": {
+      "y": -10,
+      "x": 0,
+      "z": 0
+    },
+    "defaultMaterial": {
+      "friction": 0,
+      "rollingFriction": 0.1,
+      "spinningFriction": 0.1
+    }
+  },
+  "layer": [
+    {
+      "name": "JoyStick",
+      "value": 1
+    }
+  ]
+}

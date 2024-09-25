@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a691e405-b8a2-4254-ba17-486039de98a8",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 230,
+  "height": 275,
+  "platformSettings": {},
+  "subMetas": {
+    "HAIR OP 02": {
+      "ver": "1.0.6",
+      "uuid": "9c4a3eed-65b3-4773-b529-87cf54583e6d",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a691e405-b8a2-4254-ba17-486039de98a8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 230,
+      "height": 275,
+      "rawWidth": 230,
+      "rawHeight": 275,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,48 @@
+
+Acnes.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+acne_18
+  rotate: false
+  xy: 641, 409
+  size: 174, 155
+  orig: 174, 155
+  offset: 0, 0
+  index: -1
+acne_scar_18
+  rotate: false
+  xy: 817, 409
+  size: 174, 155
+  orig: 174, 155
+  offset: 0, 0
+  index: -1
+core_18
+  rotate: false
+  xy: 2, 2
+  size: 637, 562
+  orig: 637, 562
+  offset: 0, 0
+  index: -1
+cream
+  rotate: false
+  xy: 641, 136
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+hole
+  rotate: false
+  xy: 1013, 558
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+squeeze
+  rotate: false
+  xy: 993, 195
+  size: 18, 369
+  orig: 18, 369
+  offset: 0, 0
+  index: -1

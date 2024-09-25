@@ -1,0 +1,69 @@
+
+Bubble.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shampoo
+  rotate: false
+  xy: 1632, 2
+  size: 129, 112
+  orig: 129, 112
+  offset: 0, 0
+  index: -1
+chin
+  rotate: false
+  xy: 1455, 74
+  size: 175, 168
+  orig: 175, 168
+  offset: 0, 0
+  index: -1
+forehead_L
+  rotate: false
+  xy: 2, 7
+  size: 321, 235
+  orig: 321, 235
+  offset: 0, 0
+  index: -1
+forehead_R
+  rotate: false
+  xy: 325, 4
+  size: 312, 238
+  orig: 312, 238
+  offset: 0, 0
+  index: -1
+jaw_R
+  rotate: false
+  xy: 1278, 37
+  size: 175, 205
+  orig: 175, 205
+  offset: 0, 0
+  index: -1
+jaw__L
+  rotate: false
+  xy: 1101, 29
+  size: 175, 213
+  orig: 175, 213
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 1632, 116
+  size: 132, 126
+  orig: 132, 126
+  offset: 0, 0
+  index: -1
+up_jowl_L
+  rotate: false
+  xy: 639, 14
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+up_jowl_R
+  rotate: false
+  xy: 869, 48
+  size: 230, 194
+  orig: 230, 194
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "boss1.atlas",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "\nboss1.png\nsize: 512, 512\nformat: RGBA8888\nfilter: Linear, Linear\nrepeat: none\nbody\n  rotate: false\n  xy: 33, 2\n  size: 309, 373\n  orig: 309, 373\n  offset: 0, 0\n  index: -1\nhand\n  rotate: false\n  xy: 2, 314\n  size: 29, 61\n  orig: 29, 61\n  offset: 0, 0\n  index: -1\n"
+}

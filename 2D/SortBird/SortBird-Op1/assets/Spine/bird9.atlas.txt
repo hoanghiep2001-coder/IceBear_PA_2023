@@ -1,0 +1,97 @@
+
+bird9.png
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+BLayer 1 copy
+  rotate: false
+  xy: 134, 2
+  size: 56, 87
+  orig: 56, 87
+  offset: 0, 0
+  index: -1
+BLayer 27 copy
+  rotate: false
+  xy: 134, 2
+  size: 56, 87
+  orig: 56, 87
+  offset: 0, 0
+  index: -1
+BLayer 14 copy
+  rotate: true
+  xy: 192, 13
+  size: 91, 144
+  orig: 91, 144
+  offset: 0, 0
+  index: -1
+BLayer 15 copy
+  rotate: false
+  xy: 163, 151
+  size: 137, 141
+  orig: 137, 141
+  offset: 0, 0
+  index: -1
+BLayer 21 copy
+  rotate: true
+  xy: 177, 331
+  size: 49, 34
+  orig: 49, 34
+  offset: 0, 0
+  index: -1
+BLayer 5 copy
+  rotate: false
+  xy: 2, 294
+  size: 173, 215
+  orig: 173, 215
+  offset: 0, 0
+  index: -1
+skin1/Layer 1
+  rotate: true
+  xy: 163, 106
+  size: 43, 72
+  orig: 43, 72
+  offset: 0, 0
+  index: -1
+skin1/Layer 14
+  rotate: true
+  xy: 2, 12
+  size: 77, 130
+  orig: 77, 130
+  offset: 0, 0
+  index: -1
+skin1/Layer 15
+  rotate: false
+  xy: 177, 382
+  size: 123, 127
+  orig: 123, 127
+  offset: 0, 0
+  index: -1
+skin1/Layer 21
+  rotate: true
+  xy: 177, 294
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+skin1/Layer 24
+  rotate: false
+  xy: 199, 310
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+skin1/Layer 26
+  rotate: true
+  xy: 237, 107
+  size: 42, 73
+  orig: 42, 73
+  offset: 0, 0
+  index: -1
+skin1/Layer 5
+  rotate: false
+  xy: 2, 91
+  size: 159, 201
+  orig: 159, 201
+  offset: 0, 0
+  index: -1

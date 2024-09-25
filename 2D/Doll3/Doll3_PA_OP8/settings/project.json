@@ -1,0 +1,79 @@
+{
+  "last-module-event-record-time": 1687552609187,
+  "group-list": [
+    "Hair",
+    "Wall",
+    "Character",
+    "Gold"
+  ],
+  "collision-matrix": [
+    [
+      false,
+      true,
+      true
+    ],
+    [
+      true,
+      false,
+      true,
+      true
+    ],
+    [
+      true,
+      true,
+      false
+    ],
+    [
+      false,
+      true,
+      false,
+      false
+    ]
+  ],
+  "excluded-modules": [
+    "Collider",
+    "DragonBones",
+    "Graphics",
+    "Layout",
+    "Label Effect",
+    "Mask",
+    "Physics",
+    "PageView",
+    "ProgressBar",
+    "RichText",
+    "Slider",
+    "ScrollBar",
+    "ScrollView",
+    "Spine Skeleton",
+    "TiledMap",
+    "VideoPlayer",
+    "3D",
+    "3D Primitive",
+    "3D Physics/cannon.js",
+    "3D Physics/Builtin",
+    "3D Particle"
+  ],
+  "preview-port": 1234,
+  "design-resolution-width": 320,
+  "design-resolution-height": 480,
+  "fit-width": true,
+  "fit-height": true,
+  "use-project-simulator-setting": false,
+  "simulator-orientation": false,
+  "use-customize-simulator": true,
+  "simulator-resolution": {
+    "width": 960,
+    "height": 640
+  },
+  "clear-simulator-cache": true,
+  "facebook": {
+    "enable": false,
+    "appID": "",
+    "live": {
+      "enable": false
+    },
+    "audience": {
+      "enable": false
+    }
+  }
+}

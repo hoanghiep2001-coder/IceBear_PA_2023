@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "c83cb8f7-298b-4dad-bca6-d8c2b3107b0c",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 782,
+  "height": 782,
+  "platformSettings": {},
+  "subMetas": {
+    "Monster_Toilet": {
+      "ver": "1.0.6",
+      "uuid": "1a79f02c-8168-44fd-b5a3-8257937dcee4",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "c83cb8f7-298b-4dad-bca6-d8c2b3107b0c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1186,
+      "height": 1186,
+      "rawWidth": 1190,
+      "rawHeight": 1190,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

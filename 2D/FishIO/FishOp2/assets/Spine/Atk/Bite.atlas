@@ -1,0 +1,27 @@
+
+Bite.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+down
+  rotate: false
+  xy: 2, 2
+  size: 441, 182
+  orig: 441, 182
+  offset: 0, 0
+  index: -1
+flash
+  rotate: false
+  xy: 505, 176
+  size: 271, 241
+  orig: 271, 241
+  offset: 0, 0
+  index: -1
+up
+  rotate: false
+  xy: 2, 186
+  size: 501, 231
+  orig: 501, 231
+  offset: 0, 0
+  index: -1

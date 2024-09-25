@@ -1,0 +1,20 @@
+
+Tears2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tears01
+  rotate: false
+  xy: 2, 83
+  size: 120, 71
+  orig: 120, 71
+  offset: 0, 0
+  index: -1
+Tears2
+  rotate: false
+  xy: 124, 99
+  size: 30, 55
+  orig: 30, 55
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+Maggots_Base.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cream_Scar
+  rotate: false
+  xy: 312, 2
+  size: 108, 113
+  orig: 108, 113
+  offset: 0, 0
+  index: -1
+b_hole
+  rotate: false
+  xy: 2, 100
+  size: 153, 150
+  orig: 153, 150
+  offset: 0, 0
+  index: -1
+b_hole_red
+  rotate: false
+  xy: 157, 100
+  size: 153, 150
+  orig: 153, 150
+  offset: 0, 0
+  index: -1
+f_hole
+  rotate: false
+  xy: 312, 117
+  size: 97, 133
+  orig: 97, 133
+  offset: 0, 0
+  index: -1
+f_hole_red
+  rotate: false
+  xy: 411, 117
+  size: 97, 133
+  orig: 97, 133
+  offset: 0, 0
+  index: -1
+maggot_1
+  rotate: false
+  xy: 2, 40
+  size: 150, 58
+  orig: 150, 58
+  offset: 0, 0
+  index: -1

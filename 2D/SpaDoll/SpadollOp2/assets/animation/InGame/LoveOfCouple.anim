@@ -1,0 +1,53 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "LoveOfCouple",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.8333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "scale": [
+        {
+          "frame": 1,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 0.12,
+            "y": 0.12,
+            "z": 1
+          }
+        },
+        {
+          "frame": 1.8333333333333333,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 0.1,
+            "y": 0.1,
+            "z": 1
+          }
+        }
+      ],
+      "position": [
+        {
+          "frame": 1,
+          "value": [
+            24,
+            115,
+            0
+          ]
+        },
+        {
+          "frame": 1.8333333333333333,
+          "value": [
+            58.605,
+            70,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

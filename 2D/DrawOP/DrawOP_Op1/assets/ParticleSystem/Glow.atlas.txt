@@ -1,0 +1,13 @@
+
+Glow.png
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+glow2
+  rotate: false
+  xy: 2, 50
+  size: 472, 424
+  orig: 512, 512
+  offset: 24, 36
+  index: -1

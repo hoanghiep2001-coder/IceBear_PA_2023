@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "35c15440-726f-45bf-aae4-dca34e15b8a2",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "Stick Marine": {
+      "ver": "1.0.6",
+      "uuid": "fa42f9b0-ecf9-4751-8ebf-6710345c0fe2",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "35c15440-726f-45bf-aae4-dca34e15b8a2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -140,
+      "offsetY": 20,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 228,
+      "height": 468,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

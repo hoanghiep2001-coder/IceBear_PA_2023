@@ -1,0 +1,97 @@
+
+bird12.png
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Bbody
+  rotate: false
+  xy: 2, 262
+  size: 142, 207
+  orig: 142, 207
+  offset: 0, 0
+  index: -1
+Bleg1
+  rotate: true
+  xy: 225, 289
+  size: 54, 78
+  orig: 54, 78
+  offset: 0, 0
+  index: -1
+Bleg2
+  rotate: true
+  xy: 146, 286
+  size: 57, 77
+  orig: 57, 77
+  offset: 0, 0
+  index: -1
+Bmouth
+  rotate: true
+  xy: 433, 426
+  size: 43, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1
+Btail
+  rotate: true
+  xy: 146, 345
+  size: 124, 173
+  orig: 124, 173
+  offset: 0, 0
+  index: -1
+Bwing
+  rotate: false
+  xy: 2, 127
+  size: 137, 133
+  orig: 137, 133
+  offset: 0, 0
+  index: -1
+skin1/body
+  rotate: true
+  xy: 141, 132
+  size: 128, 193
+  orig: 128, 193
+  offset: 0, 0
+  index: -1
+skin1/eye
+  rotate: false
+  xy: 256, 272
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+skin1/leg1
+  rotate: true
+  xy: 370, 269
+  size: 40, 64
+  orig: 40, 64
+  offset: 0, 0
+  index: -1
+skin1/leg2
+  rotate: true
+  xy: 305, 266
+  size: 43, 63
+  orig: 43, 63
+  offset: 0, 0
+  index: -1
+skin1/mouth
+  rotate: false
+  xy: 225, 265
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+skin1/tail
+  rotate: false
+  xy: 321, 311
+  size: 110, 158
+  orig: 110, 158
+  offset: 0, 0
+  index: -1
+skin1/wing
+  rotate: true
+  xy: 336, 141
+  size: 123, 119
+  orig: 123, 119
+  offset: 0, 0
+  index: -1

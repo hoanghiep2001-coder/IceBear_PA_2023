@@ -1,0 +1,139 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Tablet_MainContent3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "ThirdTower/Character_Katana": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -230,
+                -128,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -100,
+                -124,
+                0
+              ]
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.25,
+                "y": 0.25,
+                "z": 0.27778
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.2,
+                "y": 0.2,
+                "z": 0.27778
+              }
+            }
+          ]
+        }
+      },
+      "ThirdTower/knight": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": -0.06,
+                "y": 0.06,
+                "z": 1
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": -0.05,
+                "y": 0.05,
+                "z": 1
+              }
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.5,
+              "value": [
+                -85,
+                -124,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -60,
+                -124,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "props": {
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 1,
+            "y": 1,
+            "z": 1
+          }
+        },
+        {
+          "frame": 1.0166666666666666,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 1.7,
+            "y": 1.7,
+            "z": 1
+          }
+        }
+      ],
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 1.0166666666666666,
+          "value": [
+            -150,
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

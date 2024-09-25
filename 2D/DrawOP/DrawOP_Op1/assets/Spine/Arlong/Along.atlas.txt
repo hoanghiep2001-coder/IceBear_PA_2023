@@ -1,0 +1,104 @@
+
+Along.png
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Cut
+  rotate: false
+  xy: 109, 85
+  size: 54, 77
+  orig: 77, 87
+  offset: 12, 7
+  index: -1
+body
+  rotate: false
+  xy: 271, 184
+  size: 52, 202
+  orig: 52, 202
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 164
+  size: 199, 222
+  orig: 200, 222
+  offset: 1, 0
+  index: -1
+l_hand_1
+  rotate: false
+  xy: 325, 276
+  size: 44, 110
+  orig: 44, 110
+  offset: 0, 0
+  index: -1
+l_hand_2
+  rotate: false
+  xy: 359, 165
+  size: 42, 109
+  orig: 42, 109
+  offset: 0, 0
+  index: -1
+l_leg_1
+  rotate: false
+  xy: 53, 26
+  size: 54, 136
+  orig: 54, 138
+  offset: 0, 2
+  index: -1
+l_leg_2
+  rotate: false
+  xy: 306, 46
+  size: 51, 136
+  orig: 51, 136
+  offset: 0, 0
+  index: -1
+r_hand_1
+  rotate: false
+  xy: 371, 278
+  size: 42, 108
+  orig: 42, 108
+  offset: 0, 0
+  index: -1
+r_hand_2
+  rotate: false
+  xy: 359, 55
+  size: 37, 108
+  orig: 37, 108
+  offset: 0, 0
+  index: -1
+r_leg_1
+  rotate: false
+  xy: 252, 38
+  size: 52, 136
+  orig: 52, 136
+  offset: 0, 0
+  index: -1
+r_leg_2
+  rotate: false
+  xy: 203, 37
+  size: 47, 137
+  orig: 47, 137
+  offset: 0, 0
+  index: -1
+shirt_1
+  rotate: false
+  xy: 203, 176
+  size: 66, 210
+  orig: 66, 210
+  offset: 0, 0
+  index: -1
+shirt_2
+  rotate: false
+  xy: 2, 2
+  size: 49, 160
+  orig: 49, 160
+  offset: 0, 0
+  index: -1
+sword
+  rotate: false
+  xy: 2, 388
+  size: 470, 106
+  orig: 470, 106
+  offset: 0, 0
+  index: -1

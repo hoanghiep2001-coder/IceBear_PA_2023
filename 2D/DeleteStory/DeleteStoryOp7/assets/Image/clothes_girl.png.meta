@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "4e90f9d5-fd01-4566-8c3a-01af0bc89862",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 720,
+  "height": 1280,
+  "platformSettings": {},
+  "subMetas": {
+    "clothes_girl": {
+      "ver": "1.0.6",
+      "uuid": "dbdf646b-c856-4318-8276-77786ede8fac",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "4e90f9d5-fd01-4566-8c3a-01af0bc89862",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -207,
+      "offsetY": -114,
+      "trimX": 62,
+      "trimY": 622,
+      "width": 182,
+      "height": 264,
+      "rawWidth": 720,
+      "rawHeight": 1280,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

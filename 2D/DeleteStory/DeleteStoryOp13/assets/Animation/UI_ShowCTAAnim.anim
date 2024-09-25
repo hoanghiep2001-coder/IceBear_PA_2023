@@ -1,0 +1,74 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "UI_ShowCTAAnim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "opacity": []
+    },
+    "paths": {
+      "Overlay": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 2,
+              "value": 0
+            },
+            {
+              "frame": 2.5,
+              "value": 150
+            }
+          ]
+        }
+      },
+      "btn_playmore": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 3,
+              "value": 0
+            },
+            {
+              "frame": 3.5,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "btn_playmore/hand ": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 3.5,
+              "value": 0
+            },
+            {
+              "frame": 4,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "game_logo": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 2.5,
+              "value": 0
+            },
+            {
+              "frame": 3,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

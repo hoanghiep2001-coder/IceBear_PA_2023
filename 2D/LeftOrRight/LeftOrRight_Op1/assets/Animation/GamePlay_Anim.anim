@@ -1,0 +1,307 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "GamePlay_Anim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 22,
+  "curveData": {
+    "paths": {
+      "Options/Options_Bottom/Box_1": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.16666666666666666,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.45,
+                "y": 0.45,
+                "z": 1
+              }
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.48,
+                "y": 0.48,
+                "z": 1
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.45,
+                "y": 0.45,
+                "z": 1
+              }
+            }
+          ]
+        }
+      },
+      "Options/Options_Bottom/Box_1/btn_2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Options/Options_Bottom/Box_2": {
+        "props": {
+          "scale": [
+            {
+              "frame": 1.5,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.45,
+                "y": 0.45,
+                "z": 1
+              }
+            },
+            {
+              "frame": 1.9166666666666667,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.48,
+                "y": 0.48,
+                "z": 1
+              }
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.45,
+                "y": 0.45,
+                "z": 1
+              }
+            }
+          ]
+        }
+      },
+      "Options/Options_Bottom/Box_2/btn_2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.5,
+              "value": 0
+            },
+            {
+              "frame": 1.9166666666666667,
+              "value": 255
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Options/Options_Top/box_1": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.16666666666666666,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.45,
+                "y": 0.45,
+                "z": 1
+              }
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.48,
+                "y": 0.48,
+                "z": 1
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.45,
+                "y": 0.45,
+                "z": 1
+              }
+            }
+          ]
+        }
+      },
+      "Options/Options_Top/box_1/box1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Options/Options_Top/box_2": {
+        "props": {
+          "scale": [
+            {
+              "frame": 1.5,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.45,
+                "y": 0.45,
+                "z": 1
+              }
+            },
+            {
+              "frame": 1.9166666666666667,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.48,
+                "y": 0.48,
+                "z": 1
+              }
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.45,
+                "y": 0.45,
+                "z": 1
+              }
+            }
+          ]
+        }
+      },
+      "Options/Options_Top/box_2/box1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.5,
+              "value": 0
+            },
+            {
+              "frame": 1.9166666666666667,
+              "value": 255
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Options/Options_Bottom/Hint/hand": {
+        "comps": {},
+        "props": {
+          "position": [
+            {
+              "frame": 1,
+              "value": [
+                -50,
+                -280,
+                0
+              ]
+            },
+            {
+              "frame": 1.5,
+              "value": [
+                95,
+                -280,
+                0
+              ]
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.16666666666666666,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.3,
+                "y": 0.3,
+                "z": 1
+              }
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.3,
+                "y": 0.34,
+                "z": 1
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.3,
+                "y": 0.3,
+                "z": 1
+              }
+            },
+            {
+              "frame": 1.5,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.3,
+                "y": 0.3,
+                "z": 1
+              }
+            },
+            {
+              "frame": 1.9166666666666667,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.3,
+                "y": 0.34,
+                "z": 1
+              }
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.3,
+                "y": 0.3,
+                "z": 1
+              }
+            },
+            {
+              "frame": 2.5,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.3,
+                "y": 0.3,
+                "z": 1
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

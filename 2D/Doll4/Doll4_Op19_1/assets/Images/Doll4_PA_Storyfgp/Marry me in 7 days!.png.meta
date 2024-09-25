@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "5f244484-8218-4831-8f2e-263398e2eb20",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 708,
+  "height": 101,
+  "platformSettings": {},
+  "subMetas": {
+    "Marry me in 7 days!": {
+      "ver": "1.0.6",
+      "uuid": "967af10d-3492-4314-90a1-680dab1f2ce2",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "5f244484-8218-4831-8f2e-263398e2eb20",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 706,
+      "height": 99,
+      "rawWidth": 708,
+      "rawHeight": 101,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

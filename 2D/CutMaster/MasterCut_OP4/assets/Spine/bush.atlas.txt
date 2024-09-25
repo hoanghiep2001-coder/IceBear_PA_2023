@@ -1,0 +1,41 @@
+
+bush.png
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+bush
+  rotate: false
+  xy: 2, 113
+  size: 322, 234
+  orig: 322, 234
+  offset: 0, 0
+  index: -1
+leaf01
+  rotate: false
+  xy: 326, 309
+  size: 21, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+leaf02
+  rotate: false
+  xy: 326, 207
+  size: 14, 37
+  orig: 14, 37
+  offset: 0, 0
+  index: -1
+leaf03
+  rotate: false
+  xy: 326, 246
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+leaf04
+  rotate: false
+  xy: 326, 275
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1

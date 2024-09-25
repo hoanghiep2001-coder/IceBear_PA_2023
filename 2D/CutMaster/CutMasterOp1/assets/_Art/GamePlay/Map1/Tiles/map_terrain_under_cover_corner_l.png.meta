@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "31ec7f17-8a2d-4855-ab74-31bd84ff2e87",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 128,
+  "height": 128,
+  "platformSettings": {},
+  "subMetas": {
+    "map_terrain_under_cover_corner_l": {
+      "ver": "1.0.6",
+      "uuid": "af175f0b-fab1-42d3-a55f-44ace3d1e552",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "31ec7f17-8a2d-4855-ab74-31bd84ff2e87",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -45.5,
+      "trimX": 0,
+      "trimY": 91,
+      "width": 128,
+      "height": 37,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "CombineAnim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Shoe_3": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -100,
+                -54
+              ],
+              "motionPath": [
+                [
+                  -48.8,
+                  62.7,
+                  -91,
+                  50.8,
+                  -3.6,
+                  75.5
+                ]
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                32.7,
+                43.3
+              ],
+              "motionPath": []
+            }
+          ]
+        }
+      },
+      "Shoe_1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -100,
+                -54
+              ],
+              "motionPath": [
+                [
+                  -51.5,
+                  47.7,
+                  -81.4,
+                  25.8,
+                  -15.6,
+                  74.1
+                ]
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                32.7,
+                43.3
+              ],
+              "motionPath": []
+            }
+          ]
+        }
+      },
+      "Shoe_2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -100,
+                -54
+              ],
+              "motionPath": [
+                [
+                  -60.5,
+                  44.6,
+                  -92.7,
+                  21,
+                  -26.4,
+                  69.6
+                ]
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                32.7,
+                43.3
+              ],
+              "motionPath": []
+            }
+          ]
+        }
+      },
+      "Dress_1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -51,
+                118,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

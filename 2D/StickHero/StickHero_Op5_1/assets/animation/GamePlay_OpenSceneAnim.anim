@@ -1,0 +1,97 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "GamePlay_OpenSceneAnim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.4166666666666665,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "StickMan/Stick1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "StickMan/Stick2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "StickMan/Stick3": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 1.5,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Text": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.5,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": 255
+            }
+          ],
+          "angle": [
+            {
+              "frame": 2,
+              "value": 0
+            },
+            {
+              "frame": 2.0833333333333335,
+              "value": -5
+            },
+            {
+              "frame": 2.1666666666666665,
+              "value": 5
+            },
+            {
+              "frame": 2.25,
+              "value": -5
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": 5
+            },
+            {
+              "frame": 2.4166666666666665,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

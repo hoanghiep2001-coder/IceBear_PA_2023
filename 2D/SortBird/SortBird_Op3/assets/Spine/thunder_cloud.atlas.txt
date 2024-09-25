@@ -1,0 +1,55 @@
+
+thunder_cloud.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lightning/lightningtx0001
+  rotate: false
+  xy: 538, 906
+  size: 159, 113
+  orig: 159, 113
+  offset: 0, 0
+  index: -1
+lightning/lightningtx0002
+  rotate: false
+  xy: 699, 906
+  size: 159, 113
+  orig: 159, 113
+  offset: 0, 0
+  index: -1
+lightning/lightningtx0003
+  rotate: false
+  xy: 860, 906
+  size: 159, 113
+  orig: 159, 113
+  offset: 0, 0
+  index: -1
+lightning/lightningtx0004
+  rotate: false
+  xy: 538, 791
+  size: 159, 113
+  orig: 159, 113
+  offset: 0, 0
+  index: -1
+lightning/lightningtx0005
+  rotate: false
+  xy: 699, 791
+  size: 159, 113
+  orig: 159, 113
+  offset: 0, 0
+  index: -1
+rain_1
+  rotate: false
+  xy: 2, 782
+  size: 534, 237
+  orig: 534, 237
+  offset: 0, 0
+  index: -1
+rain_2
+  rotate: false
+  xy: 860, 875
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1

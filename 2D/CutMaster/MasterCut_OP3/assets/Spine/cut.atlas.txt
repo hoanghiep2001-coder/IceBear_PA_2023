@@ -1,0 +1,34 @@
+
+cut.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blast
+  rotate: false
+  xy: 2, 61
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+flash
+  rotate: false
+  xy: 2, 2
+  size: 64, 57
+  orig: 64, 57
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 68, 61
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+smoke22
+  rotate: false
+  xy: 134, 61
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

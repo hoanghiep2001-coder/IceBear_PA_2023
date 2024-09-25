@@ -1,0 +1,77 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "MergeAnim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3.1666666666666665,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Spine/Spine_GunContainer/ak_47": {
+        "comps": {},
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": true
+            }
+          ],
+          "position": [
+            {
+              "frame": 2.5,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 3.1666666666666665,
+              "value": [
+                -62,
+                58.11,
+                0
+              ]
+            }
+          ],
+          "scale": [
+            {
+              "frame": 1.8333333333333333,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1,
+                "y": 1,
+                "z": 1
+              }
+            },
+            {
+              "frame": 2.5,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1,
+                "y": 1,
+                "z": 1
+              }
+            },
+            {
+              "frame": 3.1666666666666665,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.65,
+                "y": 0.65,
+                "z": 1
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

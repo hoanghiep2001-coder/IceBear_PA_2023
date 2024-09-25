@@ -1,0 +1,111 @@
+
+Stick Luffy.png
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Spark01
+  rotate: false
+  xy: 148, 400
+  size: 102, 101
+  orig: 102, 102
+  offset: 0, 1
+  index: -1
+band_1
+  rotate: false
+  xy: 2, 2
+  size: 25, 74
+  orig: 25, 74
+  offset: 0, 0
+  index: -1
+band_2
+  rotate: false
+  xy: 58, 233
+  size: 51, 78
+  orig: 51, 78
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 226
+  size: 54, 166
+  orig: 54, 166
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 394
+  size: 144, 107
+  orig: 144, 107
+  offset: 0, 0
+  index: -1
+l_hand_1
+  rotate: false
+  xy: 418, 415
+  size: 32, 86
+  orig: 32, 86
+  offset: 0, 0
+  index: -1
+l_hand_2
+  rotate: false
+  xy: 452, 415
+  size: 32, 86
+  orig: 34, 88
+  offset: 1, 1
+  index: -1
+l_leg_1
+  rotate: false
+  xy: 252, 397
+  size: 44, 104
+  orig: 44, 104
+  offset: 0, 0
+  index: -1
+l_leg_2
+  rotate: false
+  xy: 298, 392
+  size: 39, 109
+  orig: 41, 111
+  offset: 1, 1
+  index: -1
+r_hand_1
+  rotate: false
+  xy: 111, 224
+  size: 28, 87
+  orig: 30, 89
+  offset: 1, 1
+  index: -1
+r_hand_2
+  rotate: false
+  xy: 52, 138
+  size: 28, 86
+  orig: 28, 86
+  offset: 0, 0
+  index: -1
+r_leg_1
+  rotate: false
+  xy: 339, 394
+  size: 39, 107
+  orig: 39, 107
+  offset: 0, 0
+  index: -1
+r_leg_2
+  rotate: false
+  xy: 380, 392
+  size: 36, 109
+  orig: 38, 111
+  offset: 1, 1
+  index: -1
+shirt_2
+  rotate: false
+  xy: 2, 78
+  size: 48, 146
+  orig: 48, 146
+  offset: 0, 0
+  index: -1
+wave
+  rotate: false
+  xy: 58, 313
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1

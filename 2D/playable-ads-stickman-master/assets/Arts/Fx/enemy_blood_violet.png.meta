@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "0a7183ef-625f-4949-be85-f2affdb76204",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "point",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 144,
+  "height": 144,
+  "platformSettings": {},
+  "subMetas": {
+    "enemy_blood_violet": {
+      "ver": "1.0.6",
+      "uuid": "c892d03c-5fbe-4de3-904a-beb36672c0ca",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "0a7183ef-625f-4949-be85-f2affdb76204",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 3,
+      "trimX": 15,
+      "trimY": 12,
+      "width": 111,
+      "height": 114,
+      "rawWidth": 144,
+      "rawHeight": 144,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

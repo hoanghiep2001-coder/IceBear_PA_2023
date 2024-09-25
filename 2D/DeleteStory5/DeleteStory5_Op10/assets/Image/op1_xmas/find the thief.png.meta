@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "1695f369-2500-49f0-8105-3fb8ec86d8a6",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 587,
+  "height": 80,
+  "platformSettings": {},
+  "subMetas": {
+    "find the thief": {
+      "ver": "1.0.6",
+      "uuid": "90f63ee2-ca6d-4c16-b001-c80574bbeaf3",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "1695f369-2500-49f0-8105-3fb8ec86d8a6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 587,
+      "height": 80,
+      "rawWidth": 587,
+      "rawHeight": 80,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

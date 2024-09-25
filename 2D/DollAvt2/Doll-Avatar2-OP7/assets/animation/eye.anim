@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "eye",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 50,
+          "curve": "constant"
+        },
+        {
+          "frame": 1,
+          "value": 47,
+          "curve": "constant"
+        },
+        {
+          "frame": 2,
+          "value": 50
+        }
+      ]
+    }
+  },
+  "events": []
+}

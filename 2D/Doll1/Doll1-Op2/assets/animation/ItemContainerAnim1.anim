@@ -1,0 +1,59 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ItemContainerAnim1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "ItemButton1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -260,
+                -151.631,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -55,
+                -151.631,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "ItemButton2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                265,
+                -151.631,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                55,
+                -151.631,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

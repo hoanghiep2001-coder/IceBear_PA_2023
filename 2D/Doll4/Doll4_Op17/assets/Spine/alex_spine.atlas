@@ -1,0 +1,125 @@
+
+alex_spine.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hi, Babe Go Party tonight
+  rotate: false
+  xy: 1572, 52
+  size: 87, 93
+  orig: 87, 93
+  offset: 0, 0
+  index: -1
+Layer 16
+  rotate: false
+  xy: 92, 3
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+Layer 17
+  rotate: true
+  xy: 216, 8
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+Marry me
+  rotate: false
+  xy: 140, 30
+  size: 74, 19
+  orig: 74, 19
+  offset: 0, 0
+  index: -1
+What wrong with you
+  rotate: false
+  xy: 2, 6
+  size: 88, 43
+  orig: 88, 43
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 51
+  size: 201, 601
+  orig: 201, 601
+  offset: 0, 0
+  index: -1
+flower
+  rotate: true
+  xy: 1223, 98
+  size: 154, 152
+  orig: 154, 152
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 1086, 68
+  size: 135, 184
+  orig: 135, 186
+  offset: 0, 2
+  index: -1
+hand1
+  rotate: false
+  xy: 1609, 165
+  size: 81, 87
+  orig: 83, 89
+  offset: 0, 2
+  index: -1
+hand2
+  rotate: false
+  xy: 1377, 115
+  size: 126, 137
+  orig: 126, 140
+  offset: 0, 3
+  index: -1
+love_bubble
+  rotate: true
+  xy: 928, 38
+  size: 214, 156
+  orig: 214, 156
+  offset: 0, 0
+  index: -1
+phone
+  rotate: true
+  xy: 1223, 11
+  size: 85, 195
+  orig: 91, 199
+  offset: 0, 4
+  index: -1
+phonecall_body
+  rotate: true
+  xy: 605, 12
+  size: 240, 321
+  orig: 244, 321
+  offset: 0, 0
+  index: -1
+phonecall_lip
+  rotate: false
+  xy: 140, 2
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+result_lip
+  rotate: false
+  xy: 185, 10
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+wrong_bubble
+  rotate: false
+  xy: 1420, 2
+  size: 150, 111
+  orig: 150, 111
+  offset: 0, 0
+  index: -1
+wrong_face
+  rotate: true
+  xy: 1505, 147
+  size: 105, 102
+  orig: 107, 102
+  offset: 0, 0
+  index: -1

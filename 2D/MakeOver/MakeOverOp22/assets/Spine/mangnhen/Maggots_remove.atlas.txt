@@ -1,0 +1,27 @@
+
+Maggots_remove.png
+size: 512, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+tweezers01
+  rotate: false
+  xy: 2, 278
+  size: 188, 1377
+  orig: 188, 1377
+  offset: 0, 0
+  index: -1
+tweezers02
+  rotate: false
+  xy: 192, 260
+  size: 134, 1395
+  orig: 134, 1395
+  offset: 0, 0
+  index: -1
+web (2)
+  rotate: false
+  xy: 2, 2
+  size: 243, 256
+  orig: 243, 256
+  offset: 0, 0
+  index: -1

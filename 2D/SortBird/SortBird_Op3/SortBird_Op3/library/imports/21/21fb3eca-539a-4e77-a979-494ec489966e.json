@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boss_thunder",
+    "texture": "50265455-cb80-454e-bd8d-4d40e6ee53e9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      351,
+      429
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      351,
+      429
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

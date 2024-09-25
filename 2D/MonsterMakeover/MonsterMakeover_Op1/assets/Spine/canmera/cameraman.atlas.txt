@@ -1,0 +1,55 @@
+
+cameraman.png
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Layer 96
+  rotate: false
+  xy: 2, 2
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 126, 22
+  size: 97, 202
+  orig: 97, 202
+  offset: 0, 0
+  index: -1
+duoi vu khi
+  rotate: false
+  xy: 2, 226
+  size: 143, 272
+  orig: 143, 272
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 55, 34
+  size: 54, 112
+  orig: 54, 112
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 2, 31
+  size: 51, 115
+  orig: 51, 115
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 148
+  size: 122, 76
+  orig: 122, 76
+  offset: 0, 0
+  index: -1
+vu khi
+  rotate: false
+  xy: 147, 226
+  size: 143, 272
+  orig: 143, 272
+  offset: 0, 0
+  index: -1

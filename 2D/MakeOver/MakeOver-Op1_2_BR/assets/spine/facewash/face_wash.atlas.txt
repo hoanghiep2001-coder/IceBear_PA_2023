@@ -1,0 +1,27 @@
+
+face_wash.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cleanser_1
+  rotate: false
+  xy: 2, 151
+  size: 415, 767
+  orig: 415, 767
+  offset: 0, 0
+  index: -1
+cleanser_2
+  rotate: false
+  xy: 347, 11
+  size: 238, 138
+  orig: 238, 138
+  offset: 0, 0
+  index: -1
+cleanser_3
+  rotate: false
+  xy: 2, 2
+  size: 343, 147
+  orig: 343, 147
+  offset: 0, 0
+  index: -1

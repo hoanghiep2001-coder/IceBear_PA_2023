@@ -1,0 +1,90 @@
+
+Sercurity.png
+size: 1024, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Black_Spy/Arm_L
+  rotate: false
+  xy: 284, 61
+  size: 58, 176
+  orig: 58, 176
+  offset: 0, 0
+  index: -1
+Black_Spy/Arm_R
+  rotate: false
+  xy: 224, 59
+  size: 58, 178
+  orig: 58, 178
+  offset: 0, 0
+  index: -1
+Black_Spy/Baton
+  rotate: false
+  xy: 616, 41
+  size: 232, 36
+  orig: 232, 36
+  offset: 0, 0
+  index: -1
+Black_Spy/Body
+  rotate: false
+  xy: 2, 2
+  size: 220, 235
+  orig: 220, 235
+  offset: 0, 0
+  index: -1
+Black_Spy/Glass
+  rotate: false
+  xy: 892, 199
+  size: 107, 38
+  orig: 107, 38
+  offset: 0, 0
+  index: -1
+Black_Spy/Head
+  rotate: false
+  xy: 616, 79
+  size: 170, 158
+  orig: 170, 158
+  offset: 0, 0
+  index: -1
+Black_Spy/Leg_L
+  rotate: false
+  xy: 788, 127
+  size: 102, 110
+  orig: 102, 110
+  offset: 0, 0
+  index: -1
+Black_Spy/Mouth_1
+  rotate: false
+  xy: 948, 173
+  size: 52, 24
+  orig: 52, 24
+  offset: 0, 0
+  index: -1
+Black_Spy/Mouth_2
+  rotate: false
+  xy: 788, 79
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+double barell shotgun
+  rotate: false
+  xy: 344, 62
+  size: 270, 175
+  orig: 270, 175
+  offset: 0, 0
+  index: -1
+mouth12
+  rotate: false
+  xy: 892, 159
+  size: 54, 38
+  orig: 54, 38
+  offset: 0, 0
+  index: -1
+muzzle
+  rotate: false
+  xy: 850, 28
+  size: 154, 97
+  orig: 154, 97
+  offset: 0, 0
+  index: -1

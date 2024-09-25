@@ -1,0 +1,76 @@
+
+Stick Marine.png
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 280
+  size: 75, 190
+  orig: 75, 190
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 55, 149
+  size: 155, 129
+  orig: 155, 129
+  offset: 0, 0
+  index: -1
+l_hand_1
+  rotate: false
+  xy: 115, 363
+  size: 40, 107
+  orig: 40, 107
+  offset: 0, 0
+  index: -1
+l_hand_2
+  rotate: false
+  xy: 151, 38
+  size: 41, 109
+  orig: 43, 111
+  offset: 1, 1
+  index: -1
+l_leg_1
+  rotate: false
+  xy: 98, 18
+  size: 51, 129
+  orig: 51, 130
+  offset: 0, 0
+  index: -1
+l_leg_2
+  rotate: false
+  xy: 2, 141
+  size: 51, 137
+  orig: 51, 137
+  offset: 0, 0
+  index: -1
+r_hand_1
+  rotate: false
+  xy: 194, 38
+  size: 36, 109
+  orig: 38, 111
+  offset: 1, 1
+  index: -1
+r_hand_2
+  rotate: false
+  xy: 79, 362
+  size: 34, 108
+  orig: 34, 108
+  offset: 0, 0
+  index: -1
+r_leg_1
+  rotate: false
+  xy: 52, 6
+  size: 44, 133
+  orig: 45, 133
+  offset: 1, 0
+  index: -1
+r_leg_2
+  rotate: false
+  xy: 2, 2
+  size: 48, 137
+  orig: 48, 137
+  offset: 0, 0
+  index: -1

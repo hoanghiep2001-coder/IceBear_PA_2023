@@ -1,0 +1,69 @@
+
+shark.png
+size: 509, 509
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+shark
+  rotate: false
+  xy: 466, 349
+  size: 39, 38
+  orig: 39, 39
+  offset: 0, 1
+  index: -1
+shark_body1
+  rotate: false
+  xy: 2, 297
+  size: 211, 210
+  orig: 212, 210
+  offset: 1, 0
+  index: -1
+shark_body_2
+  rotate: false
+  xy: 215, 333
+  size: 135, 174
+  orig: 136, 174
+  offset: 0, 0
+  index: -1
+shark_fin1
+  rotate: false
+  xy: 2, 189
+  size: 86, 106
+  orig: 86, 106
+  offset: 0, 0
+  index: -1
+shark_fin2
+  rotate: false
+  xy: 466, 319
+  size: 40, 28
+  orig: 42, 28
+  offset: 1, 0
+  index: -1
+shark_fin3
+  rotate: false
+  xy: 215, 230
+  size: 114, 101
+  orig: 114, 101
+  offset: 0, 0
+  index: -1
+shark_mouth1
+  rotate: false
+  xy: 352, 389
+  size: 155, 118
+  orig: 155, 119
+  offset: 0, 1
+  index: -1
+shark_mouth2
+  rotate: false
+  xy: 331, 182
+  size: 131, 72
+  orig: 132, 72
+  offset: 0, 0
+  index: -1
+shark_tail
+  rotate: false
+  xy: 352, 256
+  size: 112, 131
+  orig: 112, 131
+  offset: 0, 0
+  index: -1

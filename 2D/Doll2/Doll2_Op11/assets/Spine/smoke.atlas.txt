@@ -1,0 +1,13 @@
+
+smoke.png
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+spray/smoke
+  rotate: false
+  xy: 2, 2
+  size: 151, 159
+  orig: 178, 164
+  offset: 13, 0
+  index: -1

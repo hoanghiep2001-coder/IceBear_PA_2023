@@ -1,0 +1,83 @@
+
+weird_man.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+arm01
+  rotate: false
+  xy: 2, 66
+  size: 152, 193
+  orig: 152, 193
+  offset: 0, 0
+  index: -1
+arm02
+  rotate: false
+  xy: 2, 261
+  size: 219, 272
+  orig: 219, 272
+  offset: 0, 0
+  index: -1
+arm03
+  rotate: false
+  xy: 132, 904
+  size: 151, 115
+  orig: 151, 115
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 535
+  size: 128, 484
+  orig: 128, 484
+  offset: 0, 0
+  index: -1
+bread
+  rotate: false
+  xy: 132, 688
+  size: 106, 92
+  orig: 106, 92
+  offset: 0, 0
+  index: -1
+leg_hair
+  rotate: false
+  xy: 2, 2
+  size: 95, 62
+  orig: 95, 62
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: false
+  xy: 99, 49
+  size: 37, 15
+  orig: 37, 15
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: false
+  xy: 99, 34
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+pant
+  rotate: false
+  xy: 156, 32
+  size: 131, 79
+  orig: 131, 79
+  offset: 0, 0
+  index: -1
+shirt
+  rotate: false
+  xy: 156, 113
+  size: 119, 146
+  orig: 119, 146
+  offset: 0, 0
+  index: -1
+sock
+  rotate: false
+  xy: 132, 782
+  size: 119, 120
+  orig: 119, 120
+  offset: 0, 0
+  index: -1

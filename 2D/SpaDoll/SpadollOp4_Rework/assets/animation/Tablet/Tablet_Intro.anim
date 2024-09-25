@@ -1,0 +1,497 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Tablet_Intro",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.1666666666666665,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Character_1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -270,
+                -75,
+                0
+              ]
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                -145,
+                -75,
+                0
+              ]
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.3,
+                "y": 0.3,
+                "z": 1
+              }
+            }
+          ]
+        }
+      },
+      "Dress_1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -276,
+                -134,
+                0
+              ]
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                -150,
+                -134,
+                0
+              ]
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.3,
+                "y": 0.3,
+                "z": 1
+              }
+            }
+          ]
+        }
+      },
+      "Character_2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                270,
+                -75,
+                0
+              ]
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                145,
+                -75,
+                0
+              ]
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.3,
+                "y": 0.3,
+                "z": 1
+              }
+            }
+          ]
+        }
+      },
+      "Dress_2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                270,
+                -137,
+                0
+              ]
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                145,
+                -137,
+                0
+              ]
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.3,
+                "y": 0.3,
+                "z": 1
+              }
+            }
+          ]
+        }
+      },
+      "title": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                0,
+                285,
+                0
+              ]
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": [
+                0,
+                190,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.6666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 255
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.6666666666666666,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.4,
+                "y": 0.4,
+                "z": 1
+              }
+            }
+          ]
+        }
+      },
+      "SratchAble_1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "SratchAble_2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "hand": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.8333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 2.1666666666666665,
+              "value": 255
+            }
+          ],
+          "position": [
+            {
+              "frame": 1.8333333333333333,
+              "value": [
+                -85,
+                -167,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "Ellipse 1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": 255
+            }
+          ],
+          "position": [
+            {
+              "frame": 1.3333333333333333,
+              "value": [
+                100,
+                -123,
+                0
+              ]
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.3,
+                "y": 0.3,
+                "z": 1
+              }
+            }
+          ]
+        }
+      },
+      "Ellipse 2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": 255
+            }
+          ],
+          "position": [
+            {
+              "frame": 1.3333333333333333,
+              "value": [
+                -100,
+                -123,
+                0
+              ]
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.3,
+                "y": 0.3,
+                "z": 1
+              }
+            }
+          ]
+        }
+      },
+      "SratchAble_2/Mask/line": {
+        "props": {
+          "scale": [
+            {
+              "frame": 1.3333333333333333,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.35,
+                "y": 0.35,
+                "z": 0.2
+              }
+            }
+          ],
+          "position": [
+            {
+              "frame": 1.3333333333333333,
+              "value": [
+                -1.5,
+                -123,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "SratchAble_1/Mask/line": {
+        "props": {
+          "scale": [
+            {
+              "frame": 1.3333333333333333,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.35,
+                "y": 0.35,
+                "z": 0.2
+              }
+            }
+          ],
+          "position": [
+            {
+              "frame": 1.3333333333333333,
+              "value": [
+                -1.5,
+                -123.265,
+                0
+              ]
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": [
+                -1.5,
+                -123,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "StopElipse 1": {
+        "props": {
+          "position": [
+            {
+              "frame": 1.8333333333333333,
+              "value": [
+                -489.773,
+                -124.369,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "StopElipse 2": {
+        "props": {
+          "position": [
+            {
+              "frame": 1.8333333333333333,
+              "value": [
+                363.382,
+                -122.159,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "StopElipse 4": {
+        "props": {
+          "position": [
+            {
+              "frame": 1.8333333333333333,
+              "value": [
+                -100,
+                -123.379,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "StopElipse 3": {
+        "props": {
+          "position": [
+            {
+              "frame": 1.8333333333333333,
+              "value": [
+                100,
+                -122.667,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "SratchAble_3/Mask/line": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -1.5,
+                -123,
+                0
+              ]
+            },
+            {
+              "frame": 1.9833333333333334,
+              "value": [
+                -1.5,
+                -123,
+                0
+              ]
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.3,
+                "y": 0.35,
+                "z": 0.2
+              }
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.3,
+                "y": 0.35,
+                "z": 0.2
+              }
+            }
+          ]
+        }
+      },
+      "SratchAble_4/Mask/line": {
+        "props": {
+          "position": [
+            {
+              "frame": 1.3333333333333333,
+              "value": [
+                -1.5,
+                -123,
+                0
+              ]
+            }
+          ],
+          "scale": [
+            {
+              "frame": 1.3333333333333333,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.3,
+                "y": 0.35,
+                "z": 0.2
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

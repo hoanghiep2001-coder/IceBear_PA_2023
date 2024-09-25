@@ -1,0 +1,143 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ItemAnim3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "ItemButton1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -40,
+                -72,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -260,
+                -72,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ItemButton2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                40,
+                -72,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                260,
+                -72,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ItemButton3": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -40,
+                -152.744,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -260,
+                -152.744,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ItemButton4": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                40,
+                -152.744,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                260,
+                -152.744,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

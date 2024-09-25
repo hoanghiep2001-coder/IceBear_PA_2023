@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thunder_cloud",
+    "texture": "16a37d2a-6925-4309-a692-3e95b6c9c885",
+    "atlas": "",
+    "rect": [
+      8,
+      782,
+      984,
+      237
+    ],
+    "offset": [
+      -12,
+      -388.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

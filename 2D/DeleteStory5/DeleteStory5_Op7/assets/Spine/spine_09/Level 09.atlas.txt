@@ -1,0 +1,117 @@
+
+Level 09.png
+size: 974, 974
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Layer 8
+  rotate: false
+  xy: 284, 87
+  size: 172, 212
+  orig: 172, 212
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 238, 301
+  size: 524, 671
+  orig: 524, 671
+  offset: 0, 0
+  index: -1
+boy_beard
+  rotate: false
+  xy: 458, 98
+  size: 124, 201
+  orig: 124, 201
+  offset: 0, 0
+  index: -1
+girl_eye
+  rotate: false
+  xy: 284, 37
+  size: 60, 15
+  orig: 61, 15
+  offset: 1, 0
+  index: -1
+girl_face_1
+  rotate: false
+  xy: 734, 96
+  size: 99, 107
+  orig: 99, 107
+  offset: 0, 0
+  index: -1
+girl_face_2
+  rotate: false
+  xy: 584, 28
+  size: 88, 92
+  orig: 88, 92
+  offset: 0, 0
+  index: -1
+girl_hair
+  rotate: false
+  xy: 2, 30
+  size: 280, 255
+  orig: 280, 255
+  offset: 0, 0
+  index: -1
+girl_head
+  rotate: false
+  xy: 584, 122
+  size: 148, 177
+  orig: 148, 177
+  offset: 0, 0
+  index: -1
+guard_body
+  rotate: false
+  xy: 2, 287
+  size: 234, 685
+  orig: 234, 685
+  offset: 0, 0
+  index: -1
+guard_eye
+  rotate: false
+  xy: 346, 41
+  size: 55, 11
+  orig: 55, 11
+  offset: 0, 0
+  index: -1
+guard_face_1
+  rotate: false
+  xy: 458, 2
+  size: 87, 94
+  orig: 87, 94
+  offset: 0, 0
+  index: -1
+guard_face_2
+  rotate: false
+  xy: 734, 205
+  size: 101, 94
+  orig: 102, 94
+  offset: 1, 0
+  index: -1
+guard_lids
+  rotate: false
+  xy: 284, 54
+  size: 74, 31
+  orig: 74, 31
+  offset: 0, 0
+  index: -1
+
+Level 09_2.png
+size: 582, 582
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+boy_coat
+  rotate: false
+  xy: 268, 182
+  size: 312, 398
+  orig: 312, 398
+  offset: 0, 0
+  index: -1
+girl_body
+  rotate: false
+  xy: 2, 98
+  size: 264, 482
+  orig: 264, 482
+  offset: 0, 0
+  index: -1

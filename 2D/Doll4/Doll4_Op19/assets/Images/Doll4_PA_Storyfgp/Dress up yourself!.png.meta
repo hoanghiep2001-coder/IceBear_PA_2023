@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d1db7efe-a5e8-4358-9bf6-933f9f80be2c",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 660,
+  "height": 101,
+  "platformSettings": {},
+  "subMetas": {
+    "Dress up yourself!": {
+      "ver": "1.0.6",
+      "uuid": "639a2474-20d5-44e1-a41f-3e67aa8f8400",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d1db7efe-a5e8-4358-9bf6-933f9f80be2c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 658,
+      "height": 99,
+      "rawWidth": 660,
+      "rawHeight": 101,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

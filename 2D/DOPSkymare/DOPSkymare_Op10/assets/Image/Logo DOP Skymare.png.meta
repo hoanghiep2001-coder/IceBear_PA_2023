@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "53a7519b-2264-46cd-b6ee-7424da7adad7",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 400,
+  "height": 210,
+  "platformSettings": {},
+  "subMetas": {
+    "Logo DOP Skymare": {
+      "ver": "1.0.6",
+      "uuid": "e52b67ec-4814-482c-9192-9862043f13d6",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "53a7519b-2264-46cd-b6ee-7424da7adad7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 400,
+      "height": 210,
+      "rawWidth": 400,
+      "rawHeight": 210,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

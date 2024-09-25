@@ -1,0 +1,159 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "GamePlay_OpenSceneAnim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Character": {
+        "props": {
+          "scale": [],
+          "position": []
+        }
+      },
+      "Overlay": {
+        "props": {
+          "opacity": []
+        }
+      },
+      "bg2": {
+        "props": {
+          "opacity": []
+        }
+      },
+      "Bg_Horizontal/bg2": {
+        "props": {
+          "opacity": []
+        }
+      },
+      "Bg_Horizontal/bg2_flip": {
+        "props": {
+          "opacity": []
+        }
+      },
+      "Character/BOY": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "text": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 255
+            }
+          ],
+          "angle": [
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 1.0833333333333333,
+              "value": -5
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 5
+            },
+            {
+              "frame": 1.25,
+              "value": -5
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 5
+            },
+            {
+              "frame": 1.4166666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Character/button/button2": {
+        "props": {
+          "position": [
+            {
+              "frame": 1,
+              "value": [
+                -160,
+                -460,
+                0
+              ]
+            },
+            {
+              "frame": 1.5,
+              "value": [
+                -120,
+                -460,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 1.5,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Character/button/button3": {
+        "props": {
+          "position": [
+            {
+              "frame": 1,
+              "value": [
+                160,
+                -460,
+                0
+              ]
+            },
+            {
+              "frame": 1.5,
+              "value": [
+                120,
+                -460,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 1.5,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,41 @@
+
+Slap IT.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 460, 990
+  orig: 460, 990
+  offset: 0, 0
+  index: -1
+face01
+  rotate: false
+  xy: 464, 825
+  size: 270, 167
+  orig: 270, 167
+  offset: 0, 0
+  index: -1
+face02
+  rotate: false
+  xy: 464, 688
+  size: 267, 135
+  orig: 267, 135
+  offset: 0, 0
+  index: -1
+hand_1
+  rotate: false
+  xy: 464, 157
+  size: 256, 529
+  orig: 256, 529
+  offset: 0, 0
+  index: -1
+status_hit
+  rotate: false
+  xy: 464, 17
+  size: 159, 138
+  orig: 159, 138
+  offset: 0, 0
+  index: -1
