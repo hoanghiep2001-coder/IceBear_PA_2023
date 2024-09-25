@@ -1,0 +1,123 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b81b6e56-1df2-4c12-9940-36bdbb5952dc",
+  "files": [],
+  "subMetas": {
+    "df853": {
+      "importer": "gltf-mesh",
+      "uuid": "b81b6e56-1df2-4c12-9940-36bdbb5952dc@df853",
+      "displayName": "",
+      "id": "df853",
+      "name": "Grass_03.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "b81b6e56-1df2-4c12-9940-36bdbb5952dc@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "b81b6e56-1df2-4c12-9940-36bdbb5952dc@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b81b6e56-1df2-4c12-9940-36bdbb5952dc@48b02"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "032b2": {
+      "importer": "gltf-material",
+      "uuid": "b81b6e56-1df2-4c12-9940-36bdbb5952dc@032b2",
+      "displayName": "",
+      "id": "032b2",
+      "name": "megatexture.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6f9e7": {
+      "importer": "gltf-scene",
+      "uuid": "b81b6e56-1df2-4c12-9940-36bdbb5952dc@6f9e7",
+      "displayName": "",
+      "id": "6f9e7",
+      "name": "Grass_03.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "b81b6e56-1df2-4c12-9940-36bdbb5952dc@48b02"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "b81b6e56-1df2-4c12-9940-36bdbb5952dc@6f9e7",
+    "assetFinder": {
+      "meshes": [
+        "b81b6e56-1df2-4c12-9940-36bdbb5952dc@df853"
+      ],
+      "skeletons": [],
+      "textures": [
+        "b81b6e56-1df2-4c12-9940-36bdbb5952dc@7d6ab"
+      ],
+      "materials": [
+        "b81b6e56-1df2-4c12-9940-36bdbb5952dc@032b2"
+      ],
+      "scenes": [
+        "b81b6e56-1df2-4c12-9940-36bdbb5952dc@6f9e7"
+      ]
+    }
+  }
+}

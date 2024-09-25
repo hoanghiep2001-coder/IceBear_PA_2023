@@ -1,0 +1,97 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "48804f5d-3a4d-41b1-91cf-d2edb614ea04",
+  "files": [],
+  "subMetas": {
+    "fe6ae": {
+      "importer": "gltf-mesh",
+      "uuid": "48804f5d-3a4d-41b1-91cf-d2edb614ea04@fe6ae",
+      "displayName": "",
+      "id": "fe6ae",
+      "name": "Cone.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "34af3": {
+      "importer": "gltf-mesh",
+      "uuid": "48804f5d-3a4d-41b1-91cf-d2edb614ea04@34af3",
+      "displayName": "",
+      "id": "34af3",
+      "name": "Straight.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "48804f5d-3a4d-41b1-91cf-d2edb614ea04@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fa369": {
+      "importer": "gltf-scene",
+      "uuid": "48804f5d-3a4d-41b1-91cf-d2edb614ea04@fa369",
+      "displayName": "",
+      "id": "fa369",
+      "name": "Range.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "redirect": "48804f5d-3a4d-41b1-91cf-d2edb614ea04@fa369",
+    "assetFinder": {
+      "meshes": [
+        "48804f5d-3a4d-41b1-91cf-d2edb614ea04@fe6ae",
+        "48804f5d-3a4d-41b1-91cf-d2edb614ea04@34af3"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "48804f5d-3a4d-41b1-91cf-d2edb614ea04@8d883"
+      ],
+      "scenes": [
+        "48804f5d-3a4d-41b1-91cf-d2edb614ea04@fa369"
+      ]
+    },
+    "fbx": {
+      "promoteSingleRootNode": false
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "fcbde73d-c24e-437a-bd70-303e527e5f80",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "959b8": {
+      "importer": "gltf-animation",
+      "uuid": "fcbde73d-c24e-437a-bd70-303e527e5f80@959b8",
+      "displayName": "",
+      "id": "959b8",
+      "name": "Fs_Man_idle_mirror_IP.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.5333333015441895
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "49d42": {
+      "importer": "gltf-scene",
+      "uuid": "fcbde73d-c24e-437a-bd70-303e527e5f80@49d42",
+      "displayName": "",
+      "id": "49d42",
+      "name": "Fs_Man_idle_mirror.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Fs_Man_idle_mirror_IP",
+        "duration": 2.5333333015441895,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Fs_Man_idle_mirror_IP",
+            "from": 0,
+            "to": 2.5333333015441895,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "fcbde73d-c24e-437a-bd70-303e527e5f80@49d42",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "fcbde73d-c24e-437a-bd70-303e527e5f80@49d42"
+      ]
+    }
+  }
+}

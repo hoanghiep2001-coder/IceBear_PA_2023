@@ -1,0 +1,123 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "1bfa2c5c-45a0-4c40-905d-1237e92c0149",
+  "files": [],
+  "subMetas": {
+    "d8486": {
+      "importer": "gltf-mesh",
+      "uuid": "1bfa2c5c-45a0-4c40-905d-1237e92c0149@d8486",
+      "displayName": "",
+      "id": "d8486",
+      "name": "nordic_plant.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "1bfa2c5c-45a0-4c40-905d-1237e92c0149@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "1bfa2c5c-45a0-4c40-905d-1237e92c0149@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "1bfa2c5c-45a0-4c40-905d-1237e92c0149@48b02"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2a0e3": {
+      "importer": "gltf-material",
+      "uuid": "1bfa2c5c-45a0-4c40-905d-1237e92c0149@2a0e3",
+      "displayName": "",
+      "id": "2a0e3",
+      "name": "Enviroment1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7bfba": {
+      "importer": "gltf-scene",
+      "uuid": "1bfa2c5c-45a0-4c40-905d-1237e92c0149@7bfba",
+      "displayName": "",
+      "id": "7bfba",
+      "name": "livingroom_plant.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "1bfa2c5c-45a0-4c40-905d-1237e92c0149@48b02"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "1bfa2c5c-45a0-4c40-905d-1237e92c0149@7bfba",
+    "assetFinder": {
+      "meshes": [
+        "1bfa2c5c-45a0-4c40-905d-1237e92c0149@d8486"
+      ],
+      "skeletons": [],
+      "textures": [
+        "1bfa2c5c-45a0-4c40-905d-1237e92c0149@7d6ab"
+      ],
+      "materials": [
+        "1bfa2c5c-45a0-4c40-905d-1237e92c0149@2a0e3"
+      ],
+      "scenes": [
+        "1bfa2c5c-45a0-4c40-905d-1237e92c0149@7bfba"
+      ]
+    }
+  }
+}

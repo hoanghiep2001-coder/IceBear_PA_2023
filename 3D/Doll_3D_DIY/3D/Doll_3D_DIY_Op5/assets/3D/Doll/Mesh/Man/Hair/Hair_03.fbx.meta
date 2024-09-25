@@ -1,0 +1,76 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "aa1a41cf-09e4-49e8-8f76-62afdfeadaf9",
+  "files": [],
+  "subMetas": {
+    "e49cd": {
+      "importer": "gltf-mesh",
+      "uuid": "aa1a41cf-09e4-49e8-8f76-62afdfeadaf9@e49cd",
+      "displayName": "",
+      "id": "e49cd",
+      "name": "Hair_03.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d11cc": {
+      "importer": "gltf-material",
+      "uuid": "aa1a41cf-09e4-49e8-8f76-62afdfeadaf9@d11cc",
+      "displayName": "",
+      "id": "d11cc",
+      "name": "m_hair_03.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "368ce": {
+      "importer": "gltf-scene",
+      "uuid": "aa1a41cf-09e4-49e8-8f76-62afdfeadaf9@368ce",
+      "displayName": "",
+      "id": "368ce",
+      "name": "Hair_03.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "aa1a41cf-09e4-49e8-8f76-62afdfeadaf9@368ce",
+    "assetFinder": {
+      "meshes": [
+        "aa1a41cf-09e4-49e8-8f76-62afdfeadaf9@e49cd"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "aa1a41cf-09e4-49e8-8f76-62afdfeadaf9@d11cc"
+      ],
+      "scenes": [
+        "aa1a41cf-09e4-49e8-8f76-62afdfeadaf9@368ce"
+      ]
+    }
+  }
+}

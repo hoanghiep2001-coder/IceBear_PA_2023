@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "21c2b731-62b9-4927-a22c-705cddd85d0d",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "7f3dc": {
+      "importer": "gltf-animation",
+      "uuid": "21c2b731-62b9-4927-a22c-705cddd85d0d@7f3dc",
+      "displayName": "",
+      "id": "7f3dc",
+      "name": "walk.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.399999976158142
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "c93cc": {
+      "importer": "gltf-scene",
+      "uuid": "21c2b731-62b9-4927-a22c-705cddd85d0d@c93cc",
+      "displayName": "",
+      "id": "c93cc",
+      "name": "Robo_Melee_walk.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Robo_Melee01_walk",
+        "duration": 1.399999976158142,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "walk",
+            "from": 0,
+            "to": 1.399999976158142,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "21c2b731-62b9-4927-a22c-705cddd85d0d@c93cc",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "21c2b731-62b9-4927-a22c-705cddd85d0d@c93cc"
+      ]
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a71810f5-3ace-4a45-a563-61056f939e32",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "98097": {
+      "importer": "gltf-scene",
+      "uuid": "a71810f5-3ace-4a45-a563-61056f939e32@98097",
+      "displayName": "",
+      "id": "98097",
+      "name": "idle_carry.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "470a4": {
+      "importer": "gltf-animation",
+      "uuid": "a71810f5-3ace-4a45-a563-61056f939e32@470a4",
+      "displayName": "",
+      "id": "470a4",
+      "name": "idle_carry.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.3333333730697632
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "idle_carry",
+        "duration": 1.3333333730697632,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "idle_carry",
+            "from": 0,
+            "to": 1.3333333730697632,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "a71810f5-3ace-4a45-a563-61056f939e32@98097",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "a71810f5-3ace-4a45-a563-61056f939e32@98097"
+      ]
+    }
+  }
+}

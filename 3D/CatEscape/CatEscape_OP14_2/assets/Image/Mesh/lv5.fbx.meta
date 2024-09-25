@@ -1,0 +1,258 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f8437358-c831-4f6b-a0b1-899fde02784e",
+  "files": [],
+  "subMetas": {
+    "30732": {
+      "importer": "gltf-skeleton",
+      "uuid": "f8437358-c831-4f6b-a0b1-899fde02784e@30732",
+      "displayName": "",
+      "id": "30732",
+      "name": "UnnamedSkeleton-0.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 29
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "42489": {
+      "importer": "gltf-mesh",
+      "uuid": "f8437358-c831-4f6b-a0b1-899fde02784e@42489",
+      "displayName": "",
+      "id": "42489",
+      "name": "police_cathernet.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8a954": {
+      "importer": "gltf-mesh",
+      "uuid": "f8437358-c831-4f6b-a0b1-899fde02784e@8a954",
+      "displayName": "",
+      "id": "8a954",
+      "name": "venom_body.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e4dac": {
+      "importer": "gltf-mesh",
+      "uuid": "f8437358-c831-4f6b-a0b1-899fde02784e@e4dac",
+      "displayName": "",
+      "id": "e4dac",
+      "name": "venom_tongue.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f1394": {
+      "importer": "gltf-skeleton",
+      "uuid": "f8437358-c831-4f6b-a0b1-899fde02784e@f1394",
+      "displayName": "",
+      "id": "f1394",
+      "name": "UnnamedSkeleton-1.skeleton",
+      "userData": {
+        "gltfIndex": 1,
+        "jointsLength": 1
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b1345": {
+      "importer": "gltf-embeded-image",
+      "uuid": "f8437358-c831-4f6b-a0b1-899fde02784e@b1345",
+      "displayName": "",
+      "id": "b1345",
+      "name": "base_color_texture1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".jpg",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6dd6c": {
+      "importer": "gltf-embeded-image",
+      "uuid": "f8437358-c831-4f6b-a0b1-899fde02784e@6dd6c",
+      "displayName": "",
+      "id": "6dd6c",
+      "name": "base_color_texture5.image",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "36c77": {
+      "importer": "texture",
+      "uuid": "f8437358-c831-4f6b-a0b1-899fde02784e@36c77",
+      "displayName": "",
+      "id": "36c77",
+      "name": "base_color_texture1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "f8437358-c831-4f6b-a0b1-899fde02784e@b1345"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6c3a1": {
+      "importer": "texture",
+      "uuid": "f8437358-c831-4f6b-a0b1-899fde02784e@6c3a1",
+      "displayName": "",
+      "id": "6c3a1",
+      "name": "base_color_texture5.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "f8437358-c831-4f6b-a0b1-899fde02784e@6dd6c"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "93df1": {
+      "importer": "gltf-material",
+      "uuid": "f8437358-c831-4f6b-a0b1-899fde02784e@93df1",
+      "displayName": "",
+      "id": "93df1",
+      "name": "enemy_police1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "349e4": {
+      "importer": "gltf-material",
+      "uuid": "f8437358-c831-4f6b-a0b1-899fde02784e@349e4",
+      "displayName": "",
+      "id": "349e4",
+      "name": "enemy_venom.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "004c7": {
+      "importer": "gltf-scene",
+      "uuid": "f8437358-c831-4f6b-a0b1-899fde02784e@004c7",
+      "displayName": "",
+      "id": "004c7",
+      "name": "lv5.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture1",
+        "uri": "f8437358-c831-4f6b-a0b1-899fde02784e@b1345"
+      },
+      {
+        "name": "base_color_texture5",
+        "uri": "f8437358-c831-4f6b-a0b1-899fde02784e@6dd6c"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "f8437358-c831-4f6b-a0b1-899fde02784e@004c7",
+    "assetFinder": {
+      "meshes": [
+        "f8437358-c831-4f6b-a0b1-899fde02784e@42489",
+        "f8437358-c831-4f6b-a0b1-899fde02784e@8a954",
+        "f8437358-c831-4f6b-a0b1-899fde02784e@e4dac"
+      ],
+      "skeletons": [
+        "f8437358-c831-4f6b-a0b1-899fde02784e@30732",
+        "f8437358-c831-4f6b-a0b1-899fde02784e@f1394"
+      ],
+      "textures": [
+        "f8437358-c831-4f6b-a0b1-899fde02784e@36c77",
+        "f8437358-c831-4f6b-a0b1-899fde02784e@6c3a1"
+      ],
+      "materials": [
+        "f8437358-c831-4f6b-a0b1-899fde02784e@93df1",
+        "f8437358-c831-4f6b-a0b1-899fde02784e@349e4"
+      ],
+      "scenes": [
+        "f8437358-c831-4f6b-a0b1-899fde02784e@004c7"
+      ]
+    }
+  }
+}

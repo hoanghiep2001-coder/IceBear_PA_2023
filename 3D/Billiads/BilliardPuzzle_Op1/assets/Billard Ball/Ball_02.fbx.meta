@@ -1,0 +1,62 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "2e880a3a-92ae-45ca-9edb-cfac3a72be88",
+  "files": [],
+  "subMetas": {
+    "24764": {
+      "importer": "gltf-mesh",
+      "uuid": "2e880a3a-92ae-45ca-9edb-cfac3a72be88@24764",
+      "displayName": "",
+      "id": "24764",
+      "name": "Ball.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9a046": {
+      "importer": "gltf-scene",
+      "uuid": "2e880a3a-92ae-45ca-9edb-cfac3a72be88@9a046",
+      "displayName": "",
+      "id": "9a046",
+      "name": "Ball_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "2e880a3a-92ae-45ca-9edb-cfac3a72be88@9a046",
+    "assetFinder": {
+      "meshes": [
+        "2e880a3a-92ae-45ca-9edb-cfac3a72be88@24764"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "4bfcd613-9156-45eb-9c3e-fc923ee7aa47"
+      ],
+      "scenes": [
+        "2e880a3a-92ae-45ca-9edb-cfac3a72be88@9a046"
+      ]
+    },
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/Billard Ball/Materials_Ball_02"
+  }
+}

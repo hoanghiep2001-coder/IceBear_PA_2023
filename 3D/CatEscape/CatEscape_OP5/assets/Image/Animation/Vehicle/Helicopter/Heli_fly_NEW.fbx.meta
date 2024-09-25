@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "2182de14-44d0-40e5-a236-da09311607e8",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "bbf7d": {
+      "importer": "gltf-animation",
+      "uuid": "2182de14-44d0-40e5-a236-da09311607e8@bbf7d",
+      "displayName": "",
+      "id": "bbf7d",
+      "name": "Heli_fly_NEW.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.3333333432674408
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "de5d1": {
+      "importer": "gltf-scene",
+      "uuid": "2182de14-44d0-40e5-a236-da09311607e8@de5d1",
+      "displayName": "",
+      "id": "de5d1",
+      "name": "Heli_fly_NEW.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Heli_fly_NEW",
+        "duration": 0.3333333432674408,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Heli_fly_NEW",
+            "from": 0,
+            "to": 0.3333333432674408,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "2182de14-44d0-40e5-a236-da09311607e8@de5d1",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "2182de14-44d0-40e5-a236-da09311607e8@de5d1"
+      ]
+    }
+  }
+}

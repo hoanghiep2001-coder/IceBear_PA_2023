@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "4d8966b6-d293-4009-ad2d-b00879e5e441",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "94372": {
+      "importer": "gltf-scene",
+      "uuid": "4d8966b6-d293-4009-ad2d-b00879e5e441@94372",
+      "displayName": "",
+      "id": "94372",
+      "name": "Ranger13_Idle.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fac04": {
+      "importer": "gltf-animation",
+      "uuid": "4d8966b6-d293-4009-ad2d-b00879e5e441@fac04",
+      "displayName": "",
+      "id": "fac04",
+      "name": "skibidi10_idle.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.1333333253860474
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "skibidi10_idle",
+        "duration": 1.1333333253860474,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "skibidi10_idle",
+            "from": 0,
+            "to": 1.1333333253860474,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "4d8966b6-d293-4009-ad2d-b00879e5e441@94372",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "4d8966b6-d293-4009-ad2d-b00879e5e441@94372"
+      ]
+    }
+  }
+}

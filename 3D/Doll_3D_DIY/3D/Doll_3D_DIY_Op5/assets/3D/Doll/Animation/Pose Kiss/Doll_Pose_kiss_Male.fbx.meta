@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "321e7a0e-da0f-47a7-b329-49818fb79454",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "6216e": {
+      "importer": "gltf-animation",
+      "uuid": "321e7a0e-da0f-47a7-b329-49818fb79454@6216e",
+      "displayName": "",
+      "id": "6216e",
+      "name": "Pose_Kiss.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 20
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "d908c": {
+      "importer": "gltf-scene",
+      "uuid": "321e7a0e-da0f-47a7-b329-49818fb79454@d908c",
+      "displayName": "",
+      "id": "d908c",
+      "name": "Doll_Pose_kiss_Male.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Pose_Kiss",
+        "duration": 20,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Pose_Kiss",
+            "from": 0,
+            "to": 20,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "321e7a0e-da0f-47a7-b329-49818fb79454@d908c",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "321e7a0e-da0f-47a7-b329-49818fb79454@d908c"
+      ]
+    }
+  }
+}

@@ -1,0 +1,113 @@
+
+pose.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image_018_0018
+  rotate: false
+  xy: 348, 4
+  size: 346, 831
+  orig: 346, 831
+  offset: 0, 0
+  index: -1
+image_018_0020
+  rotate: false
+  xy: 2, 2
+  size: 344, 833
+  orig: 344, 833
+  offset: 0, 0
+  index: -1
+
+pose2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 2, 4
+  size: 386, 747
+  orig: 386, 747
+  offset: 0, 0
+  index: -1
+image_018_0002
+  rotate: false
+  xy: 390, 2
+  size: 385, 749
+  orig: 385, 749
+  offset: 0, 0
+  index: -1
+
+pose3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image_018_0004
+  rotate: false
+  xy: 2, 12
+  size: 382, 756
+  orig: 382, 756
+  offset: 0, 0
+  index: -1
+image_018_0006
+  rotate: false
+  xy: 386, 2
+  size: 377, 766
+  orig: 377, 766
+  offset: 0, 0
+  index: -1
+
+pose4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image_018_0014
+  rotate: false
+  xy: 354, 11
+  size: 355, 816
+  orig: 355, 816
+  offset: 0, 0
+  index: -1
+image_018_0016
+  rotate: false
+  xy: 2, 2
+  size: 350, 825
+  orig: 350, 825
+  offset: 0, 0
+  index: -1
+
+pose5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image_018_0010
+  rotate: false
+  xy: 364, 15
+  size: 366, 790
+  orig: 366, 790
+  offset: 0, 0
+  index: -1
+image_018_0012
+  rotate: false
+  xy: 2, 2
+  size: 360, 803
+  orig: 360, 803
+  offset: 0, 0
+  index: -1
+
+pose6.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image_018_0008
+  rotate: false
+  xy: 2, 2
+  size: 372, 778
+  orig: 372, 778
+  offset: 0, 0
+  index: -1

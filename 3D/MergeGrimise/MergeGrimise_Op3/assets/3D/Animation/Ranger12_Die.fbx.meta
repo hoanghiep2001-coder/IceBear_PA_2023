@@ -1,0 +1,81 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "5b23438a-8940-421c-8b01-4f6a3b60d770",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "3e4fe": {
+      "importer": "gltf-animation",
+      "uuid": "5b23438a-8940-421c-8b01-4f6a3b60d770@3e4fe",
+      "displayName": "",
+      "id": "3e4fe",
+      "name": "Skibidi10_dead.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 1,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.46666666865348816
+        },
+        "events": [],
+        "speed": 0.5
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "6f39b": {
+      "importer": "gltf-scene",
+      "uuid": "5b23438a-8940-421c-8b01-4f6a3b60d770@6f39b",
+      "displayName": "",
+      "id": "6f39b",
+      "name": "Ranger12_Die.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Skibidi10_dead",
+        "duration": 0.46666666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Skibidi10_dead",
+            "from": 0,
+            "to": 0.46666666865348816,
+            "wrapMode": 1,
+            "speed": 0.5
+          }
+        ]
+      }
+    ],
+    "redirect": "5b23438a-8940-421c-8b01-4f6a3b60d770@6f39b",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "5b23438a-8940-421c-8b01-4f6a3b60d770@6f39b"
+      ]
+    }
+  }
+}

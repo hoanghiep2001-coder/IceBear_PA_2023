@@ -1,0 +1,295 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "220733e3-d15a-4b68-b95b-6fd323b50ba7",
+  "files": [],
+  "subMetas": {
+    "26758": {
+      "importer": "gltf-material",
+      "uuid": "220733e3-d15a-4b68-b95b-6fd323b50ba7@26758",
+      "displayName": "",
+      "id": "26758",
+      "name": "enemy_police.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "30732": {
+      "importer": "gltf-skeleton",
+      "uuid": "220733e3-d15a-4b68-b95b-6fd323b50ba7@30732",
+      "displayName": "",
+      "id": "30732",
+      "name": "UnnamedSkeleton-0.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 26
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "42489": {
+      "importer": "gltf-mesh",
+      "uuid": "220733e3-d15a-4b68-b95b-6fd323b50ba7@42489",
+      "displayName": "",
+      "id": "42489",
+      "name": "police_cathernet.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "86c5c": {
+      "importer": "gltf-mesh",
+      "uuid": "220733e3-d15a-4b68-b95b-6fd323b50ba7@86c5c",
+      "displayName": "",
+      "id": "86c5c",
+      "name": "police_body.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a5c2": {
+      "importer": "gltf-mesh",
+      "uuid": "220733e3-d15a-4b68-b95b-6fd323b50ba7@7a5c2",
+      "displayName": "",
+      "id": "7a5c2",
+      "name": "police_hat.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "31c1e": {
+      "importer": "gltf-mesh",
+      "uuid": "220733e3-d15a-4b68-b95b-6fd323b50ba7@31c1e",
+      "displayName": "",
+      "id": "31c1e",
+      "name": "police_shirt.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f1394": {
+      "importer": "gltf-skeleton",
+      "uuid": "220733e3-d15a-4b68-b95b-6fd323b50ba7@f1394",
+      "displayName": "",
+      "id": "f1394",
+      "name": "UnnamedSkeleton-1.skeleton",
+      "userData": {
+        "gltfIndex": 1,
+        "jointsLength": 1
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "75ee4": {
+      "importer": "gltf-skeleton",
+      "uuid": "220733e3-d15a-4b68-b95b-6fd323b50ba7@75ee4",
+      "displayName": "",
+      "id": "75ee4",
+      "name": "UnnamedSkeleton-2.skeleton",
+      "userData": {
+        "gltfIndex": 2,
+        "jointsLength": 29
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "95e5d": {
+      "importer": "gltf-embeded-image",
+      "uuid": "220733e3-d15a-4b68-b95b-6fd323b50ba7@95e5d",
+      "displayName": "",
+      "id": "95e5d",
+      "name": "Texture.jpg-0.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".jpg",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "420c4": {
+      "importer": "gltf-embeded-image",
+      "uuid": "220733e3-d15a-4b68-b95b-6fd323b50ba7@420c4",
+      "displayName": "",
+      "id": "420c4",
+      "name": "Texture.jpg-1.image",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".jpg",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "220733e3-d15a-4b68-b95b-6fd323b50ba7@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "220733e3-d15a-4b68-b95b-6fd323b50ba7@95e5d"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "36c77": {
+      "importer": "texture",
+      "uuid": "220733e3-d15a-4b68-b95b-6fd323b50ba7@36c77",
+      "displayName": "",
+      "id": "36c77",
+      "name": "base_color_texture1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "220733e3-d15a-4b68-b95b-6fd323b50ba7@420c4"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "93df1": {
+      "importer": "gltf-material",
+      "uuid": "220733e3-d15a-4b68-b95b-6fd323b50ba7@93df1",
+      "displayName": "",
+      "id": "93df1",
+      "name": "enemy_police1.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bdaca": {
+      "importer": "gltf-scene",
+      "uuid": "220733e3-d15a-4b68-b95b-6fd323b50ba7@bdaca",
+      "displayName": "",
+      "id": "bdaca",
+      "name": "CE_police_base_update.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Texture.jpg",
+        "uri": "220733e3-d15a-4b68-b95b-6fd323b50ba7@95e5d"
+      },
+      {
+        "name": "Texture.jpg",
+        "uri": "220733e3-d15a-4b68-b95b-6fd323b50ba7@420c4"
+      }
+    ],
+    "legacyFbxImporter": true,
+    "dumpMaterials": false,
+    "redirect": "220733e3-d15a-4b68-b95b-6fd323b50ba7@bdaca",
+    "assetFinder": {
+      "meshes": [
+        "220733e3-d15a-4b68-b95b-6fd323b50ba7@86c5c",
+        "220733e3-d15a-4b68-b95b-6fd323b50ba7@7a5c2",
+        "220733e3-d15a-4b68-b95b-6fd323b50ba7@31c1e",
+        "220733e3-d15a-4b68-b95b-6fd323b50ba7@42489"
+      ],
+      "skeletons": [
+        "220733e3-d15a-4b68-b95b-6fd323b50ba7@30732",
+        "220733e3-d15a-4b68-b95b-6fd323b50ba7@f1394",
+        "220733e3-d15a-4b68-b95b-6fd323b50ba7@75ee4"
+      ],
+      "textures": [
+        "220733e3-d15a-4b68-b95b-6fd323b50ba7@7d6ab",
+        "220733e3-d15a-4b68-b95b-6fd323b50ba7@36c77"
+      ],
+      "materials": [
+        "220733e3-d15a-4b68-b95b-6fd323b50ba7@26758",
+        "220733e3-d15a-4b68-b95b-6fd323b50ba7@93df1"
+      ],
+      "scenes": [
+        "220733e3-d15a-4b68-b95b-6fd323b50ba7@bdaca"
+      ]
+    }
+  }
+}

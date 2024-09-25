@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "535b7929-5a9d-4993-b264-1566bc607947",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "59618": {
+      "importer": "gltf-animation",
+      "uuid": "535b7929-5a9d-4993-b264-1566bc607947@59618",
+      "displayName": "",
+      "id": "59618",
+      "name": "Banban_skidibi_14_idle.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.2999999523162842
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "85165": {
+      "importer": "gltf-scene",
+      "uuid": "535b7929-5a9d-4993-b264-1566bc607947@85165",
+      "displayName": "",
+      "id": "85165",
+      "name": "Banban_skidibi_14_idle.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Banban_skidibi_14_idle",
+        "duration": 1.2999999523162842,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Banban_skidibi_14_idle",
+            "from": 0,
+            "to": 1.2999999523162842,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "535b7929-5a9d-4993-b264-1566bc607947@85165",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "535b7929-5a9d-4993-b264-1566bc607947@85165"
+      ]
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "general": {
+    "designResolution": {
+      "width": 320,
+      "height": 480,
+      "fitHeight": true,
+      "fitWidth": true
+    }
+  },
+  "layer": [
+    {
+      "name": "UI",
+      "value": 524288
+    },
+    {
+      "name": "Text",
+      "value": 262144
+    }
+  ],
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "Ball"
+      },
+      {
+        "index": 2,
+        "name": "Table"
+      },
+      {
+        "index": 3,
+        "name": "Conor"
+      },
+      {
+        "index": 4,
+        "name": "Cue"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 22,
+      "1": 31,
+      "2": 3,
+      "3": 2,
+      "4": 3
+    },
+    "gravity": {
+      "y": -10
+    },
+    "defaultMaterial": {
+      "friction": 0,
+      "rollingFriction": 0,
+      "spinningFriction": 0
+    }
+  }
+}

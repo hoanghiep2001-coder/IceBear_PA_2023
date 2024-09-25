@@ -1,0 +1,109 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "90133a74-22d1-43dc-bc70-78156054880f",
+  "files": [],
+  "subMetas": {
+    "f1f1e": {
+      "importer": "gltf-mesh",
+      "uuid": "90133a74-22d1-43dc-bc70-78156054880f@f1f1e",
+      "displayName": "",
+      "id": "f1f1e",
+      "name": "clock1.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "90133a74-22d1-43dc-bc70-78156054880f@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "90133a74-22d1-43dc-bc70-78156054880f@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "90133a74-22d1-43dc-bc70-78156054880f@48b02"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "87b80": {
+      "importer": "gltf-scene",
+      "uuid": "90133a74-22d1-43dc-bc70-78156054880f@87b80",
+      "displayName": "",
+      "id": "87b80",
+      "name": "clock1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "90133a74-22d1-43dc-bc70-78156054880f@48b02"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "90133a74-22d1-43dc-bc70-78156054880f@87b80",
+    "assetFinder": {
+      "meshes": [
+        "90133a74-22d1-43dc-bc70-78156054880f@f1f1e"
+      ],
+      "skeletons": [],
+      "textures": [
+        "90133a74-22d1-43dc-bc70-78156054880f@7d6ab"
+      ],
+      "materials": [
+        "35f1a1a3-dd14-4a4d-8da8-472df0c5f740"
+      ],
+      "scenes": [
+        "90133a74-22d1-43dc-bc70-78156054880f@87b80"
+      ]
+    },
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/Room/Decor/Materials_clock1"
+  }
+}

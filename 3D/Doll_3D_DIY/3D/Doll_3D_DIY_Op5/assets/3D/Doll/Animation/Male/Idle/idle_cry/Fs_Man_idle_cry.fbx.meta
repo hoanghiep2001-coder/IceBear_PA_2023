@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d33a3f51-6802-49bd-b24c-6f001d10c655",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "f7018": {
+      "importer": "gltf-animation",
+      "uuid": "d33a3f51-6802-49bd-b24c-6f001d10c655@f7018",
+      "displayName": "",
+      "id": "f7018",
+      "name": "Fs_Man_idle_cry_IP.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 3.5333333015441895
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "b68ce": {
+      "importer": "gltf-scene",
+      "uuid": "d33a3f51-6802-49bd-b24c-6f001d10c655@b68ce",
+      "displayName": "",
+      "id": "b68ce",
+      "name": "Fs_Man_idle_cry.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Fs_Man_idle_cry_IP",
+        "duration": 3.5333333015441895,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Fs_Man_idle_cry_IP",
+            "from": 0,
+            "to": 3.5333333015441895,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "d33a3f51-6802-49bd-b24c-6f001d10c655@b68ce",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "d33a3f51-6802-49bd-b24c-6f001d10c655@b68ce"
+      ]
+    }
+  }
+}

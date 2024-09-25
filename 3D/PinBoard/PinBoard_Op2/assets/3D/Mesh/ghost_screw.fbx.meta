@@ -1,0 +1,123 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "09a38a76-395a-4c05-ba58-fbd6f8f243f2",
+  "files": [],
+  "subMetas": {
+    "402de": {
+      "importer": "gltf-mesh",
+      "uuid": "09a38a76-395a-4c05-ba58-fbd6f8f243f2@402de",
+      "displayName": "",
+      "id": "402de",
+      "name": "ghost_screw.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "58e02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "09a38a76-395a-4c05-ba58-fbd6f8f243f2@58e02",
+      "displayName": "",
+      "id": "58e02",
+      "name": "file20.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cc065": {
+      "importer": "texture",
+      "uuid": "09a38a76-395a-4c05-ba58-fbd6f8f243f2@cc065",
+      "displayName": "",
+      "id": "cc065",
+      "name": "file20.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "09a38a76-395a-4c05-ba58-fbd6f8f243f2@58e02"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a9935": {
+      "importer": "gltf-material",
+      "uuid": "09a38a76-395a-4c05-ba58-fbd6f8f243f2@a9935",
+      "displayName": "",
+      "id": "a9935",
+      "name": "m_ghost_screw.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bb9d9": {
+      "importer": "gltf-scene",
+      "uuid": "09a38a76-395a-4c05-ba58-fbd6f8f243f2@bb9d9",
+      "displayName": "",
+      "id": "bb9d9",
+      "name": "ghost_screw.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file20",
+        "uri": "09a38a76-395a-4c05-ba58-fbd6f8f243f2@58e02"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "09a38a76-395a-4c05-ba58-fbd6f8f243f2@bb9d9",
+    "assetFinder": {
+      "meshes": [
+        "09a38a76-395a-4c05-ba58-fbd6f8f243f2@402de"
+      ],
+      "skeletons": [],
+      "textures": [
+        "09a38a76-395a-4c05-ba58-fbd6f8f243f2@cc065"
+      ],
+      "materials": [
+        "09a38a76-395a-4c05-ba58-fbd6f8f243f2@a9935"
+      ],
+      "scenes": [
+        "09a38a76-395a-4c05-ba58-fbd6f8f243f2@bb9d9"
+      ]
+    }
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "797e5e10-5ae2-4e2a-865a-8ba50b83a351",
+  "files": [],
+  "subMetas": {
+    "30732": {
+      "importer": "gltf-skeleton",
+      "uuid": "797e5e10-5ae2-4e2a-865a-8ba50b83a351@30732",
+      "displayName": "",
+      "id": "30732",
+      "name": "UnnamedSkeleton-0.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 8
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48043": {
+      "importer": "gltf-scene",
+      "uuid": "797e5e10-5ae2-4e2a-865a-8ba50b83a351@48043",
+      "displayName": "",
+      "id": "48043",
+      "name": "Helicopter_Base.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "682ea": {
+      "importer": "gltf-mesh",
+      "uuid": "797e5e10-5ae2-4e2a-865a-8ba50b83a351@682ea",
+      "displayName": "",
+      "id": "682ea",
+      "name": "pCylinder6.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "44f05": {
+      "importer": "gltf-mesh",
+      "uuid": "797e5e10-5ae2-4e2a-865a-8ba50b83a351@44f05",
+      "displayName": "",
+      "id": "44f05",
+      "name": "HelicopterResque_night.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ae581": {
+      "importer": "gltf-mesh",
+      "uuid": "797e5e10-5ae2-4e2a-865a-8ba50b83a351@ae581",
+      "displayName": "",
+      "id": "ae581",
+      "name": "polySurface9.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "45b84": {
+      "importer": "gltf-mesh",
+      "uuid": "797e5e10-5ae2-4e2a-865a-8ba50b83a351@45b84",
+      "displayName": "",
+      "id": "45b84",
+      "name": "Rotator_mesh.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f1394": {
+      "importer": "gltf-skeleton",
+      "uuid": "797e5e10-5ae2-4e2a-865a-8ba50b83a351@f1394",
+      "displayName": "",
+      "id": "f1394",
+      "name": "UnnamedSkeleton-1.skeleton",
+      "userData": {
+        "gltfIndex": 1,
+        "jointsLength": 1
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "612f0": {
+      "importer": "gltf-embeded-image",
+      "uuid": "797e5e10-5ae2-4e2a-865a-8ba50b83a351@612f0",
+      "displayName": "",
+      "id": "612f0",
+      "name": "file4.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "91dcf": {
+      "importer": "texture",
+      "uuid": "797e5e10-5ae2-4e2a-865a-8ba50b83a351@91dcf",
+      "displayName": "",
+      "id": "91dcf",
+      "name": "file4.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "797e5e10-5ae2-4e2a-865a-8ba50b83a351@612f0"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "38ea6": {
+      "importer": "gltf-material",
+      "uuid": "797e5e10-5ae2-4e2a-865a-8ba50b83a351@38ea6",
+      "displayName": "",
+      "id": "38ea6",
+      "name": "Helicopter_Mat.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file4",
+        "uri": "797e5e10-5ae2-4e2a-865a-8ba50b83a351@612f0"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "797e5e10-5ae2-4e2a-865a-8ba50b83a351@48043",
+    "assetFinder": {
+      "meshes": [
+        "797e5e10-5ae2-4e2a-865a-8ba50b83a351@682ea",
+        "797e5e10-5ae2-4e2a-865a-8ba50b83a351@44f05",
+        "797e5e10-5ae2-4e2a-865a-8ba50b83a351@ae581",
+        "797e5e10-5ae2-4e2a-865a-8ba50b83a351@45b84"
+      ],
+      "skeletons": [
+        "797e5e10-5ae2-4e2a-865a-8ba50b83a351@30732",
+        "797e5e10-5ae2-4e2a-865a-8ba50b83a351@f1394"
+      ],
+      "textures": [
+        "797e5e10-5ae2-4e2a-865a-8ba50b83a351@91dcf"
+      ],
+      "materials": [
+        "797e5e10-5ae2-4e2a-865a-8ba50b83a351@38ea6"
+      ],
+      "scenes": [
+        "797e5e10-5ae2-4e2a-865a-8ba50b83a351@48043"
+      ]
+    }
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "98dd67cb-657c-43a1-ab70-180452430754",
+  "files": [
+    "__original-animation-0.cconb",
+    "__original-animation-1.cconb",
+    "__original-animation-2.cconb",
+    "__original-animation-3.cconb",
+    "__original-animation-4.cconb"
+  ],
+  "subMetas": {
+    "96937": {
+      "importer": "gltf-animation",
+      "uuid": "98dd67cb-657c-43a1-ab70-180452430754@96937",
+      "displayName": "",
+      "id": "96937",
+      "name": "skibidi_07_atk.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.200000047683716
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "bf7a0": {
+      "importer": "gltf-animation",
+      "uuid": "98dd67cb-657c-43a1-ab70-180452430754@bf7a0",
+      "displayName": "",
+      "id": "bf7a0",
+      "name": "skibidi_07_dead.animation",
+      "userData": {
+        "gltfIndex": 1,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.7333333492279053
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "5a6a2": {
+      "importer": "gltf-animation",
+      "uuid": "98dd67cb-657c-43a1-ab70-180452430754@5a6a2",
+      "displayName": "",
+      "id": "5a6a2",
+      "name": "skibidi_07_idle.animation",
+      "userData": {
+        "gltfIndex": 2,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "f2ad3": {
+      "importer": "gltf-animation",
+      "uuid": "98dd67cb-657c-43a1-ab70-180452430754@f2ad3",
+      "displayName": "",
+      "id": "f2ad3",
+      "name": "skibidi_07_dance.animation",
+      "userData": {
+        "gltfIndex": 3,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.0666667222976685
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "8fb06": {
+      "importer": "gltf-animation",
+      "uuid": "98dd67cb-657c-43a1-ab70-180452430754@8fb06",
+      "displayName": "",
+      "id": "8fb06",
+      "name": "skibidi_07.animation",
+      "userData": {
+        "gltfIndex": 4,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 5.099999904632568
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "b9cc4": {
+      "importer": "gltf-scene",
+      "uuid": "98dd67cb-657c-43a1-ab70-180452430754@b9cc4",
+      "displayName": "",
+      "id": "b9cc4",
+      "name": "Ranger_07_Anim.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "skibidi_07_atk",
+        "duration": 2.200000047683716,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "skibidi_07_atk",
+            "from": 0,
+            "to": 2.200000047683716,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "skibidi_07_dead",
+        "duration": 0.7333333492279053,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "skibidi_07_dead",
+            "from": 0,
+            "to": 0.7333333492279053,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "skibidi_07_idle",
+        "duration": 1,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "skibidi_07_idle",
+            "from": 0,
+            "to": 1,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "skibidi_07_dance",
+        "duration": 1.0666667222976685,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "skibidi_07_dance",
+            "from": 0,
+            "to": 1.0666667222976685,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "skibidi_07",
+        "duration": 5.099999904632568,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "skibidi_07",
+            "from": 0,
+            "to": 5.099999904632568,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "98dd67cb-657c-43a1-ab70-180452430754@b9cc4",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "98dd67cb-657c-43a1-ab70-180452430754@b9cc4"
+      ]
+    }
+  }
+}

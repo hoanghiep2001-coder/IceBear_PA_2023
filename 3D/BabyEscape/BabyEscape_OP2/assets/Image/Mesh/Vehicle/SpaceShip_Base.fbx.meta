@@ -1,0 +1,178 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "27fa5e53-67ae-4325-bdce-c1f4caff7d10",
+  "files": [],
+  "subMetas": {
+    "30732": {
+      "importer": "gltf-skeleton",
+      "uuid": "27fa5e53-67ae-4325-bdce-c1f4caff7d10@30732",
+      "displayName": "",
+      "id": "30732",
+      "name": "UnnamedSkeleton-0.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 14
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ce0c9": {
+      "importer": "gltf-mesh",
+      "uuid": "27fa5e53-67ae-4325-bdce-c1f4caff7d10@ce0c9",
+      "displayName": "",
+      "id": "ce0c9",
+      "name": "Spaceship.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6ecf2": {
+      "importer": "gltf-mesh",
+      "uuid": "27fa5e53-67ae-4325-bdce-c1f4caff7d10@6ecf2",
+      "displayName": "",
+      "id": "6ecf2",
+      "name": "SM_Ship_Fighter_Heavy_02.001.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f1394": {
+      "importer": "gltf-skeleton",
+      "uuid": "27fa5e53-67ae-4325-bdce-c1f4caff7d10@f1394",
+      "displayName": "",
+      "id": "f1394",
+      "name": "UnnamedSkeleton-1.skeleton",
+      "userData": {
+        "gltfIndex": 1,
+        "jointsLength": 14
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "28a9b": {
+      "importer": "gltf-embeded-image",
+      "uuid": "27fa5e53-67ae-4325-bdce-c1f4caff7d10@28a9b",
+      "displayName": "",
+      "id": "28a9b",
+      "name": "DiffuseColor_Texture3.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2ce41": {
+      "importer": "texture",
+      "uuid": "27fa5e53-67ae-4325-bdce-c1f4caff7d10@2ce41",
+      "displayName": "",
+      "id": "2ce41",
+      "name": "DiffuseColor_Texture3.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "27fa5e53-67ae-4325-bdce-c1f4caff7d10@28a9b"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8a6bd": {
+      "importer": "gltf-material",
+      "uuid": "27fa5e53-67ae-4325-bdce-c1f4caff7d10@8a6bd",
+      "displayName": "",
+      "id": "8a6bd",
+      "name": "Spaceship.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5b659": {
+      "importer": "gltf-scene",
+      "uuid": "27fa5e53-67ae-4325-bdce-c1f4caff7d10@5b659",
+      "displayName": "",
+      "id": "5b659",
+      "name": "SpaceShip_Base.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "DiffuseColor_Texture3",
+        "uri": "27fa5e53-67ae-4325-bdce-c1f4caff7d10@28a9b"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "27fa5e53-67ae-4325-bdce-c1f4caff7d10@5b659",
+    "assetFinder": {
+      "meshes": [
+        "27fa5e53-67ae-4325-bdce-c1f4caff7d10@ce0c9",
+        "27fa5e53-67ae-4325-bdce-c1f4caff7d10@6ecf2"
+      ],
+      "skeletons": [
+        "27fa5e53-67ae-4325-bdce-c1f4caff7d10@30732",
+        "27fa5e53-67ae-4325-bdce-c1f4caff7d10@f1394"
+      ],
+      "textures": [
+        "27fa5e53-67ae-4325-bdce-c1f4caff7d10@2ce41"
+      ],
+      "materials": [
+        "27fa5e53-67ae-4325-bdce-c1f4caff7d10@8a6bd"
+      ],
+      "scenes": [
+        "27fa5e53-67ae-4325-bdce-c1f4caff7d10@5b659"
+      ]
+    }
+  }
+}

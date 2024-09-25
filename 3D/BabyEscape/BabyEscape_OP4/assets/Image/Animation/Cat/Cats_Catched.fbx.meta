@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "67314eae-c26f-4cc3-ab6e-16bcb2d643b2",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "90ecf": {
+      "importer": "gltf-animation",
+      "uuid": "67314eae-c26f-4cc3-ab6e-16bcb2d643b2@90ecf",
+      "displayName": "",
+      "id": "90ecf",
+      "name": "Cats_Catched.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.6666666865348816
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "acb29": {
+      "importer": "gltf-scene",
+      "uuid": "67314eae-c26f-4cc3-ab6e-16bcb2d643b2@acb29",
+      "displayName": "",
+      "id": "acb29",
+      "name": "Cats_Catched.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Cats_Catched",
+        "duration": 0.6666666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Cats_Catched",
+            "from": 0,
+            "to": 0.6666666865348816,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "67314eae-c26f-4cc3-ab6e-16bcb2d643b2@acb29",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "67314eae-c26f-4cc3-ab6e-16bcb2d643b2@acb29"
+      ]
+    }
+  }
+}

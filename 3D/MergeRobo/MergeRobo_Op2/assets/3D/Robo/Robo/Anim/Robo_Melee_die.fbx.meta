@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "de201013-e73c-46fc-a196-da88e00c7f5c",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "b4251": {
+      "importer": "gltf-animation",
+      "uuid": "de201013-e73c-46fc-a196-da88e00c7f5c@b4251",
+      "displayName": "",
+      "id": "b4251",
+      "name": "die.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 3.433333396911621
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "be545": {
+      "importer": "gltf-scene",
+      "uuid": "de201013-e73c-46fc-a196-da88e00c7f5c@be545",
+      "displayName": "",
+      "id": "be545",
+      "name": "Robo_Melee_die.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Robo_Melee01_die",
+        "duration": 3.433333396911621,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "die",
+            "from": 0,
+            "to": 3.433333396911621,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "de201013-e73c-46fc-a196-da88e00c7f5c@be545",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "de201013-e73c-46fc-a196-da88e00c7f5c@be545"
+      ]
+    }
+  }
+}

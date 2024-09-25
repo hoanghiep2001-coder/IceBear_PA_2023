@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ac7f7de3-21cd-4a56-8929-7167e4bc1158",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "7c4de": {
+      "importer": "gltf-animation",
+      "uuid": "ac7f7de3-21cd-4a56-8929-7167e4bc1158@7c4de",
+      "displayName": "",
+      "id": "7c4de",
+      "name": "CE_police_Catch.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.4666666984558105
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "009d9": {
+      "importer": "gltf-scene",
+      "uuid": "ac7f7de3-21cd-4a56-8929-7167e4bc1158@009d9",
+      "displayName": "",
+      "id": "009d9",
+      "name": "CE_police_Catch.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "CE_police_Catch",
+        "duration": 1.4666666984558105,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "CE_police_Catch",
+            "from": 0,
+            "to": 1.4666666984558105,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "ac7f7de3-21cd-4a56-8929-7167e4bc1158@009d9",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "ac7f7de3-21cd-4a56-8929-7167e4bc1158@009d9"
+      ]
+    }
+  }
+}

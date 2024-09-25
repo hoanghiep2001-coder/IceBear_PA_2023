@@ -1,0 +1,65 @@
+{
+  "log": {
+    "level": 4
+  },
+  "common": {
+    "outputName": "web-mobile",
+    "mainBundleCompressionType": "merge_all_json",
+    "platform": "web-mobile",
+    "name": "BabyEscape"
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1689327996353": {
+        "id": "1689327996353",
+        "progress": 1,
+        "state": "success",
+        "message": "7-15-2023 10:20 Build success in 7572 ms!",
+        "options": {
+          "name": "BabyEscape",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_all_json",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "f82590ab-7475-4b63-9a96-e8c0a6a65b85",
+          "scenes": [
+            {
+              "url": "db://assets/CatEscape.scene",
+              "uuid": "f82590ab-7475-4b63-9a96-e8c0a6a65b85",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/CatEscapeNext.scene",
+              "uuid": "e0558939-7c4f-4c82-9000-64b115f108a7",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-mobile",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "f4e2e7",
+              "services": []
+            },
+            "super-html": null
+          }
+        },
+        "time": "7-15-2023 10:20",
+        "dirty": false
+      }
+    }
+  }
+}

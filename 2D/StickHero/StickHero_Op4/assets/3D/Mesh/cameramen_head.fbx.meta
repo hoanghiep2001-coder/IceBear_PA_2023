@@ -1,0 +1,123 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "8d7ebcb1-10c7-4bb7-8ef0-04836ad863b3",
+  "files": [],
+  "subMetas": {
+    "9cb7e": {
+      "importer": "gltf-mesh",
+      "uuid": "8d7ebcb1-10c7-4bb7-8ef0-04836ad863b3@9cb7e",
+      "displayName": "",
+      "id": "9cb7e",
+      "name": "cameramen_head.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5af6c": {
+      "importer": "gltf-embeded-image",
+      "uuid": "8d7ebcb1-10c7-4bb7-8ef0-04836ad863b3@5af6c",
+      "displayName": "",
+      "id": "5af6c",
+      "name": "file41.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f138f": {
+      "importer": "texture",
+      "uuid": "8d7ebcb1-10c7-4bb7-8ef0-04836ad863b3@f138f",
+      "displayName": "",
+      "id": "f138f",
+      "name": "file41.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "8d7ebcb1-10c7-4bb7-8ef0-04836ad863b3@5af6c"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "86fcf": {
+      "importer": "gltf-material",
+      "uuid": "8d7ebcb1-10c7-4bb7-8ef0-04836ad863b3@86fcf",
+      "displayName": "",
+      "id": "86fcf",
+      "name": "cameramen_mat.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d5657": {
+      "importer": "gltf-scene",
+      "uuid": "8d7ebcb1-10c7-4bb7-8ef0-04836ad863b3@d5657",
+      "displayName": "",
+      "id": "d5657",
+      "name": "cameramen_head.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file41",
+        "uri": "8d7ebcb1-10c7-4bb7-8ef0-04836ad863b3@5af6c"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "8d7ebcb1-10c7-4bb7-8ef0-04836ad863b3@d5657",
+    "assetFinder": {
+      "meshes": [
+        "8d7ebcb1-10c7-4bb7-8ef0-04836ad863b3@9cb7e"
+      ],
+      "skeletons": [],
+      "textures": [
+        "8d7ebcb1-10c7-4bb7-8ef0-04836ad863b3@f138f"
+      ],
+      "materials": [
+        "8d7ebcb1-10c7-4bb7-8ef0-04836ad863b3@86fcf"
+      ],
+      "scenes": [
+        "8d7ebcb1-10c7-4bb7-8ef0-04836ad863b3@d5657"
+      ]
+    }
+  }
+}

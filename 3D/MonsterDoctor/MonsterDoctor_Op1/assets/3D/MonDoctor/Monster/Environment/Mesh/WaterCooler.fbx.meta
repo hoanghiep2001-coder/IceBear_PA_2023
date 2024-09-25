@@ -1,0 +1,123 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ab01a844-a475-4915-9ea7-ad4eb580618c",
+  "files": [],
+  "subMetas": {
+    "5eb36": {
+      "importer": "gltf-mesh",
+      "uuid": "ab01a844-a475-4915-9ea7-ad4eb580618c@5eb36",
+      "displayName": "",
+      "id": "5eb36",
+      "name": "WaterCooler.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "ab01a844-a475-4915-9ea7-ad4eb580618c@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "ab01a844-a475-4915-9ea7-ad4eb580618c@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "ab01a844-a475-4915-9ea7-ad4eb580618c@48b02"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "032b2": {
+      "importer": "gltf-material",
+      "uuid": "ab01a844-a475-4915-9ea7-ad4eb580618c@032b2",
+      "displayName": "",
+      "id": "032b2",
+      "name": "megatexture.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3e51c": {
+      "importer": "gltf-scene",
+      "uuid": "ab01a844-a475-4915-9ea7-ad4eb580618c@3e51c",
+      "displayName": "",
+      "id": "3e51c",
+      "name": "WaterCooler.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "ab01a844-a475-4915-9ea7-ad4eb580618c@48b02"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "ab01a844-a475-4915-9ea7-ad4eb580618c@3e51c",
+    "assetFinder": {
+      "meshes": [
+        "ab01a844-a475-4915-9ea7-ad4eb580618c@5eb36"
+      ],
+      "skeletons": [],
+      "textures": [
+        "ab01a844-a475-4915-9ea7-ad4eb580618c@7d6ab"
+      ],
+      "materials": [
+        "ab01a844-a475-4915-9ea7-ad4eb580618c@032b2"
+      ],
+      "scenes": [
+        "ab01a844-a475-4915-9ea7-ad4eb580618c@3e51c"
+      ]
+    }
+  }
+}

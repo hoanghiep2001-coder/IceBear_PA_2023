@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a1b7ae78-1a68-42ad-b47e-76cc07544c02",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "00bf1": {
+      "importer": "gltf-animation",
+      "uuid": "a1b7ae78-1a68-42ad-b47e-76cc07544c02@00bf1",
+      "displayName": "",
+      "id": "00bf1",
+      "name": "Robot_Cat_Dead.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.0416666679084301
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "5bb39": {
+      "importer": "gltf-scene",
+      "uuid": "a1b7ae78-1a68-42ad-b47e-76cc07544c02@5bb39",
+      "displayName": "",
+      "id": "5bb39",
+      "name": "Robot_Cat_Dead01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Robot_Cat_Dead",
+        "duration": 0.0416666679084301,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Robot_Cat_Dead",
+            "from": 0,
+            "to": 0.0416666679084301,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "a1b7ae78-1a68-42ad-b47e-76cc07544c02@5bb39",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "a1b7ae78-1a68-42ad-b47e-76cc07544c02@5bb39"
+      ]
+    }
+  }
+}

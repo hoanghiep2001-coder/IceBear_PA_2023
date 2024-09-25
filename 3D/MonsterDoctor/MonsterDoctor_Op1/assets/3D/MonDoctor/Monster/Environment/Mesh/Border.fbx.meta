@@ -1,0 +1,123 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ebf6c3ac-1af5-4e0b-b1e6-d38b180f6b62",
+  "files": [],
+  "subMetas": {
+    "11c07": {
+      "importer": "gltf-mesh",
+      "uuid": "ebf6c3ac-1af5-4e0b-b1e6-d38b180f6b62@11c07",
+      "displayName": "",
+      "id": "11c07",
+      "name": "Border.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "ebf6c3ac-1af5-4e0b-b1e6-d38b180f6b62@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "ebf6c3ac-1af5-4e0b-b1e6-d38b180f6b62@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "ebf6c3ac-1af5-4e0b-b1e6-d38b180f6b62@48b02"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "032b2": {
+      "importer": "gltf-material",
+      "uuid": "ebf6c3ac-1af5-4e0b-b1e6-d38b180f6b62@032b2",
+      "displayName": "",
+      "id": "032b2",
+      "name": "megatexture.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a1155": {
+      "importer": "gltf-scene",
+      "uuid": "ebf6c3ac-1af5-4e0b-b1e6-d38b180f6b62@a1155",
+      "displayName": "",
+      "id": "a1155",
+      "name": "Border.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "ebf6c3ac-1af5-4e0b-b1e6-d38b180f6b62@48b02"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "ebf6c3ac-1af5-4e0b-b1e6-d38b180f6b62@a1155",
+    "assetFinder": {
+      "meshes": [
+        "ebf6c3ac-1af5-4e0b-b1e6-d38b180f6b62@11c07"
+      ],
+      "skeletons": [],
+      "textures": [
+        "ebf6c3ac-1af5-4e0b-b1e6-d38b180f6b62@7d6ab"
+      ],
+      "materials": [
+        "ebf6c3ac-1af5-4e0b-b1e6-d38b180f6b62@032b2"
+      ],
+      "scenes": [
+        "ebf6c3ac-1af5-4e0b-b1e6-d38b180f6b62@a1155"
+      ]
+    }
+  }
+}

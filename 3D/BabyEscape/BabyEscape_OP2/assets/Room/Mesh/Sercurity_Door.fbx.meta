@@ -1,0 +1,235 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d42d52e9-463b-41b9-b582-5542e970f200",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "d563b": {
+      "importer": "gltf-mesh",
+      "uuid": "d42d52e9-463b-41b9-b582-5542e970f200@d563b",
+      "displayName": "",
+      "id": "d563b",
+      "name": "Wall4_SecurityDoor.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fc4c6": {
+      "importer": "gltf-mesh",
+      "uuid": "d42d52e9-463b-41b9-b582-5542e970f200@fc4c6",
+      "displayName": "",
+      "id": "fc4c6",
+      "name": "SecurityDoorLeftBig1.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7fbe4": {
+      "importer": "gltf-mesh",
+      "uuid": "d42d52e9-463b-41b9-b582-5542e970f200@7fbe4",
+      "displayName": "",
+      "id": "7fbe4",
+      "name": "SecurityDoorLeftBig.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "330d9": {
+      "importer": "gltf-mesh",
+      "uuid": "d42d52e9-463b-41b9-b582-5542e970f200@330d9",
+      "displayName": "",
+      "id": "330d9",
+      "name": "CardReader1.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "08a1d": {
+      "importer": "gltf-mesh",
+      "uuid": "d42d52e9-463b-41b9-b582-5542e970f200@08a1d",
+      "displayName": "",
+      "id": "08a1d",
+      "name": "CardReader.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d2bd3": {
+      "importer": "gltf-animation",
+      "uuid": "d42d52e9-463b-41b9-b582-5542e970f200@d2bd3",
+      "displayName": "",
+      "id": "d2bd3",
+      "name": "DoorOpen.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.1666666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d42d52e9-463b-41b9-b582-5542e970f200@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "d42d52e9-463b-41b9-b582-5542e970f200@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d42d52e9-463b-41b9-b582-5542e970f200@48b02"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "37cdd": {
+      "importer": "gltf-material",
+      "uuid": "d42d52e9-463b-41b9-b582-5542e970f200@37cdd",
+      "displayName": "",
+      "id": "37cdd",
+      "name": "Mat_Environment.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7aa55": {
+      "importer": "gltf-scene",
+      "uuid": "d42d52e9-463b-41b9-b582-5542e970f200@7aa55",
+      "displayName": "",
+      "id": "7aa55",
+      "name": "Sercurity_Door.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "d42d52e9-463b-41b9-b582-5542e970f200@48b02"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "DoorOpen",
+        "duration": 1.1666666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "DoorOpen",
+            "from": 0,
+            "to": 1.1666666269302368,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "d42d52e9-463b-41b9-b582-5542e970f200@7aa55",
+    "assetFinder": {
+      "meshes": [
+        "d42d52e9-463b-41b9-b582-5542e970f200@d563b",
+        "d42d52e9-463b-41b9-b582-5542e970f200@fc4c6",
+        "d42d52e9-463b-41b9-b582-5542e970f200@7fbe4",
+        "d42d52e9-463b-41b9-b582-5542e970f200@330d9",
+        "d42d52e9-463b-41b9-b582-5542e970f200@08a1d"
+      ],
+      "skeletons": [],
+      "textures": [
+        "d42d52e9-463b-41b9-b582-5542e970f200@7d6ab"
+      ],
+      "materials": [
+        "d42d52e9-463b-41b9-b582-5542e970f200@37cdd"
+      ],
+      "scenes": [
+        "d42d52e9-463b-41b9-b582-5542e970f200@7aa55"
+      ]
+    }
+  }
+}

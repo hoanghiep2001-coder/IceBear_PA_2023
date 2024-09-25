@@ -1,0 +1,123 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c3211d74-ac48-43f4-ab62-dd2ca52a1488",
+  "files": [],
+  "subMetas": {
+    "d556f": {
+      "importer": "gltf-mesh",
+      "uuid": "c3211d74-ac48-43f4-ab62-dd2ca52a1488@d556f",
+      "displayName": "",
+      "id": "d556f",
+      "name": "bed.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "43c71": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c3211d74-ac48-43f4-ab62-dd2ca52a1488@43c71",
+      "displayName": "",
+      "id": "43c71",
+      "name": "file1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d20e9": {
+      "importer": "texture",
+      "uuid": "c3211d74-ac48-43f4-ab62-dd2ca52a1488@d20e9",
+      "displayName": "",
+      "id": "d20e9",
+      "name": "file1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c3211d74-ac48-43f4-ab62-dd2ca52a1488@43c71"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "632d3": {
+      "importer": "gltf-material",
+      "uuid": "c3211d74-ac48-43f4-ab62-dd2ca52a1488@632d3",
+      "displayName": "",
+      "id": "632d3",
+      "name": "Megatexture.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "40fa0": {
+      "importer": "gltf-scene",
+      "uuid": "c3211d74-ac48-43f4-ab62-dd2ca52a1488@40fa0",
+      "displayName": "",
+      "id": "40fa0",
+      "name": "bedroom_bed.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1",
+        "uri": "c3211d74-ac48-43f4-ab62-dd2ca52a1488@43c71"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "c3211d74-ac48-43f4-ab62-dd2ca52a1488@40fa0",
+    "assetFinder": {
+      "meshes": [
+        "c3211d74-ac48-43f4-ab62-dd2ca52a1488@d556f"
+      ],
+      "skeletons": [],
+      "textures": [
+        "c3211d74-ac48-43f4-ab62-dd2ca52a1488@d20e9"
+      ],
+      "materials": [
+        "c3211d74-ac48-43f4-ab62-dd2ca52a1488@632d3"
+      ],
+      "scenes": [
+        "c3211d74-ac48-43f4-ab62-dd2ca52a1488@40fa0"
+      ]
+    }
+  }
+}

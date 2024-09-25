@@ -1,0 +1,129 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "59ac4dd2-4d96-4c22-bf0e-cff8e82e8cec",
+  "files": [],
+  "subMetas": {
+    "d0e86": {
+      "importer": "gltf-mesh",
+      "uuid": "59ac4dd2-4d96-4c22-bf0e-cff8e82e8cec@d0e86",
+      "displayName": "",
+      "id": "d0e86",
+      "name": "Cat_model.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "59ac4dd2-4d96-4c22-bf0e-cff8e82e8cec@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 32
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "43c71": {
+      "importer": "gltf-embeded-image",
+      "uuid": "59ac4dd2-4d96-4c22-bf0e-cff8e82e8cec@43c71",
+      "displayName": "",
+      "id": "43c71",
+      "name": "file1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d20e9": {
+      "importer": "texture",
+      "uuid": "59ac4dd2-4d96-4c22-bf0e-cff8e82e8cec@d20e9",
+      "displayName": "",
+      "id": "d20e9",
+      "name": "file1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Image/Texture/Skins/Cat03.png"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4c453": {
+      "importer": "gltf-scene",
+      "uuid": "59ac4dd2-4d96-4c22-bf0e-cff8e82e8cec@4c453",
+      "displayName": "",
+      "id": "4c453",
+      "name": "Cats_Base.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1",
+        "remap": "db://assets/Image/Texture/Skins/Cat03.png",
+        "uri": "59ac4dd2-4d96-4c22-bf0e-cff8e82e8cec@43c71"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "59ac4dd2-4d96-4c22-bf0e-cff8e82e8cec@4c453",
+    "assetFinder": {
+      "meshes": [
+        "59ac4dd2-4d96-4c22-bf0e-cff8e82e8cec@d0e86"
+      ],
+      "skeletons": [
+        "59ac4dd2-4d96-4c22-bf0e-cff8e82e8cec@438fe"
+      ],
+      "textures": [
+        "59ac4dd2-4d96-4c22-bf0e-cff8e82e8cec@d20e9"
+      ],
+      "materials": [
+        "f7275be5-0225-4a77-89a4-872934ff13be"
+      ],
+      "scenes": [
+        "59ac4dd2-4d96-4c22-bf0e-cff8e82e8cec@4c453"
+      ]
+    },
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/Image/Mesh/Materials_Cats_Base"
+  }
+}

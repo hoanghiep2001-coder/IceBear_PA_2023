@@ -1,0 +1,76 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "6191db69-37e7-4903-b283-dd000afc4535",
+  "files": [],
+  "subMetas": {
+    "99380": {
+      "importer": "gltf-material",
+      "uuid": "6191db69-37e7-4903-b283-dd000afc4535@99380",
+      "displayName": "",
+      "id": "99380",
+      "name": "Material.001.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "392cb": {
+      "importer": "gltf-mesh",
+      "uuid": "6191db69-37e7-4903-b283-dd000afc4535@392cb",
+      "displayName": "",
+      "id": "392cb",
+      "name": "Arrow.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c028b": {
+      "importer": "gltf-scene",
+      "uuid": "6191db69-37e7-4903-b283-dd000afc4535@c028b",
+      "displayName": "",
+      "id": "c028b",
+      "name": "Arrow.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "redirect": "6191db69-37e7-4903-b283-dd000afc4535@c028b",
+    "assetFinder": {
+      "meshes": [
+        "6191db69-37e7-4903-b283-dd000afc4535@392cb"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "6191db69-37e7-4903-b283-dd000afc4535@99380"
+      ],
+      "scenes": [
+        "6191db69-37e7-4903-b283-dd000afc4535@c028b"
+      ]
+    }
+  }
+}

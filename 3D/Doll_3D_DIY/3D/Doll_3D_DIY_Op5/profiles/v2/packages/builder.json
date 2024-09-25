@@ -1,0 +1,60 @@
+{
+  "log": {
+    "level": 4
+  },
+  "common": {
+    "outputName": "web-mobile",
+    "mainBundleCompressionType": "merge_all_json",
+    "platform": "web-mobile",
+    "name": "Doll_DIY"
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1692947635436": {
+        "id": "1692947635436",
+        "progress": 1,
+        "state": "success",
+        "message": "8-28-2023 15:21 Build success in 8042 ms!",
+        "options": {
+          "name": "Doll_DIY",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_all_json",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "52c19f43-2c05-4598-9c97-af97c6df9f48",
+          "scenes": [
+            {
+              "url": "db://assets/game.scene",
+              "uuid": "52c19f43-2c05-4598-9c97-af97c6df9f48",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-mobile",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "f4e2e7",
+              "services": []
+            },
+            "super-html": null
+          }
+        },
+        "time": "8-28-2023 15:21",
+        "dirty": false
+      }
+    }
+  }
+}

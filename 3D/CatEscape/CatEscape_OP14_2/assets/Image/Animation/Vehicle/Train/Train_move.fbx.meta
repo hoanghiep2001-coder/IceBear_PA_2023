@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "12048f3e-a471-45b0-be40-6df8b49ad3e3",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "db7e1": {
+      "importer": "gltf-animation",
+      "uuid": "12048f3e-a471-45b0-be40-6df8b49ad3e3@db7e1",
+      "displayName": "",
+      "id": "db7e1",
+      "name": "Train_move.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.30000001192092896
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "cafbd": {
+      "importer": "gltf-scene",
+      "uuid": "12048f3e-a471-45b0-be40-6df8b49ad3e3@cafbd",
+      "displayName": "",
+      "id": "cafbd",
+      "name": "Train_move.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Train_move",
+        "duration": 0.30000001192092896,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Train_move",
+            "from": 0,
+            "to": 0.30000001192092896,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "12048f3e-a471-45b0-be40-6df8b49ad3e3@cafbd",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "12048f3e-a471-45b0-be40-6df8b49ad3e3@cafbd"
+      ]
+    }
+  }
+}

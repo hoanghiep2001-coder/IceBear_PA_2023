@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "33c14030-c038-491a-805b-cada14301824",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "43d46": {
+      "importer": "gltf-animation",
+      "uuid": "33c14030-c038-491a-805b-cada14301824@43d46",
+      "displayName": "",
+      "id": "43d46",
+      "name": "Cry2.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 3.3333332538604736
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "95de2": {
+      "importer": "gltf-scene",
+      "uuid": "33c14030-c038-491a-805b-cada14301824@95de2",
+      "displayName": "",
+      "id": "95de2",
+      "name": "Cat_Skinshow_cry02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Cry2",
+        "duration": 3.3333332538604736,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Cry2",
+            "from": 0,
+            "to": 3.3333332538604736,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "33c14030-c038-491a-805b-cada14301824@95de2",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "33c14030-c038-491a-805b-cada14301824@95de2"
+      ]
+    }
+  }
+}

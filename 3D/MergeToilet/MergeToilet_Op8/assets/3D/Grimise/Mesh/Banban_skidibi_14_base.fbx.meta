@@ -1,0 +1,374 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "23364382-b49f-4544-8e03-c39e5a3683d3",
+  "files": [],
+  "subMetas": {
+    "30732": {
+      "importer": "gltf-skeleton",
+      "uuid": "23364382-b49f-4544-8e03-c39e5a3683d3@30732",
+      "displayName": "",
+      "id": "30732",
+      "name": "UnnamedSkeleton-0.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 16
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "43321": {
+      "importer": "gltf-mesh",
+      "uuid": "23364382-b49f-4544-8e03-c39e5a3683d3@43321",
+      "displayName": "",
+      "id": "43321",
+      "name": "Banban_skidibi_14_wing.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7c5bf": {
+      "importer": "gltf-mesh",
+      "uuid": "23364382-b49f-4544-8e03-c39e5a3683d3@7c5bf",
+      "displayName": "",
+      "id": "7c5bf",
+      "name": "Banban_skidibi_14_body.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0fedc": {
+      "importer": "gltf-mesh",
+      "uuid": "23364382-b49f-4544-8e03-c39e5a3683d3@0fedc",
+      "displayName": "",
+      "id": "0fedc",
+      "name": "Banban_skidibi_14_toilet.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d4b50": {
+      "importer": "gltf-mesh",
+      "uuid": "23364382-b49f-4544-8e03-c39e5a3683d3@d4b50",
+      "displayName": "",
+      "id": "d4b50",
+      "name": "Banban_skidibi_14_leg.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f1394": {
+      "importer": "gltf-skeleton",
+      "uuid": "23364382-b49f-4544-8e03-c39e5a3683d3@f1394",
+      "displayName": "",
+      "id": "f1394",
+      "name": "UnnamedSkeleton-1.skeleton",
+      "userData": {
+        "gltfIndex": 1,
+        "jointsLength": 1
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "75ee4": {
+      "importer": "gltf-skeleton",
+      "uuid": "23364382-b49f-4544-8e03-c39e5a3683d3@75ee4",
+      "displayName": "",
+      "id": "75ee4",
+      "name": "UnnamedSkeleton-2.skeleton",
+      "userData": {
+        "gltfIndex": 2,
+        "jointsLength": 12
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a72ab": {
+      "importer": "gltf-skeleton",
+      "uuid": "23364382-b49f-4544-8e03-c39e5a3683d3@a72ab",
+      "displayName": "",
+      "id": "a72ab",
+      "name": "UnnamedSkeleton-3.skeleton",
+      "userData": {
+        "gltfIndex": 3,
+        "jointsLength": 14
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cfa6f": {
+      "importer": "gltf-embeded-image",
+      "uuid": "23364382-b49f-4544-8e03-c39e5a3683d3@cfa6f",
+      "displayName": "",
+      "id": "cfa6f",
+      "name": "Feralbanban.png.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b8a00": {
+      "importer": "gltf-embeded-image",
+      "uuid": "23364382-b49f-4544-8e03-c39e5a3683d3@b8a00",
+      "displayName": "",
+      "id": "b8a00",
+      "name": "Skibidi2.png1.image",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d3b2": {
+      "importer": "gltf-embeded-image",
+      "uuid": "23364382-b49f-4544-8e03-c39e5a3683d3@8d3b2",
+      "displayName": "",
+      "id": "8d3b2",
+      "name": "base_color_texture20.image",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bc145": {
+      "importer": "texture",
+      "uuid": "23364382-b49f-4544-8e03-c39e5a3683d3@bc145",
+      "displayName": "",
+      "id": "bc145",
+      "name": "Feralbanban.png.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "23364382-b49f-4544-8e03-c39e5a3683d3@cfa6f"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1189c": {
+      "importer": "texture",
+      "uuid": "23364382-b49f-4544-8e03-c39e5a3683d3@1189c",
+      "displayName": "",
+      "id": "1189c",
+      "name": "Skibidi2.png1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "23364382-b49f-4544-8e03-c39e5a3683d3@b8a00"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d9ea5": {
+      "importer": "texture",
+      "uuid": "23364382-b49f-4544-8e03-c39e5a3683d3@d9ea5",
+      "displayName": "",
+      "id": "d9ea5",
+      "name": "base_color_texture20.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "23364382-b49f-4544-8e03-c39e5a3683d3@8d3b2"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3b692": {
+      "importer": "gltf-material",
+      "uuid": "23364382-b49f-4544-8e03-c39e5a3683d3@3b692",
+      "displayName": "",
+      "id": "3b692",
+      "name": "m_Banban_skidibi_14_body.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2588a": {
+      "importer": "gltf-material",
+      "uuid": "23364382-b49f-4544-8e03-c39e5a3683d3@2588a",
+      "displayName": "",
+      "id": "2588a",
+      "name": "m_toilet_06.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c19f0": {
+      "importer": "gltf-material",
+      "uuid": "23364382-b49f-4544-8e03-c39e5a3683d3@c19f0",
+      "displayName": "",
+      "id": "c19f0",
+      "name": "m_Banban_skidibi_14_parts.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e2a4f": {
+      "importer": "gltf-scene",
+      "uuid": "23364382-b49f-4544-8e03-c39e5a3683d3@e2a4f",
+      "displayName": "",
+      "id": "e2a4f",
+      "name": "Banban_skidibi_14_base.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Feralbanban.png",
+        "uri": "23364382-b49f-4544-8e03-c39e5a3683d3@cfa6f"
+      },
+      {
+        "name": "Skibidi2.png1",
+        "uri": "23364382-b49f-4544-8e03-c39e5a3683d3@b8a00"
+      },
+      {
+        "name": "base_color_texture20",
+        "uri": "23364382-b49f-4544-8e03-c39e5a3683d3@8d3b2"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "23364382-b49f-4544-8e03-c39e5a3683d3@e2a4f",
+    "assetFinder": {
+      "meshes": [
+        "23364382-b49f-4544-8e03-c39e5a3683d3@7c5bf",
+        "23364382-b49f-4544-8e03-c39e5a3683d3@0fedc",
+        "23364382-b49f-4544-8e03-c39e5a3683d3@d4b50",
+        "23364382-b49f-4544-8e03-c39e5a3683d3@43321"
+      ],
+      "skeletons": [
+        "23364382-b49f-4544-8e03-c39e5a3683d3@30732",
+        "23364382-b49f-4544-8e03-c39e5a3683d3@f1394",
+        "23364382-b49f-4544-8e03-c39e5a3683d3@75ee4",
+        "23364382-b49f-4544-8e03-c39e5a3683d3@a72ab"
+      ],
+      "textures": [
+        "23364382-b49f-4544-8e03-c39e5a3683d3@bc145",
+        "23364382-b49f-4544-8e03-c39e5a3683d3@1189c",
+        "23364382-b49f-4544-8e03-c39e5a3683d3@d9ea5"
+      ],
+      "materials": [
+        "23364382-b49f-4544-8e03-c39e5a3683d3@3b692",
+        "23364382-b49f-4544-8e03-c39e5a3683d3@2588a",
+        "23364382-b49f-4544-8e03-c39e5a3683d3@c19f0"
+      ],
+      "scenes": [
+        "23364382-b49f-4544-8e03-c39e5a3683d3@e2a4f"
+      ]
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "fe3a74db-f6ce-41d2-8add-44859b6fbaae",
+  "files": [],
+  "subMetas": {
+    "14860": {
+      "importer": "gltf-mesh",
+      "uuid": "fe3a74db-f6ce-41d2-8add-44859b6fbaae@14860",
+      "displayName": "",
+      "id": "14860",
+      "name": "military_streetmap.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "fe3a74db-f6ce-41d2-8add-44859b6fbaae@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "fe3a74db-f6ce-41d2-8add-44859b6fbaae@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "fe3a74db-f6ce-41d2-8add-44859b6fbaae@48b02"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "37cdd": {
+      "importer": "gltf-material",
+      "uuid": "fe3a74db-f6ce-41d2-8add-44859b6fbaae@37cdd",
+      "displayName": "",
+      "id": "37cdd",
+      "name": "Mat_Environment.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3b172": {
+      "importer": "gltf-scene",
+      "uuid": "fe3a74db-f6ce-41d2-8add-44859b6fbaae@3b172",
+      "displayName": "",
+      "id": "3b172",
+      "name": "military_ground.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "fe3a74db-f6ce-41d2-8add-44859b6fbaae@48b02"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "fe3a74db-f6ce-41d2-8add-44859b6fbaae@3b172",
+    "assetFinder": {
+      "meshes": [
+        "fe3a74db-f6ce-41d2-8add-44859b6fbaae@14860"
+      ],
+      "skeletons": [],
+      "textures": [
+        "fe3a74db-f6ce-41d2-8add-44859b6fbaae@7d6ab"
+      ],
+      "materials": [
+        "fe3a74db-f6ce-41d2-8add-44859b6fbaae@37cdd"
+      ],
+      "scenes": [
+        "fe3a74db-f6ce-41d2-8add-44859b6fbaae@3b172"
+      ]
+    }
+  }
+}

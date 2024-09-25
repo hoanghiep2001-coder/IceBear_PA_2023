@@ -1,0 +1,83 @@
+
+Blast.png
+size: 176,176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Deng
+  rotate: false
+  xy: 107, 146
+  size: 28, 28
+  orig: 30, 30
+  offset: 1, 1
+  index: -1
+Deng1
+  rotate: false
+  xy: 100, 91
+  size: 28, 28
+  orig: 32, 32
+  offset: 2, 2
+  index: -1
+Deng2
+  rotate: false
+  xy: 100, 61
+  size: 28, 28
+  orig: 30, 30
+  offset: 1, 1
+  index: -1
+Deng3
+  rotate: false
+  xy: 106, 31
+  size: 28, 28
+  orig: 30, 30
+  offset: 1, 1
+  index: -1
+boo0
+  rotate: false
+  xy: 58, 68
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+bullet
+  rotate: false
+  xy: 68, 121
+  size: 48, 13
+  orig: 50, 16
+  offset: 2, 2
+  index: -1
+fire
+  rotate: false
+  xy: 2, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+fire_core
+  rotate: false
+  xy: 2, 54
+  size: 54, 54
+  orig: 64, 64
+  offset: 5, 5
+  index: -1
+guangq2
+  rotate: false
+  xy: 54, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+smoke22
+  rotate: false
+  xy: 68, 136
+  size: 37, 38
+  orig: 40, 40
+  offset: 2, 1
+  index: -1
+wave
+  rotate: false
+  xy: 2, 110
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

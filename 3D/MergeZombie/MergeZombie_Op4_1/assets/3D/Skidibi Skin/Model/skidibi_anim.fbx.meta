@@ -1,0 +1,489 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "bedde30b-b891-4d91-911f-59173342016a",
+  "files": [
+    "__original-animation-0.cconb",
+    "__original-animation-1.cconb",
+    "__original-animation-2.cconb"
+  ],
+  "subMetas": {
+    "30732": {
+      "importer": "gltf-skeleton",
+      "uuid": "bedde30b-b891-4d91-911f-59173342016a@30732",
+      "displayName": "",
+      "id": "30732",
+      "name": "UnnamedSkeleton-0.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 12
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "37358": {
+      "importer": "gltf-animation",
+      "uuid": "bedde30b-b891-4d91-911f-59173342016a@37358",
+      "displayName": "",
+      "id": "37358",
+      "name": "atk.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.1666666666666665
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "72404": {
+      "importer": "texture",
+      "uuid": "bedde30b-b891-4d91-911f-59173342016a@72404",
+      "displayName": "",
+      "id": "72404",
+      "name": "base_color_texture10.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "bedde30b-b891-4d91-911f-59173342016a@226b5"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c6aed": {
+      "importer": "gltf-mesh",
+      "uuid": "bedde30b-b891-4d91-911f-59173342016a@c6aed",
+      "displayName": "",
+      "id": "c6aed",
+      "name": "head_03_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6d2bb": {
+      "importer": "gltf-mesh",
+      "uuid": "bedde30b-b891-4d91-911f-59173342016a@6d2bb",
+      "displayName": "",
+      "id": "6d2bb",
+      "name": "head_04_Material0.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "add00": {
+      "importer": "gltf-mesh",
+      "uuid": "bedde30b-b891-4d91-911f-59173342016a@add00",
+      "displayName": "",
+      "id": "add00",
+      "name": "head_05_Material0.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a51b5": {
+      "importer": "gltf-mesh",
+      "uuid": "bedde30b-b891-4d91-911f-59173342016a@a51b5",
+      "displayName": "",
+      "id": "a51b5",
+      "name": "toilet_02.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6018c": {
+      "importer": "gltf-animation",
+      "uuid": "bedde30b-b891-4d91-911f-59173342016a@6018c",
+      "displayName": "",
+      "id": "6018c",
+      "name": "dead.animation",
+      "userData": {
+        "gltfIndex": 1,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.7083333134651184
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "1f586": {
+      "importer": "gltf-animation",
+      "uuid": "bedde30b-b891-4d91-911f-59173342016a@1f586",
+      "displayName": "",
+      "id": "1f586",
+      "name": "idle.animation",
+      "userData": {
+        "gltfIndex": 2,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.9583333134651184
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "f1394": {
+      "importer": "gltf-skeleton",
+      "uuid": "bedde30b-b891-4d91-911f-59173342016a@f1394",
+      "displayName": "",
+      "id": "f1394",
+      "name": "UnnamedSkeleton-1.skeleton",
+      "userData": {
+        "gltfIndex": 1,
+        "jointsLength": 12
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "75ee4": {
+      "importer": "gltf-skeleton",
+      "uuid": "bedde30b-b891-4d91-911f-59173342016a@75ee4",
+      "displayName": "",
+      "id": "75ee4",
+      "name": "UnnamedSkeleton-2.skeleton",
+      "userData": {
+        "gltfIndex": 2,
+        "jointsLength": 5
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a72ab": {
+      "importer": "gltf-skeleton",
+      "uuid": "bedde30b-b891-4d91-911f-59173342016a@a72ab",
+      "displayName": "",
+      "id": "a72ab",
+      "name": "UnnamedSkeleton-3.skeleton",
+      "userData": {
+        "gltfIndex": 3,
+        "jointsLength": 12
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8245f": {
+      "importer": "gltf-embeded-image",
+      "uuid": "bedde30b-b891-4d91-911f-59173342016a@8245f",
+      "displayName": "",
+      "id": "8245f",
+      "name": "file16.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8c192": {
+      "importer": "gltf-embeded-image",
+      "uuid": "bedde30b-b891-4d91-911f-59173342016a@8c192",
+      "displayName": "",
+      "id": "8c192",
+      "name": "file17.image",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "226b5": {
+      "importer": "gltf-embeded-image",
+      "uuid": "bedde30b-b891-4d91-911f-59173342016a@226b5",
+      "displayName": "",
+      "id": "226b5",
+      "name": "base_color_texture10.image",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "05fc7": {
+      "importer": "texture",
+      "uuid": "bedde30b-b891-4d91-911f-59173342016a@05fc7",
+      "displayName": "",
+      "id": "05fc7",
+      "name": "file16.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "bedde30b-b891-4d91-911f-59173342016a@8245f"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8cbf6": {
+      "importer": "texture",
+      "uuid": "bedde30b-b891-4d91-911f-59173342016a@8cbf6",
+      "displayName": "",
+      "id": "8cbf6",
+      "name": "file17.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "bedde30b-b891-4d91-911f-59173342016a@8c192"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "350e5": {
+      "importer": "gltf-material",
+      "uuid": "bedde30b-b891-4d91-911f-59173342016a@350e5",
+      "displayName": "",
+      "id": "350e5",
+      "name": "m_head_05.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "83c1f": {
+      "importer": "gltf-material",
+      "uuid": "bedde30b-b891-4d91-911f-59173342016a@83c1f",
+      "displayName": "",
+      "id": "83c1f",
+      "name": "m_m_head_03_hat2.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2588a": {
+      "importer": "gltf-material",
+      "uuid": "bedde30b-b891-4d91-911f-59173342016a@2588a",
+      "displayName": "",
+      "id": "2588a",
+      "name": "m_toilet_06.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "be5c3": {
+      "importer": "gltf-scene",
+      "uuid": "bedde30b-b891-4d91-911f-59173342016a@be5c3",
+      "displayName": "",
+      "id": "be5c3",
+      "name": "skidibi_anim.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file16",
+        "uri": "bedde30b-b891-4d91-911f-59173342016a@8245f"
+      },
+      {
+        "name": "file17",
+        "uri": "bedde30b-b891-4d91-911f-59173342016a@8c192"
+      },
+      {
+        "name": "base_color_texture10",
+        "uri": "bedde30b-b891-4d91-911f-59173342016a@226b5"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "atk",
+        "duration": 2.1666667461395264,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "atk",
+            "from": 0,
+            "to": 2.1666666666666665,
+            "fps": 30,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "dead",
+        "duration": 0.7083333134651184,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "dead",
+            "from": 0,
+            "to": 0.7083333134651184,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "idle",
+        "duration": 0.9583333134651184,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "idle",
+            "from": 0,
+            "to": 0.9583333134651184,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "bedde30b-b891-4d91-911f-59173342016a@be5c3",
+    "assetFinder": {
+      "meshes": [
+        "bedde30b-b891-4d91-911f-59173342016a@c6aed",
+        "bedde30b-b891-4d91-911f-59173342016a@6d2bb",
+        "bedde30b-b891-4d91-911f-59173342016a@add00",
+        "bedde30b-b891-4d91-911f-59173342016a@a51b5"
+      ],
+      "skeletons": [
+        "bedde30b-b891-4d91-911f-59173342016a@30732",
+        "bedde30b-b891-4d91-911f-59173342016a@f1394",
+        "bedde30b-b891-4d91-911f-59173342016a@75ee4",
+        "bedde30b-b891-4d91-911f-59173342016a@a72ab"
+      ],
+      "textures": [
+        "bedde30b-b891-4d91-911f-59173342016a@05fc7",
+        "bedde30b-b891-4d91-911f-59173342016a@8cbf6",
+        "bedde30b-b891-4d91-911f-59173342016a@72404"
+      ],
+      "materials": [
+        "bedde30b-b891-4d91-911f-59173342016a@350e5",
+        "bedde30b-b891-4d91-911f-59173342016a@83c1f",
+        "bedde30b-b891-4d91-911f-59173342016a@2588a"
+      ],
+      "scenes": [
+        "bedde30b-b891-4d91-911f-59173342016a@be5c3"
+      ]
+    }
+  }
+}

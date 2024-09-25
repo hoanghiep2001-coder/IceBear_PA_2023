@@ -1,0 +1,60 @@
+{
+  "log": {
+    "level": 4
+  },
+  "common": {
+    "outputName": "web-mobile",
+    "mainBundleCompressionType": "merge_all_json",
+    "platform": "web-mobile",
+    "name": "CapEscape_OP5"
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1687157348204": {
+        "id": "1687157348204",
+        "progress": 1,
+        "state": "success",
+        "message": "6-19-2023 13:50 Build success in 69470 ms!",
+        "options": {
+          "name": "CapEscape_OP5",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_all_json",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "f82590ab-7475-4b63-9a96-e8c0a6a65b85",
+          "scenes": [
+            {
+              "url": "db://assets/CatEscape.scene",
+              "uuid": "f82590ab-7475-4b63-9a96-e8c0a6a65b85",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-mobile",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "f4e2e7",
+              "services": []
+            },
+            "super-html": null
+          }
+        },
+        "time": "6-19-2023 13:49",
+        "dirty": false
+      }
+    }
+  }
+}

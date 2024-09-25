@@ -1,0 +1,123 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c848c597-aa30-46b0-885c-acd45f249665",
+  "files": [],
+  "subMetas": {
+    "db1df": {
+      "importer": "gltf-mesh",
+      "uuid": "c848c597-aa30-46b0-885c-acd45f249665@db1df",
+      "displayName": "",
+      "id": "db1df",
+      "name": "wall_recipes.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "43c71": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c848c597-aa30-46b0-885c-acd45f249665@43c71",
+      "displayName": "",
+      "id": "43c71",
+      "name": "file1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d20e9": {
+      "importer": "texture",
+      "uuid": "c848c597-aa30-46b0-885c-acd45f249665@d20e9",
+      "displayName": "",
+      "id": "d20e9",
+      "name": "file1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c848c597-aa30-46b0-885c-acd45f249665@43c71"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "632d3": {
+      "importer": "gltf-material",
+      "uuid": "c848c597-aa30-46b0-885c-acd45f249665@632d3",
+      "displayName": "",
+      "id": "632d3",
+      "name": "Megatexture.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "11c28": {
+      "importer": "gltf-scene",
+      "uuid": "c848c597-aa30-46b0-885c-acd45f249665@11c28",
+      "displayName": "",
+      "id": "11c28",
+      "name": "kitchen_recipes.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1",
+        "uri": "c848c597-aa30-46b0-885c-acd45f249665@43c71"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "c848c597-aa30-46b0-885c-acd45f249665@11c28",
+    "assetFinder": {
+      "meshes": [
+        "c848c597-aa30-46b0-885c-acd45f249665@db1df"
+      ],
+      "skeletons": [],
+      "textures": [
+        "c848c597-aa30-46b0-885c-acd45f249665@d20e9"
+      ],
+      "materials": [
+        "c848c597-aa30-46b0-885c-acd45f249665@632d3"
+      ],
+      "scenes": [
+        "c848c597-aa30-46b0-885c-acd45f249665@11c28"
+      ]
+    }
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "00d9aab1-9780-4220-bb0a-005fd751b206",
+  "files": [],
+  "subMetas": {
+    "13872": {
+      "importer": "gltf-scene",
+      "uuid": "00d9aab1-9780-4220-bb0a-005fd751b206@13872",
+      "displayName": "",
+      "id": "13872",
+      "name": "banban_06_base.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "30732": {
+      "importer": "gltf-skeleton",
+      "uuid": "00d9aab1-9780-4220-bb0a-005fd751b206@30732",
+      "displayName": "",
+      "id": "30732",
+      "name": "UnnamedSkeleton-0.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 8
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "075ce": {
+      "importer": "gltf-mesh",
+      "uuid": "00d9aab1-9780-4220-bb0a-005fd751b206@075ce",
+      "displayName": "",
+      "id": "075ce",
+      "name": "Banban_skidibi_06_toilet.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7f75a": {
+      "importer": "gltf-mesh",
+      "uuid": "00d9aab1-9780-4220-bb0a-005fd751b206@7f75a",
+      "displayName": "",
+      "id": "7f75a",
+      "name": "Banban_skidibi_06_body.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f1394": {
+      "importer": "gltf-skeleton",
+      "uuid": "00d9aab1-9780-4220-bb0a-005fd751b206@f1394",
+      "displayName": "",
+      "id": "f1394",
+      "name": "UnnamedSkeleton-1.skeleton",
+      "userData": {
+        "gltfIndex": 1,
+        "jointsLength": 8
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1435e": {
+      "importer": "gltf-embeded-image",
+      "uuid": "00d9aab1-9780-4220-bb0a-005fd751b206@1435e",
+      "displayName": "",
+      "id": "1435e",
+      "name": "Skibidi3.png.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "69fda": {
+      "importer": "gltf-embeded-image",
+      "uuid": "00d9aab1-9780-4220-bb0a-005fd751b206@69fda",
+      "displayName": "",
+      "id": "69fda",
+      "name": "Stinger.png.image",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ec5d6": {
+      "importer": "texture",
+      "uuid": "00d9aab1-9780-4220-bb0a-005fd751b206@ec5d6",
+      "displayName": "",
+      "id": "ec5d6",
+      "name": "Skibidi3.png.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "00d9aab1-9780-4220-bb0a-005fd751b206@1435e"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6acd3": {
+      "importer": "texture",
+      "uuid": "00d9aab1-9780-4220-bb0a-005fd751b206@6acd3",
+      "displayName": "",
+      "id": "6acd3",
+      "name": "Stinger.png.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "00d9aab1-9780-4220-bb0a-005fd751b206@69fda"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6e790": {
+      "importer": "gltf-material",
+      "uuid": "00d9aab1-9780-4220-bb0a-005fd751b206@6e790",
+      "displayName": "",
+      "id": "6e790",
+      "name": "m_toilet_14.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "db7f8": {
+      "importer": "gltf-material",
+      "uuid": "00d9aab1-9780-4220-bb0a-005fd751b206@db7f8",
+      "displayName": "",
+      "id": "db7f8",
+      "name": "m_Banban_skidibi_06_body.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Skibidi3.png",
+        "uri": "00d9aab1-9780-4220-bb0a-005fd751b206@1435e"
+      },
+      {
+        "name": "Stinger.png",
+        "uri": "00d9aab1-9780-4220-bb0a-005fd751b206@69fda"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "00d9aab1-9780-4220-bb0a-005fd751b206@13872",
+    "assetFinder": {
+      "meshes": [
+        "00d9aab1-9780-4220-bb0a-005fd751b206@075ce",
+        "00d9aab1-9780-4220-bb0a-005fd751b206@7f75a"
+      ],
+      "skeletons": [
+        "00d9aab1-9780-4220-bb0a-005fd751b206@30732",
+        "00d9aab1-9780-4220-bb0a-005fd751b206@f1394"
+      ],
+      "textures": [
+        "00d9aab1-9780-4220-bb0a-005fd751b206@ec5d6",
+        "00d9aab1-9780-4220-bb0a-005fd751b206@6acd3"
+      ],
+      "materials": [
+        "00d9aab1-9780-4220-bb0a-005fd751b206@6e790",
+        "00d9aab1-9780-4220-bb0a-005fd751b206@db7f8"
+      ],
+      "scenes": [
+        "00d9aab1-9780-4220-bb0a-005fd751b206@13872"
+      ]
+    }
+  }
+}

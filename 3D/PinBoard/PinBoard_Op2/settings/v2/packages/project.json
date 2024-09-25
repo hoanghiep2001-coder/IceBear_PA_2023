@@ -1,0 +1,57 @@
+{
+  "general": {
+    "designResolution": {
+      "width": 320,
+      "height": 480
+    }
+  },
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "Ground"
+      },
+      {
+        "index": 2,
+        "name": "Object"
+      },
+      {
+        "index": 3,
+        "name": "Key"
+      },
+      {
+        "index": 4,
+        "name": "Stone"
+      },
+      {
+        "index": 5,
+        "name": "Eye"
+      },
+      {
+        "index": 6,
+        "name": "Banana"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 1,
+      "1": 28,
+      "2": 62,
+      "3": 22,
+      "4": 14,
+      "5": 4
+    },
+    "gravity": {
+      "y": -10,
+      "x": 0,
+      "z": 0
+    },
+    "autoSimulation": true,
+    "allowSleep": true
+  },
+  "layer": [
+    {
+      "name": "UI_Hand",
+      "value": 1
+    }
+  ]
+}

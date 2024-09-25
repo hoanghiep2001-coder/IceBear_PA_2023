@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "369e26de-cbd3-428a-a1de-f4f982cf08a3",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "414d7": {
+      "importer": "gltf-animation",
+      "uuid": "369e26de-cbd3-428a-a1de-f4f982cf08a3@414d7",
+      "displayName": "",
+      "id": "414d7",
+      "name": "CE_police_electrizied.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.2999999523162842
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "302d1": {
+      "importer": "gltf-scene",
+      "uuid": "369e26de-cbd3-428a-a1de-f4f982cf08a3@302d1",
+      "displayName": "",
+      "id": "302d1",
+      "name": "CE_police_electrizied.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "CE_police_electrizied",
+        "duration": 1.2999999523162842,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "CE_police_electrizied",
+            "from": 0,
+            "to": 1.2999999523162842,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "369e26de-cbd3-428a-a1de-f4f982cf08a3@302d1",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "369e26de-cbd3-428a-a1de-f4f982cf08a3@302d1"
+      ]
+    }
+  }
+}

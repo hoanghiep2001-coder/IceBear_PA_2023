@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b72a6c18-974a-4aa6-ba3d-02226fe2c5d6",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "ea152": {
+      "importer": "gltf-animation",
+      "uuid": "b72a6c18-974a-4aa6-ba3d-02226fe2c5d6@ea152",
+      "displayName": "",
+      "id": "ea152",
+      "name": "Train_idle.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.6333333253860474
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "6adb0": {
+      "importer": "gltf-scene",
+      "uuid": "b72a6c18-974a-4aa6-ba3d-02226fe2c5d6@6adb0",
+      "displayName": "",
+      "id": "6adb0",
+      "name": "Train_idle.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Train_idle",
+        "duration": 0.6333333253860474,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Train_idle",
+            "from": 0,
+            "to": 0.6333333253860474,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "b72a6c18-974a-4aa6-ba3d-02226fe2c5d6@6adb0",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "b72a6c18-974a-4aa6-ba3d-02226fe2c5d6@6adb0"
+      ]
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "aaa2bffd-69c5-41cf-b5f3-a1e43ca5662d",
+  "files": [],
+  "subMetas": {
+    "8e166": {
+      "importer": "gltf-mesh",
+      "uuid": "aaa2bffd-69c5-41cf-b5f3-a1e43ca5662d@8e166",
+      "displayName": "",
+      "id": "8e166",
+      "name": "TablePet_03.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "aaa2bffd-69c5-41cf-b5f3-a1e43ca5662d@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "aaa2bffd-69c5-41cf-b5f3-a1e43ca5662d@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "aaa2bffd-69c5-41cf-b5f3-a1e43ca5662d@48b02"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "032b2": {
+      "importer": "gltf-material",
+      "uuid": "aaa2bffd-69c5-41cf-b5f3-a1e43ca5662d@032b2",
+      "displayName": "",
+      "id": "032b2",
+      "name": "megatexture.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e723b": {
+      "importer": "gltf-scene",
+      "uuid": "aaa2bffd-69c5-41cf-b5f3-a1e43ca5662d@e723b",
+      "displayName": "",
+      "id": "e723b",
+      "name": "TablePet_03.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "aaa2bffd-69c5-41cf-b5f3-a1e43ca5662d@48b02"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "aaa2bffd-69c5-41cf-b5f3-a1e43ca5662d@e723b",
+    "assetFinder": {
+      "meshes": [
+        "aaa2bffd-69c5-41cf-b5f3-a1e43ca5662d@8e166"
+      ],
+      "skeletons": [],
+      "textures": [
+        "aaa2bffd-69c5-41cf-b5f3-a1e43ca5662d@7d6ab"
+      ],
+      "materials": [
+        "aaa2bffd-69c5-41cf-b5f3-a1e43ca5662d@032b2"
+      ],
+      "scenes": [
+        "aaa2bffd-69c5-41cf-b5f3-a1e43ca5662d@e723b"
+      ]
+    }
+  }
+}

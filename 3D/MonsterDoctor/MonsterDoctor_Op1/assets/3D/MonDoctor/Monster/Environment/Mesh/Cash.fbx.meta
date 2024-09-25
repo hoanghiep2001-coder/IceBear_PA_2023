@@ -1,0 +1,123 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "abdf9595-ae67-4c31-bf73-f982389b9465",
+  "files": [],
+  "subMetas": {
+    "40c25": {
+      "importer": "gltf-mesh",
+      "uuid": "abdf9595-ae67-4c31-bf73-f982389b9465@40c25",
+      "displayName": "",
+      "id": "40c25",
+      "name": "Cash.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "abdf9595-ae67-4c31-bf73-f982389b9465@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "abdf9595-ae67-4c31-bf73-f982389b9465@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "abdf9595-ae67-4c31-bf73-f982389b9465@48b02"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "032b2": {
+      "importer": "gltf-material",
+      "uuid": "abdf9595-ae67-4c31-bf73-f982389b9465@032b2",
+      "displayName": "",
+      "id": "032b2",
+      "name": "megatexture.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4fd29": {
+      "importer": "gltf-scene",
+      "uuid": "abdf9595-ae67-4c31-bf73-f982389b9465@4fd29",
+      "displayName": "",
+      "id": "4fd29",
+      "name": "Cash.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "abdf9595-ae67-4c31-bf73-f982389b9465@48b02"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "abdf9595-ae67-4c31-bf73-f982389b9465@4fd29",
+    "assetFinder": {
+      "meshes": [
+        "abdf9595-ae67-4c31-bf73-f982389b9465@40c25"
+      ],
+      "skeletons": [],
+      "textures": [
+        "abdf9595-ae67-4c31-bf73-f982389b9465@7d6ab"
+      ],
+      "materials": [
+        "abdf9595-ae67-4c31-bf73-f982389b9465@032b2"
+      ],
+      "scenes": [
+        "abdf9595-ae67-4c31-bf73-f982389b9465@4fd29"
+      ]
+    }
+  }
+}

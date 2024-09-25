@@ -1,0 +1,123 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ca4085a8-5213-4837-8750-ddce3a0e62c0",
+  "files": [],
+  "subMetas": {
+    "16491": {
+      "importer": "texture",
+      "uuid": "ca4085a8-5213-4837-8750-ddce3a0e62c0@16491",
+      "displayName": "",
+      "id": "16491",
+      "name": "Map #18.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "ca4085a8-5213-4837-8750-ddce3a0e62c0@eb30c"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6dd3f": {
+      "importer": "gltf-mesh",
+      "uuid": "ca4085a8-5213-4837-8750-ddce3a0e62c0@6dd3f",
+      "displayName": "",
+      "id": "6dd3f",
+      "name": "projectile_rocket.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "eb30c": {
+      "importer": "gltf-embeded-image",
+      "uuid": "ca4085a8-5213-4837-8750-ddce3a0e62c0@eb30c",
+      "displayName": "",
+      "id": "eb30c",
+      "name": "Map #18.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6db00": {
+      "importer": "gltf-material",
+      "uuid": "ca4085a8-5213-4837-8750-ddce3a0e62c0@6db00",
+      "displayName": "",
+      "id": "6db00",
+      "name": "ToonSoldiers_weapons.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c09e8": {
+      "importer": "gltf-scene",
+      "uuid": "ca4085a8-5213-4837-8750-ddce3a0e62c0@c09e8",
+      "displayName": "",
+      "id": "c09e8",
+      "name": "projectile_rocket.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #18",
+        "uri": "ca4085a8-5213-4837-8750-ddce3a0e62c0@eb30c"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "ca4085a8-5213-4837-8750-ddce3a0e62c0@c09e8",
+    "assetFinder": {
+      "meshes": [
+        "ca4085a8-5213-4837-8750-ddce3a0e62c0@6dd3f"
+      ],
+      "skeletons": [],
+      "textures": [
+        "ca4085a8-5213-4837-8750-ddce3a0e62c0@16491"
+      ],
+      "materials": [
+        "ca4085a8-5213-4837-8750-ddce3a0e62c0@6db00"
+      ],
+      "scenes": [
+        "ca4085a8-5213-4837-8750-ddce3a0e62c0@c09e8"
+      ]
+    }
+  }
+}

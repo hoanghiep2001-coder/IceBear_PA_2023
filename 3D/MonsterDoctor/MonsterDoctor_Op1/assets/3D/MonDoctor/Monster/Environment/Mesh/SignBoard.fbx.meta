@@ -1,0 +1,185 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9e3bf805-5fcb-4cba-a1a7-77d38bdeb6ba",
+  "files": [],
+  "subMetas": {
+    "fb97d": {
+      "importer": "gltf-mesh",
+      "uuid": "9e3bf805-5fcb-4cba-a1a7-77d38bdeb6ba@fb97d",
+      "displayName": "",
+      "id": "fb97d",
+      "name": "SignBoard_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "9e3bf805-5fcb-4cba-a1a7-77d38bdeb6ba@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f6a6d": {
+      "importer": "gltf-embeded-image",
+      "uuid": "9e3bf805-5fcb-4cba-a1a7-77d38bdeb6ba@f6a6d",
+      "displayName": "",
+      "id": "f6a6d",
+      "name": "file11.image",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "9e3bf805-5fcb-4cba-a1a7-77d38bdeb6ba@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9e3bf805-5fcb-4cba-a1a7-77d38bdeb6ba@48b02"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "386a4": {
+      "importer": "texture",
+      "uuid": "9e3bf805-5fcb-4cba-a1a7-77d38bdeb6ba@386a4",
+      "displayName": "",
+      "id": "386a4",
+      "name": "file11.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9e3bf805-5fcb-4cba-a1a7-77d38bdeb6ba@f6a6d"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "032b2": {
+      "importer": "gltf-material",
+      "uuid": "9e3bf805-5fcb-4cba-a1a7-77d38bdeb6ba@032b2",
+      "displayName": "",
+      "id": "032b2",
+      "name": "megatexture.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "31c21": {
+      "importer": "gltf-material",
+      "uuid": "9e3bf805-5fcb-4cba-a1a7-77d38bdeb6ba@31c21",
+      "displayName": "",
+      "id": "31c21",
+      "name": "signboard.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ac0b3": {
+      "importer": "gltf-scene",
+      "uuid": "9e3bf805-5fcb-4cba-a1a7-77d38bdeb6ba@ac0b3",
+      "displayName": "",
+      "id": "ac0b3",
+      "name": "SignBoard.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "9e3bf805-5fcb-4cba-a1a7-77d38bdeb6ba@48b02"
+      },
+      {
+        "name": "file11",
+        "uri": "9e3bf805-5fcb-4cba-a1a7-77d38bdeb6ba@f6a6d"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "9e3bf805-5fcb-4cba-a1a7-77d38bdeb6ba@ac0b3",
+    "assetFinder": {
+      "meshes": [
+        "9e3bf805-5fcb-4cba-a1a7-77d38bdeb6ba@fb97d"
+      ],
+      "skeletons": [],
+      "textures": [
+        "9e3bf805-5fcb-4cba-a1a7-77d38bdeb6ba@7d6ab",
+        "9e3bf805-5fcb-4cba-a1a7-77d38bdeb6ba@386a4"
+      ],
+      "materials": [
+        "9e3bf805-5fcb-4cba-a1a7-77d38bdeb6ba@032b2",
+        "9e3bf805-5fcb-4cba-a1a7-77d38bdeb6ba@31c21"
+      ],
+      "scenes": [
+        "9e3bf805-5fcb-4cba-a1a7-77d38bdeb6ba@ac0b3"
+      ]
+    }
+  }
+}

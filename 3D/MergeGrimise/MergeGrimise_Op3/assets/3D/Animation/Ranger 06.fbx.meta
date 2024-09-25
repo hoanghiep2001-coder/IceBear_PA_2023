@@ -1,0 +1,227 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "365abab1-a2cb-41cc-bb8c-91bf5692b8e0",
+  "files": [
+    "__original-animation-0.cconb",
+    "__original-animation-1.cconb",
+    "__original-animation-2.cconb",
+    "__original-animation-4.cconb",
+    "__original-animation-3.cconb"
+  ],
+  "subMetas": {
+    "b54eb": {
+      "importer": "gltf-animation",
+      "uuid": "365abab1-a2cb-41cc-bb8c-91bf5692b8e0@b54eb",
+      "displayName": "",
+      "id": "b54eb",
+      "name": "banban_06_ATK.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.399999976158142
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "c7c09": {
+      "importer": "gltf-animation",
+      "uuid": "365abab1-a2cb-41cc-bb8c-91bf5692b8e0@c7c09",
+      "displayName": "",
+      "id": "c7c09",
+      "name": "banban_06_Dance.animation",
+      "userData": {
+        "gltfIndex": 1,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.6666666865348816
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "0b7f5": {
+      "importer": "gltf-animation",
+      "uuid": "365abab1-a2cb-41cc-bb8c-91bf5692b8e0@0b7f5",
+      "displayName": "",
+      "id": "0b7f5",
+      "name": "banban_06_Dead.animation",
+      "userData": {
+        "gltfIndex": 2,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.0666667222976685
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "eadd0": {
+      "importer": "gltf-animation",
+      "uuid": "365abab1-a2cb-41cc-bb8c-91bf5692b8e0@eadd0",
+      "displayName": "",
+      "id": "eadd0",
+      "name": "banban_06_Idle.animation",
+      "userData": {
+        "gltfIndex": 3,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "29b78": {
+      "importer": "gltf-animation",
+      "uuid": "365abab1-a2cb-41cc-bb8c-91bf5692b8e0@29b78",
+      "displayName": "",
+      "id": "29b78",
+      "name": "banban_06_anim.animation",
+      "userData": {
+        "gltfIndex": 4,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 4.233333110809326
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "bd21f": {
+      "importer": "gltf-scene",
+      "uuid": "365abab1-a2cb-41cc-bb8c-91bf5692b8e0@bd21f",
+      "displayName": "",
+      "id": "bd21f",
+      "name": "Ranger 06.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "banban_06_ATK",
+        "duration": 1.399999976158142,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "banban_06_ATK",
+            "from": 0,
+            "to": 1.399999976158142,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "banban_06_Dance",
+        "duration": 0.6666666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "banban_06_Dance",
+            "from": 0,
+            "to": 0.6666666865348816,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "banban_06_Dead",
+        "duration": 1.0666667222976685,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "banban_06_Dead",
+            "from": 0,
+            "to": 1.0666667222976685,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "banban_06_Idle",
+        "duration": 1,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "banban_06_Idle",
+            "from": 0,
+            "to": 1,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "banban_06_anim",
+        "duration": 4.233333110809326,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "banban_06_anim",
+            "from": 0,
+            "to": 4.233333110809326,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "365abab1-a2cb-41cc-bb8c-91bf5692b8e0@bd21f",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "365abab1-a2cb-41cc-bb8c-91bf5692b8e0@bd21f"
+      ]
+    }
+  }
+}

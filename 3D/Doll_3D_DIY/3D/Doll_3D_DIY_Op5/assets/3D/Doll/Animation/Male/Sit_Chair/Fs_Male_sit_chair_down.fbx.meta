@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d9fb96fe-53ee-4282-881f-2b03db5e95fb",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "04523": {
+      "importer": "gltf-animation",
+      "uuid": "d9fb96fe-53ee-4282-881f-2b03db5e95fb@04523",
+      "displayName": "",
+      "id": "04523",
+      "name": "Fs_Male_sit_chair_down_IP.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.3333333730697632
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "48ea6": {
+      "importer": "gltf-scene",
+      "uuid": "d9fb96fe-53ee-4282-881f-2b03db5e95fb@48ea6",
+      "displayName": "",
+      "id": "48ea6",
+      "name": "Fs_Male_sit_chair_down.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Fs_Male_sit_chair_down_IP",
+        "duration": 1.3333333730697632,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Fs_Male_sit_chair_down_IP",
+            "from": 0,
+            "to": 1.3333333730697632,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "d9fb96fe-53ee-4282-881f-2b03db5e95fb@48ea6",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "d9fb96fe-53ee-4282-881f-2b03db5e95fb@48ea6"
+      ]
+    }
+  }
+}

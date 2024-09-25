@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "bf1655b7-5a04-4fff-b29e-6e74c85d8bf9",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "747c0": {
+      "importer": "gltf-animation",
+      "uuid": "bf1655b7-5a04-4fff-b29e-6e74c85d8bf9@747c0",
+      "displayName": "",
+      "id": "747c0",
+      "name": "CE_police_idle.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.1333333253860474
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "31ff9": {
+      "importer": "gltf-scene",
+      "uuid": "bf1655b7-5a04-4fff-b29e-6e74c85d8bf9@31ff9",
+      "displayName": "",
+      "id": "31ff9",
+      "name": "CE_police_idle.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "CE_police_idle",
+        "duration": 1.1333333253860474,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "CE_police_idle",
+            "from": 0,
+            "to": 1.1333333253860474,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "bf1655b7-5a04-4fff-b29e-6e74c85d8bf9@31ff9",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "bf1655b7-5a04-4fff-b29e-6e74c85d8bf9@31ff9"
+      ]
+    }
+  }
+}

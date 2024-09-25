@@ -1,0 +1,123 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "5def1a6f-ab75-4b66-9f2f-581431e5f2f1",
+  "files": [],
+  "subMetas": {
+    "b1f5f": {
+      "importer": "gltf-mesh",
+      "uuid": "5def1a6f-ab75-4b66-9f2f-581431e5f2f1@b1f5f",
+      "displayName": "",
+      "id": "b1f5f",
+      "name": "hole.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b838c": {
+      "importer": "gltf-embeded-image",
+      "uuid": "5def1a6f-ab75-4b66-9f2f-581431e5f2f1@b838c",
+      "displayName": "",
+      "id": "b838c",
+      "name": "file15.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d5851": {
+      "importer": "texture",
+      "uuid": "5def1a6f-ab75-4b66-9f2f-581431e5f2f1@d5851",
+      "displayName": "",
+      "id": "d5851",
+      "name": "file15.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "5def1a6f-ab75-4b66-9f2f-581431e5f2f1@b838c"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "554e1": {
+      "importer": "gltf-material",
+      "uuid": "5def1a6f-ab75-4b66-9f2f-581431e5f2f1@554e1",
+      "displayName": "",
+      "id": "554e1",
+      "name": "megatexture_1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f5011": {
+      "importer": "gltf-scene",
+      "uuid": "5def1a6f-ab75-4b66-9f2f-581431e5f2f1@f5011",
+      "displayName": "",
+      "id": "f5011",
+      "name": "hole.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file15",
+        "uri": "5def1a6f-ab75-4b66-9f2f-581431e5f2f1@b838c"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "5def1a6f-ab75-4b66-9f2f-581431e5f2f1@f5011",
+    "assetFinder": {
+      "meshes": [
+        "5def1a6f-ab75-4b66-9f2f-581431e5f2f1@b1f5f"
+      ],
+      "skeletons": [],
+      "textures": [
+        "5def1a6f-ab75-4b66-9f2f-581431e5f2f1@d5851"
+      ],
+      "materials": [
+        "5def1a6f-ab75-4b66-9f2f-581431e5f2f1@554e1"
+      ],
+      "scenes": [
+        "5def1a6f-ab75-4b66-9f2f-581431e5f2f1@f5011"
+      ]
+    }
+  }
+}

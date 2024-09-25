@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9506ec80-ea74-4adb-87a6-1c8fe126003e",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "7f150": {
+      "importer": "gltf-animation",
+      "uuid": "9506ec80-ea74-4adb-87a6-1c8fe126003e@7f150",
+      "displayName": "",
+      "id": "7f150",
+      "name": "Skibidi_idle.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.1333333253860474
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "b0e0b": {
+      "importer": "gltf-scene",
+      "uuid": "9506ec80-ea74-4adb-87a6-1c8fe126003e@b0e0b",
+      "displayName": "",
+      "id": "b0e0b",
+      "name": "Skibidi_idle.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Skibidi_idle",
+        "duration": 1.1333333253860474,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Skibidi_idle",
+            "from": 0,
+            "to": 1.1333333253860474,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "9506ec80-ea74-4adb-87a6-1c8fe126003e@b0e0b",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "9506ec80-ea74-4adb-87a6-1c8fe126003e@b0e0b"
+      ]
+    }
+  }
+}

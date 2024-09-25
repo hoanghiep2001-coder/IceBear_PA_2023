@@ -1,0 +1,167 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "InstallPopupAnim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.6666666666666665,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "bg": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 181.815
+            }
+          ]
+        }
+      },
+      "icon": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                -441.163,
+                0
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                0,
+                -441.163,
+                0
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                0,
+                -4.751,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "InstallButton": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                -529.085,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                0,
+                -529.085,
+                0
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                0,
+                -116.919,
+                0
+              ]
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.3,
+                "y": 0.3,
+                "z": 0
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.3,
+                "y": 0.3,
+                "z": 0
+              }
+            },
+            {
+              "frame": 2.1666666666666665,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.35,
+                "y": 0.35,
+                "z": 0
+              }
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.3,
+                "y": 0.3,
+                "z": 0
+              }
+            },
+            {
+              "frame": 2.5,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.35,
+                "y": 0.35,
+                "z": 0
+              }
+            },
+            {
+              "frame": 2.6666666666666665,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.3,
+                "y": 0.3,
+                "z": 0
+              }
+            }
+          ]
+        }
+      },
+      "logo": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                339,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                0,
+                118.383,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

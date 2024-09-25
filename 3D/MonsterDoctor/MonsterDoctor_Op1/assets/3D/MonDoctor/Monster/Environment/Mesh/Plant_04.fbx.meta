@@ -1,0 +1,123 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d4986d61-65f4-4789-967a-5a2424e7c483",
+  "files": [],
+  "subMetas": {
+    "59621": {
+      "importer": "gltf-mesh",
+      "uuid": "d4986d61-65f4-4789-967a-5a2424e7c483@59621",
+      "displayName": "",
+      "id": "59621",
+      "name": "Plant_04.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d4986d61-65f4-4789-967a-5a2424e7c483@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "d4986d61-65f4-4789-967a-5a2424e7c483@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d4986d61-65f4-4789-967a-5a2424e7c483@48b02"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "032b2": {
+      "importer": "gltf-material",
+      "uuid": "d4986d61-65f4-4789-967a-5a2424e7c483@032b2",
+      "displayName": "",
+      "id": "032b2",
+      "name": "megatexture.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b7f75": {
+      "importer": "gltf-scene",
+      "uuid": "d4986d61-65f4-4789-967a-5a2424e7c483@b7f75",
+      "displayName": "",
+      "id": "b7f75",
+      "name": "Plant_04.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "d4986d61-65f4-4789-967a-5a2424e7c483@48b02"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "d4986d61-65f4-4789-967a-5a2424e7c483@b7f75",
+    "assetFinder": {
+      "meshes": [
+        "d4986d61-65f4-4789-967a-5a2424e7c483@59621"
+      ],
+      "skeletons": [],
+      "textures": [
+        "d4986d61-65f4-4789-967a-5a2424e7c483@7d6ab"
+      ],
+      "materials": [
+        "d4986d61-65f4-4789-967a-5a2424e7c483@032b2"
+      ],
+      "scenes": [
+        "d4986d61-65f4-4789-967a-5a2424e7c483@b7f75"
+      ]
+    }
+  }
+}

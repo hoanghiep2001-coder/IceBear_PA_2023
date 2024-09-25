@@ -1,0 +1,33 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "hand_SelectOption",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 22,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -54.159,
+            -196.46,
+            0
+          ]
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            -54.159,
+            -186.902,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

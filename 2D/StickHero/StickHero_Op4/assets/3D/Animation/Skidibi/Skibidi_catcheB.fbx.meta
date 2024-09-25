@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "41a3eede-9ebc-4d75-b255-2143bc74695c",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "32b96": {
+      "importer": "gltf-animation",
+      "uuid": "41a3eede-9ebc-4d75-b255-2143bc74695c@32b96",
+      "displayName": "",
+      "id": "32b96",
+      "name": "Skibidi_catcheB.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 1,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.4666666984558105
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "1035b": {
+      "importer": "gltf-scene",
+      "uuid": "41a3eede-9ebc-4d75-b255-2143bc74695c@1035b",
+      "displayName": "",
+      "id": "1035b",
+      "name": "Skibidi_catcheB.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Skibidi_catcheB",
+        "duration": 1.4666666984558105,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Skibidi_catcheB",
+            "from": 0,
+            "to": 1.4666666984558105,
+            "wrapMode": 1
+          }
+        ]
+      }
+    ],
+    "redirect": "41a3eede-9ebc-4d75-b255-2143bc74695c@1035b",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "41a3eede-9ebc-4d75-b255-2143bc74695c@1035b"
+      ]
+    }
+  }
+}

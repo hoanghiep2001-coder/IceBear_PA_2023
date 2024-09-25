@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d9681b4d-067e-4cba-9c2e-c0713615ce52",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "13be8": {
+      "importer": "gltf-animation",
+      "uuid": "d9681b4d-067e-4cba-9c2e-c0713615ce52@13be8",
+      "displayName": "",
+      "id": "13be8",
+      "name": "Robo_Cat_Catched.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "59c27": {
+      "importer": "gltf-scene",
+      "uuid": "d9681b4d-067e-4cba-9c2e-c0713615ce52@59c27",
+      "displayName": "",
+      "id": "59c27",
+      "name": "Robo_Cat_Catched.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Robo_Cat_Catched",
+        "duration": 1,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Robo_Cat_Catched",
+            "from": 0,
+            "to": 1,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "d9681b4d-067e-4cba-9c2e-c0713615ce52@59c27",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "d9681b4d-067e-4cba-9c2e-c0713615ce52@59c27"
+      ]
+    }
+  }
+}

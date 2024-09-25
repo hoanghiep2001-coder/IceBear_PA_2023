@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "6c6d30f5-7067-4d07-954a-d28fe8044978",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "1f732": {
+      "importer": "gltf-animation",
+      "uuid": "6c6d30f5-7067-4d07-954a-d28fe8044978@1f732",
+      "displayName": "",
+      "id": "1f732",
+      "name": "Fs_Male_sit_chair_idle_IP.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.6666666865348816
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "c7331": {
+      "importer": "gltf-scene",
+      "uuid": "6c6d30f5-7067-4d07-954a-d28fe8044978@c7331",
+      "displayName": "",
+      "id": "c7331",
+      "name": "Fs_Male_sit_chair_idle.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Fs_Male_sit_chair_idle_IP",
+        "duration": 0.6666666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Fs_Male_sit_chair_idle_IP",
+            "from": 0,
+            "to": 0.6666666865348816,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "6c6d30f5-7067-4d07-954a-d28fe8044978@c7331",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "6c6d30f5-7067-4d07-954a-d28fe8044978@c7331"
+      ]
+    }
+  }
+}

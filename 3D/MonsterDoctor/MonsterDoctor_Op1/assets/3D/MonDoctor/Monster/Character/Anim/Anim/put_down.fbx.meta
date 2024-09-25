@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "7a57a0f9-050b-4052-9835-d3861c212446",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "4fb78": {
+      "importer": "gltf-animation",
+      "uuid": "7a57a0f9-050b-4052-9835-d3861c212446@4fb78",
+      "displayName": "",
+      "id": "4fb78",
+      "name": "put_down.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.8999999761581421
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "dc42a": {
+      "importer": "gltf-scene",
+      "uuid": "7a57a0f9-050b-4052-9835-d3861c212446@dc42a",
+      "displayName": "",
+      "id": "dc42a",
+      "name": "put_down.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "put_down",
+        "duration": 0.8999999761581421,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "put_down",
+            "from": 0,
+            "to": 0.8999999761581421,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "7a57a0f9-050b-4052-9835-d3861c212446@dc42a",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "7a57a0f9-050b-4052-9835-d3861c212446@dc42a"
+      ]
+    }
+  }
+}

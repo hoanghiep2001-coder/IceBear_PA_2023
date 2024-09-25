@@ -1,0 +1,214 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "50e2db95-097c-477d-91f6-7a48e331d786",
+  "files": [],
+  "subMetas": {
+    "30732": {
+      "importer": "gltf-skeleton",
+      "uuid": "50e2db95-097c-477d-91f6-7a48e331d786@30732",
+      "displayName": "",
+      "id": "30732",
+      "name": "UnnamedSkeleton-0.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 1
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "36933": {
+      "importer": "gltf-scene",
+      "uuid": "50e2db95-097c-477d-91f6-7a48e331d786@36933",
+      "displayName": "",
+      "id": "36933",
+      "name": "SubMarine_Base.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "73d00": {
+      "importer": "gltf-mesh",
+      "uuid": "50e2db95-097c-477d-91f6-7a48e331d786@73d00",
+      "displayName": "",
+      "id": "73d00",
+      "name": "pCylinder3.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bb89b": {
+      "importer": "gltf-mesh",
+      "uuid": "50e2db95-097c-477d-91f6-7a48e331d786@bb89b",
+      "displayName": "",
+      "id": "bb89b",
+      "name": "Fan.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8bb86": {
+      "importer": "gltf-mesh",
+      "uuid": "50e2db95-097c-477d-91f6-7a48e331d786@8bb86",
+      "displayName": "",
+      "id": "8bb86",
+      "name": "pCylinder5.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f1394": {
+      "importer": "gltf-skeleton",
+      "uuid": "50e2db95-097c-477d-91f6-7a48e331d786@f1394",
+      "displayName": "",
+      "id": "f1394",
+      "name": "UnnamedSkeleton-1.skeleton",
+      "userData": {
+        "gltfIndex": 1,
+        "jointsLength": 1
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "75ee4": {
+      "importer": "gltf-skeleton",
+      "uuid": "50e2db95-097c-477d-91f6-7a48e331d786@75ee4",
+      "displayName": "",
+      "id": "75ee4",
+      "name": "UnnamedSkeleton-2.skeleton",
+      "userData": {
+        "gltfIndex": 2,
+        "jointsLength": 5
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "adacb": {
+      "importer": "gltf-embeded-image",
+      "uuid": "50e2db95-097c-477d-91f6-7a48e331d786@adacb",
+      "displayName": "",
+      "id": "adacb",
+      "name": "file2.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e873a": {
+      "importer": "texture",
+      "uuid": "50e2db95-097c-477d-91f6-7a48e331d786@e873a",
+      "displayName": "",
+      "id": "e873a",
+      "name": "file2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "50e2db95-097c-477d-91f6-7a48e331d786@adacb"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5105b": {
+      "importer": "gltf-material",
+      "uuid": "50e2db95-097c-477d-91f6-7a48e331d786@5105b",
+      "displayName": "",
+      "id": "5105b",
+      "name": "SubMarine_Mat.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file2",
+        "uri": "50e2db95-097c-477d-91f6-7a48e331d786@adacb"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "50e2db95-097c-477d-91f6-7a48e331d786@36933",
+    "assetFinder": {
+      "meshes": [
+        "50e2db95-097c-477d-91f6-7a48e331d786@73d00",
+        "50e2db95-097c-477d-91f6-7a48e331d786@bb89b",
+        "50e2db95-097c-477d-91f6-7a48e331d786@8bb86"
+      ],
+      "skeletons": [
+        "50e2db95-097c-477d-91f6-7a48e331d786@30732",
+        "50e2db95-097c-477d-91f6-7a48e331d786@f1394",
+        "50e2db95-097c-477d-91f6-7a48e331d786@75ee4"
+      ],
+      "textures": [
+        "50e2db95-097c-477d-91f6-7a48e331d786@e873a"
+      ],
+      "materials": [
+        "50e2db95-097c-477d-91f6-7a48e331d786@5105b"
+      ],
+      "scenes": [
+        "50e2db95-097c-477d-91f6-7a48e331d786@36933"
+      ]
+    }
+  }
+}

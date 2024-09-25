@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "1b180faa-76ca-48d6-80de-eb2ba6c24527",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "11411": {
+      "importer": "gltf-animation",
+      "uuid": "1b180faa-76ca-48d6-80de-eb2ba6c24527@11411",
+      "displayName": "",
+      "id": "11411",
+      "name": "Skibidi10_atk.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.800000011920929
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "8fdeb": {
+      "importer": "gltf-scene",
+      "uuid": "1b180faa-76ca-48d6-80de-eb2ba6c24527@8fdeb",
+      "displayName": "",
+      "id": "8fdeb",
+      "name": "Ranger12_ATK.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Skibidi10_atk",
+        "duration": 0.800000011920929,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Skibidi10_atk",
+            "from": 0,
+            "to": 0.800000011920929,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "1b180faa-76ca-48d6-80de-eb2ba6c24527@8fdeb",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "1b180faa-76ca-48d6-80de-eb2ba6c24527@8fdeb"
+      ]
+    }
+  }
+}

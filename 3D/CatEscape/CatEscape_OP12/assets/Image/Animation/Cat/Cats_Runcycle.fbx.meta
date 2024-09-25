@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "20e2eace-7810-456f-aa24-791819fccaa9",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "52d44": {
+      "importer": "gltf-animation",
+      "uuid": "20e2eace-7810-456f-aa24-791819fccaa9@52d44",
+      "displayName": "",
+      "id": "52d44",
+      "name": "Cats_Runcycle.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.6666666865348816
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "eeee8": {
+      "importer": "gltf-scene",
+      "uuid": "20e2eace-7810-456f-aa24-791819fccaa9@eeee8",
+      "displayName": "",
+      "id": "eeee8",
+      "name": "Cats_Runcycle.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Cats_Runcycle",
+        "duration": 0.6666666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Cats_Runcycle",
+            "from": 0,
+            "to": 0.6666666865348816,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "20e2eace-7810-456f-aa24-791819fccaa9@eeee8",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "20e2eace-7810-456f-aa24-791819fccaa9@eeee8"
+      ]
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c4c353ba-8b05-493c-88b7-cfa26d1dc3d1",
+  "files": [],
+  "subMetas": {
+    "fea65": {
+      "importer": "gltf-mesh",
+      "uuid": "c4c353ba-8b05-493c-88b7-cfa26d1dc3d1@fea65",
+      "displayName": "",
+      "id": "fea65",
+      "name": "Zominion.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "c4c353ba-8b05-493c-88b7-cfa26d1dc3d1@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 19
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d024c": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c4c353ba-8b05-493c-88b7-cfa26d1dc3d1@d024c",
+      "displayName": "",
+      "id": "d024c",
+      "name": "Imps:shared_Imp_Imp_Tex1F1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b1686": {
+      "importer": "texture",
+      "uuid": "c4c353ba-8b05-493c-88b7-cfa26d1dc3d1@b1686",
+      "displayName": "",
+      "id": "b1686",
+      "name": "Imps:shared_Imp_Imp_Tex1F1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c4c353ba-8b05-493c-88b7-cfa26d1dc3d1@d024c"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "03c7e": {
+      "importer": "gltf-material",
+      "uuid": "c4c353ba-8b05-493c-88b7-cfa26d1dc3d1@03c7e",
+      "displayName": "",
+      "id": "03c7e",
+      "name": "Imps:shared_Imp_Imp_Tex2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "aaccf": {
+      "importer": "gltf-scene",
+      "uuid": "c4c353ba-8b05-493c-88b7-cfa26d1dc3d1@aaccf",
+      "displayName": "",
+      "id": "aaccf",
+      "name": "Zominion.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Imps:shared_Imp_Imp_Tex1F1",
+        "uri": "c4c353ba-8b05-493c-88b7-cfa26d1dc3d1@d024c"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "c4c353ba-8b05-493c-88b7-cfa26d1dc3d1@aaccf",
+    "assetFinder": {
+      "meshes": [
+        "c4c353ba-8b05-493c-88b7-cfa26d1dc3d1@fea65"
+      ],
+      "skeletons": [
+        "c4c353ba-8b05-493c-88b7-cfa26d1dc3d1@438fe"
+      ],
+      "textures": [
+        "c4c353ba-8b05-493c-88b7-cfa26d1dc3d1@b1686"
+      ],
+      "materials": [
+        "c4c353ba-8b05-493c-88b7-cfa26d1dc3d1@03c7e"
+      ],
+      "scenes": [
+        "c4c353ba-8b05-493c-88b7-cfa26d1dc3d1@aaccf"
+      ]
+    }
+  }
+}

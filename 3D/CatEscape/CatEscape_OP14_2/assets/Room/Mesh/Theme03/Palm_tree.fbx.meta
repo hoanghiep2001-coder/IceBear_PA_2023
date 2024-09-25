@@ -1,0 +1,123 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e7ee0218-137f-41da-b29f-66693375f758",
+  "files": [],
+  "subMetas": {
+    "4eb63": {
+      "importer": "gltf-mesh",
+      "uuid": "e7ee0218-137f-41da-b29f-66693375f758@4eb63",
+      "displayName": "",
+      "id": "4eb63",
+      "name": "Palm_tree.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "e7ee0218-137f-41da-b29f-66693375f758@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "e7ee0218-137f-41da-b29f-66693375f758@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "e7ee0218-137f-41da-b29f-66693375f758@48b02"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "37cdd": {
+      "importer": "gltf-material",
+      "uuid": "e7ee0218-137f-41da-b29f-66693375f758@37cdd",
+      "displayName": "",
+      "id": "37cdd",
+      "name": "Mat_Environment.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bf0a4": {
+      "importer": "gltf-scene",
+      "uuid": "e7ee0218-137f-41da-b29f-66693375f758@bf0a4",
+      "displayName": "",
+      "id": "bf0a4",
+      "name": "Palm_tree.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "e7ee0218-137f-41da-b29f-66693375f758@48b02"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "e7ee0218-137f-41da-b29f-66693375f758@bf0a4",
+    "assetFinder": {
+      "meshes": [
+        "e7ee0218-137f-41da-b29f-66693375f758@4eb63"
+      ],
+      "skeletons": [],
+      "textures": [
+        "e7ee0218-137f-41da-b29f-66693375f758@7d6ab"
+      ],
+      "materials": [
+        "e7ee0218-137f-41da-b29f-66693375f758@37cdd"
+      ],
+      "scenes": [
+        "e7ee0218-137f-41da-b29f-66693375f758@bf0a4"
+      ]
+    }
+  }
+}

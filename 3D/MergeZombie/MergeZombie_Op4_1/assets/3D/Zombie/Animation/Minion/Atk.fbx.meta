@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "011c64ce-75cd-4ba9-8722-33815b291528",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "64255": {
+      "importer": "gltf-animation",
+      "uuid": "011c64ce-75cd-4ba9-8722-33815b291528@64255",
+      "displayName": "",
+      "id": "64255",
+      "name": "Atk.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.2999999523162842
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "962f5": {
+      "importer": "gltf-scene",
+      "uuid": "011c64ce-75cd-4ba9-8722-33815b291528@962f5",
+      "displayName": "",
+      "id": "962f5",
+      "name": "Atk.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "mixamo.com",
+        "duration": 1.2999999523162842,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Atk",
+            "from": 0,
+            "to": 1.2999999523162842,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "011c64ce-75cd-4ba9-8722-33815b291528@962f5",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "011c64ce-75cd-4ba9-8722-33815b291528@962f5"
+      ]
+    }
+  }
+}

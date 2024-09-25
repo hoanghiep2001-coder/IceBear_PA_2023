@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b27001ea-3583-4e6f-bfb4-13bd94804f99",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "e5501": {
+      "importer": "gltf-animation",
+      "uuid": "b27001ea-3583-4e6f-bfb4-13bd94804f99@e5501",
+      "displayName": "",
+      "id": "e5501",
+      "name": "Skibidi_walk.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.1666666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "802bf": {
+      "importer": "gltf-scene",
+      "uuid": "b27001ea-3583-4e6f-bfb4-13bd94804f99@802bf",
+      "displayName": "",
+      "id": "802bf",
+      "name": "Skibidi_walk.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Skibidi_walk",
+        "duration": 1.1666666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Skibidi_walk",
+            "from": 0,
+            "to": 1.1666666269302368,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "b27001ea-3583-4e6f-bfb4-13bd94804f99@802bf",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "b27001ea-3583-4e6f-bfb4-13bd94804f99@802bf"
+      ]
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "5895d4c7-c763-48d7-9501-cd5b8d100dd2",
+  "files": [],
+  "subMetas": {
+    "ffdbf": {
+      "importer": "gltf-mesh",
+      "uuid": "5895d4c7-c763-48d7-9501-cd5b8d100dd2@ffdbf",
+      "displayName": "",
+      "id": "ffdbf",
+      "name": "watertap.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "5895d4c7-c763-48d7-9501-cd5b8d100dd2@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "5895d4c7-c763-48d7-9501-cd5b8d100dd2@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "5895d4c7-c763-48d7-9501-cd5b8d100dd2@48b02"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "032b2": {
+      "importer": "gltf-material",
+      "uuid": "5895d4c7-c763-48d7-9501-cd5b8d100dd2@032b2",
+      "displayName": "",
+      "id": "032b2",
+      "name": "megatexture.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c324f": {
+      "importer": "gltf-scene",
+      "uuid": "5895d4c7-c763-48d7-9501-cd5b8d100dd2@c324f",
+      "displayName": "",
+      "id": "c324f",
+      "name": "watertap.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "5895d4c7-c763-48d7-9501-cd5b8d100dd2@48b02"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "5895d4c7-c763-48d7-9501-cd5b8d100dd2@c324f",
+    "assetFinder": {
+      "meshes": [
+        "5895d4c7-c763-48d7-9501-cd5b8d100dd2@ffdbf"
+      ],
+      "skeletons": [],
+      "textures": [
+        "5895d4c7-c763-48d7-9501-cd5b8d100dd2@7d6ab"
+      ],
+      "materials": [
+        "5895d4c7-c763-48d7-9501-cd5b8d100dd2@032b2"
+      ],
+      "scenes": [
+        "5895d4c7-c763-48d7-9501-cd5b8d100dd2@c324f"
+      ]
+    }
+  }
+}

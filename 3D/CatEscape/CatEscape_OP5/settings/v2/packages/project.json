@@ -1,0 +1,20 @@
+{
+  "general": {
+    "designResolution": {
+      "width": 320,
+      "height": 480,
+      "fitHeight": true,
+      "fitWidth": false
+    }
+  },
+  "layer": [
+    {
+      "name": "Cat",
+      "value": 1
+    },
+    {
+      "name": "Ground",
+      "value": 2
+    }
+  ]
+}

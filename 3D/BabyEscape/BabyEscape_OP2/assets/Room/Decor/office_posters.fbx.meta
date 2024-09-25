@@ -1,0 +1,123 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "fe2e3abe-7009-4518-82c6-f8a67bb24a1f",
+  "files": [],
+  "subMetas": {
+    "a1284": {
+      "importer": "gltf-mesh",
+      "uuid": "fe2e3abe-7009-4518-82c6-f8a67bb24a1f@a1284",
+      "displayName": "",
+      "id": "a1284",
+      "name": "posters.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "fe2e3abe-7009-4518-82c6-f8a67bb24a1f@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "fe2e3abe-7009-4518-82c6-f8a67bb24a1f@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "fe2e3abe-7009-4518-82c6-f8a67bb24a1f@48b02"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2a0e3": {
+      "importer": "gltf-material",
+      "uuid": "fe2e3abe-7009-4518-82c6-f8a67bb24a1f@2a0e3",
+      "displayName": "",
+      "id": "2a0e3",
+      "name": "Enviroment1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e57a": {
+      "importer": "gltf-scene",
+      "uuid": "fe2e3abe-7009-4518-82c6-f8a67bb24a1f@1e57a",
+      "displayName": "",
+      "id": "1e57a",
+      "name": "office_posters.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "fe2e3abe-7009-4518-82c6-f8a67bb24a1f@48b02"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "fe2e3abe-7009-4518-82c6-f8a67bb24a1f@1e57a",
+    "assetFinder": {
+      "meshes": [
+        "fe2e3abe-7009-4518-82c6-f8a67bb24a1f@a1284"
+      ],
+      "skeletons": [],
+      "textures": [
+        "fe2e3abe-7009-4518-82c6-f8a67bb24a1f@7d6ab"
+      ],
+      "materials": [
+        "fe2e3abe-7009-4518-82c6-f8a67bb24a1f@2a0e3"
+      ],
+      "scenes": [
+        "fe2e3abe-7009-4518-82c6-f8a67bb24a1f@1e57a"
+      ]
+    }
+  }
+}

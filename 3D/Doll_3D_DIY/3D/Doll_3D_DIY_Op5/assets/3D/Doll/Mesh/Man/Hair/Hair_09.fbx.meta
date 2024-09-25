@@ -1,0 +1,168 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ddc8c015-eb14-42d3-9255-7a78ffcda66d",
+  "files": [],
+  "subMetas": {
+    "f899c": {
+      "importer": "gltf-mesh",
+      "uuid": "ddc8c015-eb14-42d3-9255-7a78ffcda66d@f899c",
+      "displayName": "",
+      "id": "f899c",
+      "name": "Hair_09.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6eed1": {
+      "importer": "gltf-embeded-image",
+      "uuid": "ddc8c015-eb14-42d3-9255-7a78ffcda66d@6eed1",
+      "displayName": "",
+      "id": "6eed1",
+      "name": "Hair_diffuse.png.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "98a92": {
+      "importer": "gltf-embeded-image",
+      "uuid": "ddc8c015-eb14-42d3-9255-7a78ffcda66d@98a92",
+      "displayName": "",
+      "id": "98a92",
+      "name": "Hair_normal.png.image",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d9e92": {
+      "importer": "texture",
+      "uuid": "ddc8c015-eb14-42d3-9255-7a78ffcda66d@d9e92",
+      "displayName": "",
+      "id": "d9e92",
+      "name": "Hair_diffuse.png.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "ddc8c015-eb14-42d3-9255-7a78ffcda66d@6eed1"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b49b3": {
+      "importer": "texture",
+      "uuid": "ddc8c015-eb14-42d3-9255-7a78ffcda66d@b49b3",
+      "displayName": "",
+      "id": "b49b3",
+      "name": "Hair_normal.png.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "ddc8c015-eb14-42d3-9255-7a78ffcda66d@98a92"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0963c": {
+      "importer": "gltf-material",
+      "uuid": "ddc8c015-eb14-42d3-9255-7a78ffcda66d@0963c",
+      "displayName": "",
+      "id": "0963c",
+      "name": "m_Hair_09.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8ef54": {
+      "importer": "gltf-scene",
+      "uuid": "ddc8c015-eb14-42d3-9255-7a78ffcda66d@8ef54",
+      "displayName": "",
+      "id": "8ef54",
+      "name": "Hair_09.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Hair_diffuse.png",
+        "uri": "ddc8c015-eb14-42d3-9255-7a78ffcda66d@6eed1"
+      },
+      {
+        "name": "Hair_normal.png",
+        "uri": "ddc8c015-eb14-42d3-9255-7a78ffcda66d@98a92"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "ddc8c015-eb14-42d3-9255-7a78ffcda66d@8ef54",
+    "assetFinder": {
+      "meshes": [
+        "ddc8c015-eb14-42d3-9255-7a78ffcda66d@f899c"
+      ],
+      "skeletons": [],
+      "textures": [
+        "ddc8c015-eb14-42d3-9255-7a78ffcda66d@d9e92",
+        "ddc8c015-eb14-42d3-9255-7a78ffcda66d@b49b3"
+      ],
+      "materials": [
+        "ddc8c015-eb14-42d3-9255-7a78ffcda66d@0963c"
+      ],
+      "scenes": [
+        "ddc8c015-eb14-42d3-9255-7a78ffcda66d@8ef54"
+      ]
+    }
+  }
+}

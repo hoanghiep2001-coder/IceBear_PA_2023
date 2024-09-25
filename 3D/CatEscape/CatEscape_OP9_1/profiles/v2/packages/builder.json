@@ -1,0 +1,60 @@
+{
+  "log": {
+    "level": 4
+  },
+  "common": {
+    "outputName": "web-mobile",
+    "mainBundleCompressionType": "merge_all_json",
+    "platform": "web-mobile",
+    "name": "CatEscape"
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1691203919092": {
+        "id": "1691203919092",
+        "progress": 1,
+        "state": "success",
+        "message": "9-25-2023 10:52 Build success in 11513 ms!",
+        "options": {
+          "name": "CatEscape",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_all_json",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "c39c13b8-0bfb-4385-a239-5b3b12142c11",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/GamePlay.scene",
+              "uuid": "c39c13b8-0bfb-4385-a239-5b3b12142c11",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-mobile",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "f4e2e7",
+              "services": []
+            },
+            "super-html": null
+          }
+        },
+        "time": "9-25-2023 10:52",
+        "dirty": false
+      }
+    }
+  }
+}

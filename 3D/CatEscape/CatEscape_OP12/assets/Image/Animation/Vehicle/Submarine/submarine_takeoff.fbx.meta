@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "44e7d6b0-a907-40d7-9fd8-e7ec3bd34091",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "418f7": {
+      "importer": "gltf-animation",
+      "uuid": "44e7d6b0-a907-40d7-9fd8-e7ec3bd34091@418f7",
+      "displayName": "",
+      "id": "418f7",
+      "name": "submarine_takeoff.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.0666667222976685
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "eadc1": {
+      "importer": "gltf-scene",
+      "uuid": "44e7d6b0-a907-40d7-9fd8-e7ec3bd34091@eadc1",
+      "displayName": "",
+      "id": "eadc1",
+      "name": "submarine_takeoff.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "submarine_takeoff",
+        "duration": 1.0666667222976685,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "submarine_takeoff",
+            "from": 0,
+            "to": 1.0666667222976685,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "44e7d6b0-a907-40d7-9fd8-e7ec3bd34091@eadc1",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "44e7d6b0-a907-40d7-9fd8-e7ec3bd34091@eadc1"
+      ]
+    }
+  }
+}

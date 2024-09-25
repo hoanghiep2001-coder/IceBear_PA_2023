@@ -1,0 +1,123 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b1095b08-7acd-4186-b279-a643a81d1791",
+  "files": [],
+  "subMetas": {
+    "4196c": {
+      "importer": "gltf-mesh",
+      "uuid": "b1095b08-7acd-4186-b279-a643a81d1791@4196c",
+      "displayName": "",
+      "id": "4196c",
+      "name": "Bar_Pumpkins_part_04.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d5e81": {
+      "importer": "gltf-embeded-image",
+      "uuid": "b1095b08-7acd-4186-b279-a643a81d1791@d5e81",
+      "displayName": "",
+      "id": "d5e81",
+      "name": "file9.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6b754": {
+      "importer": "texture",
+      "uuid": "b1095b08-7acd-4186-b279-a643a81d1791@6b754",
+      "displayName": "",
+      "id": "6b754",
+      "name": "file9.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b1095b08-7acd-4186-b279-a643a81d1791@d5e81"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2a295": {
+      "importer": "gltf-material",
+      "uuid": "b1095b08-7acd-4186-b279-a643a81d1791@2a295",
+      "displayName": "",
+      "id": "2a295",
+      "name": "m_metal_orange.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "de9d4": {
+      "importer": "gltf-scene",
+      "uuid": "b1095b08-7acd-4186-b279-a643a81d1791@de9d4",
+      "displayName": "",
+      "id": "de9d4",
+      "name": "Bar_Pumpkins_part_04.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file9",
+        "uri": "b1095b08-7acd-4186-b279-a643a81d1791@d5e81"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "b1095b08-7acd-4186-b279-a643a81d1791@de9d4",
+    "assetFinder": {
+      "meshes": [
+        "b1095b08-7acd-4186-b279-a643a81d1791@4196c"
+      ],
+      "skeletons": [],
+      "textures": [
+        "b1095b08-7acd-4186-b279-a643a81d1791@6b754"
+      ],
+      "materials": [
+        "b1095b08-7acd-4186-b279-a643a81d1791@2a295"
+      ],
+      "scenes": [
+        "b1095b08-7acd-4186-b279-a643a81d1791@de9d4"
+      ]
+    }
+  }
+}

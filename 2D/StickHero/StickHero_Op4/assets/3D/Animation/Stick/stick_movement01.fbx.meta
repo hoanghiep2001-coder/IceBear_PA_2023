@@ -1,0 +1,301 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "96340b2b-33e5-4ef8-a5df-1f9e0adf3acc",
+  "files": [
+    "__original-animation-0.cconb",
+    "__original-animation-1.cconb",
+    "__original-animation-2.cconb",
+    "__original-animation-3.cconb",
+    "__original-animation-4.cconb",
+    "__original-animation-5.cconb",
+    "__original-animation-6.cconb"
+  ],
+  "subMetas": {
+    "89931": {
+      "importer": "gltf-animation",
+      "uuid": "96340b2b-33e5-4ef8-a5df-1f9e0adf3acc@89931",
+      "displayName": "",
+      "id": "89931",
+      "name": "stick_dead01.animation",
+      "userData": {
+        "gltfIndex": 1,
+        "wrapMode": 1,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.3333333730697632
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "b6f1a": {
+      "importer": "gltf-animation",
+      "uuid": "96340b2b-33e5-4ef8-a5df-1f9e0adf3acc@b6f1a",
+      "displayName": "",
+      "id": "b6f1a",
+      "name": "stick_hit01.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.36666667461395264
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "6b26c": {
+      "importer": "gltf-animation",
+      "uuid": "96340b2b-33e5-4ef8-a5df-1f9e0adf3acc@6b26c",
+      "displayName": "",
+      "id": "6b26c",
+      "name": "stick_knockout_start.animation",
+      "userData": {
+        "gltfIndex": 2,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.5333333611488342
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "3eabe": {
+      "importer": "gltf-animation",
+      "uuid": "96340b2b-33e5-4ef8-a5df-1f9e0adf3acc@3eabe",
+      "displayName": "",
+      "id": "3eabe",
+      "name": "stick_knockout_idle.animation",
+      "userData": {
+        "gltfIndex": 3,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.03333333507180214
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "55ce1": {
+      "importer": "gltf-animation",
+      "uuid": "96340b2b-33e5-4ef8-a5df-1f9e0adf3acc@55ce1",
+      "displayName": "",
+      "id": "55ce1",
+      "name": "stick_knockout_getup.animation",
+      "userData": {
+        "gltfIndex": 4,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.9666666388511658
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "3e468": {
+      "importer": "gltf-animation",
+      "uuid": "96340b2b-33e5-4ef8-a5df-1f9e0adf3acc@3e468",
+      "displayName": "",
+      "id": "3e468",
+      "name": "stick_win01.animation",
+      "userData": {
+        "gltfIndex": 5,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.1333333253860474
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "fc524": {
+      "importer": "gltf-animation",
+      "uuid": "96340b2b-33e5-4ef8-a5df-1f9e0adf3acc@fc524",
+      "displayName": "",
+      "id": "fc524",
+      "name": "stick_movement01.animation",
+      "userData": {
+        "gltfIndex": 6,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 4.5
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "cb017": {
+      "importer": "gltf-scene",
+      "uuid": "96340b2b-33e5-4ef8-a5df-1f9e0adf3acc@cb017",
+      "displayName": "",
+      "id": "cb017",
+      "name": "stick_movement01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "stick_hit01",
+        "duration": 0.36666667461395264,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "stick_hit01",
+            "from": 0,
+            "to": 0.36666667461395264,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "stick_dead01",
+        "duration": 1.3333333730697632,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "stick_dead01",
+            "from": 0,
+            "to": 1.3333333730697632,
+            "wrapMode": 1
+          }
+        ]
+      },
+      {
+        "name": "stick_knockout_start",
+        "duration": 0.5333333611488342,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "stick_knockout_start",
+            "from": 0,
+            "to": 0.5333333611488342,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "stick_knockout_idle",
+        "duration": 0.03333333507180214,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "stick_knockout_idle",
+            "from": 0,
+            "to": 0.03333333507180214,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "stick_knockout_getup",
+        "duration": 0.9666666388511658,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "stick_knockout_getup",
+            "from": 0,
+            "to": 0.9666666388511658,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "stick_win01",
+        "duration": 1.1333333253860474,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "stick_win01",
+            "from": 0,
+            "to": 1.1333333253860474,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "stick_movement01",
+        "duration": 4.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "stick_movement01",
+            "from": 0,
+            "to": 4.5,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "96340b2b-33e5-4ef8-a5df-1f9e0adf3acc@cb017",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "96340b2b-33e5-4ef8-a5df-1f9e0adf3acc@cb017"
+      ]
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ce0eeedf-de85-446c-9e5d-de62ddfd368c",
+  "files": [],
+  "subMetas": {
+    "222d1": {
+      "importer": "gltf-mesh",
+      "uuid": "ce0eeedf-de85-446c-9e5d-de62ddfd368c@222d1",
+      "displayName": "",
+      "id": "222d1",
+      "name": "S.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0b7b5": {
+      "importer": "gltf-material",
+      "uuid": "ce0eeedf-de85-446c-9e5d-de62ddfd368c@0b7b5",
+      "displayName": "",
+      "id": "0b7b5",
+      "name": "phong1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8c1a8": {
+      "importer": "gltf-scene",
+      "uuid": "ce0eeedf-de85-446c-9e5d-de62ddfd368c@8c1a8",
+      "displayName": "",
+      "id": "8c1a8",
+      "name": "Doller.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "ce0eeedf-de85-446c-9e5d-de62ddfd368c@8c1a8",
+    "assetFinder": {
+      "meshes": [
+        "ce0eeedf-de85-446c-9e5d-de62ddfd368c@222d1"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "ce0eeedf-de85-446c-9e5d-de62ddfd368c@0b7b5"
+      ],
+      "scenes": [
+        "ce0eeedf-de85-446c-9e5d-de62ddfd368c@8c1a8"
+      ]
+    }
+  }
+}

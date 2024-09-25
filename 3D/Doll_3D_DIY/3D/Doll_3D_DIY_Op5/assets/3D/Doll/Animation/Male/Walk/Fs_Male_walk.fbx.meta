@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "11087e7e-7577-4160-94b7-716285e0503a",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "49302": {
+      "importer": "gltf-scene",
+      "uuid": "11087e7e-7577-4160-94b7-716285e0503a@49302",
+      "displayName": "",
+      "id": "49302",
+      "name": "Fs_Male_walk.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "245cf": {
+      "importer": "gltf-animation",
+      "uuid": "11087e7e-7577-4160-94b7-716285e0503a@245cf",
+      "displayName": "",
+      "id": "245cf",
+      "name": "Fs_Male_walk.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.0666667222976685
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Fs_Male_walk",
+        "duration": 1.0666667222976685,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Fs_Male_walk",
+            "from": 0,
+            "to": 1.0666667222976685,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "11087e7e-7577-4160-94b7-716285e0503a@49302",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "11087e7e-7577-4160-94b7-716285e0503a@49302"
+      ]
+    }
+  }
+}

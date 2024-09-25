@@ -1,0 +1,62 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9491168d-e4ed-454b-8966-24449ef2810e",
+  "files": [],
+  "subMetas": {
+    "069c6": {
+      "importer": "gltf-mesh",
+      "uuid": "9491168d-e4ed-454b-8966-24449ef2810e@069c6",
+      "displayName": "",
+      "id": "069c6",
+      "name": "Wall.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e87ad": {
+      "importer": "gltf-scene",
+      "uuid": "9491168d-e4ed-454b-8966-24449ef2810e@e87ad",
+      "displayName": "",
+      "id": "e87ad",
+      "name": "wall.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "9491168d-e4ed-454b-8966-24449ef2810e@e87ad",
+    "assetFinder": {
+      "meshes": [
+        "9491168d-e4ed-454b-8966-24449ef2810e@069c6"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "de916b93-eb5f-40fe-ad70-d7f451b8ec82"
+      ],
+      "scenes": [
+        "9491168d-e4ed-454b-8966-24449ef2810e@e87ad"
+      ]
+    },
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/Room/Mesh/Theme05/Materials_wall"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "MergeDino",
+  "version": "3.4.2",
+  "main": "build-inline.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "minify": "^7.2.2"
+  },
+  "creator": {
+    "version": "3.4.2"
+  },
+  "uuid": "62167c0e-b554-4a50-a017-779e1ee18ad1"
+}

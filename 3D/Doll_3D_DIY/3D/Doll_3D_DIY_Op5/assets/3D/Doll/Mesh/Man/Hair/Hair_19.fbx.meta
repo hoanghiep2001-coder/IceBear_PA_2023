@@ -1,0 +1,168 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "1de2b3f0-f81c-4433-b1be-c4c3ea396a34",
+  "files": [],
+  "subMetas": {
+    "94941": {
+      "importer": "gltf-scene",
+      "uuid": "1de2b3f0-f81c-4433-b1be-c4c3ea396a34@94941",
+      "displayName": "",
+      "id": "94941",
+      "name": "Hair_19.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3ec7f": {
+      "importer": "gltf-mesh",
+      "uuid": "1de2b3f0-f81c-4433-b1be-c4c3ea396a34@3ec7f",
+      "displayName": "",
+      "id": "3ec7f",
+      "name": "Hair_19.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c0a9a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "1de2b3f0-f81c-4433-b1be-c4c3ea396a34@c0a9a",
+      "displayName": "",
+      "id": "c0a9a",
+      "name": "Hair_diffuse.png1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "820b7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "1de2b3f0-f81c-4433-b1be-c4c3ea396a34@820b7",
+      "displayName": "",
+      "id": "820b7",
+      "name": "Hair_normal.png1.image",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "52feb": {
+      "importer": "texture",
+      "uuid": "1de2b3f0-f81c-4433-b1be-c4c3ea396a34@52feb",
+      "displayName": "",
+      "id": "52feb",
+      "name": "Hair_diffuse.png1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "1de2b3f0-f81c-4433-b1be-c4c3ea396a34@c0a9a"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a7d20": {
+      "importer": "texture",
+      "uuid": "1de2b3f0-f81c-4433-b1be-c4c3ea396a34@a7d20",
+      "displayName": "",
+      "id": "a7d20",
+      "name": "Hair_normal.png1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "1de2b3f0-f81c-4433-b1be-c4c3ea396a34@820b7"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a04c3": {
+      "importer": "gltf-material",
+      "uuid": "1de2b3f0-f81c-4433-b1be-c4c3ea396a34@a04c3",
+      "displayName": "",
+      "id": "a04c3",
+      "name": "m_Hair_19.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Hair_diffuse.png1",
+        "uri": "1de2b3f0-f81c-4433-b1be-c4c3ea396a34@c0a9a"
+      },
+      {
+        "name": "Hair_normal.png1",
+        "uri": "1de2b3f0-f81c-4433-b1be-c4c3ea396a34@820b7"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "1de2b3f0-f81c-4433-b1be-c4c3ea396a34@94941",
+    "assetFinder": {
+      "meshes": [
+        "1de2b3f0-f81c-4433-b1be-c4c3ea396a34@3ec7f"
+      ],
+      "skeletons": [],
+      "textures": [
+        "1de2b3f0-f81c-4433-b1be-c4c3ea396a34@52feb",
+        "1de2b3f0-f81c-4433-b1be-c4c3ea396a34@a7d20"
+      ],
+      "materials": [
+        "1de2b3f0-f81c-4433-b1be-c4c3ea396a34@a04c3"
+      ],
+      "scenes": [
+        "1de2b3f0-f81c-4433-b1be-c4c3ea396a34@94941"
+      ]
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "0bd33302-675d-4e6a-82d7-5fe990ef3686",
+  "files": [],
+  "subMetas": {
+    "16491": {
+      "importer": "texture",
+      "uuid": "0bd33302-675d-4e6a-82d7-5fe990ef3686@16491",
+      "displayName": "",
+      "id": "16491",
+      "name": "Map #18.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0bd33302-675d-4e6a-82d7-5fe990ef3686@eb30c"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "52954": {
+      "importer": "gltf-scene",
+      "uuid": "0bd33302-675d-4e6a-82d7-5fe990ef3686@52954",
+      "displayName": "",
+      "id": "52954",
+      "name": "shell_pistol.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2908e": {
+      "importer": "gltf-mesh",
+      "uuid": "0bd33302-675d-4e6a-82d7-5fe990ef3686@2908e",
+      "displayName": "",
+      "id": "2908e",
+      "name": "shell_pistol.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "eb30c": {
+      "importer": "gltf-embeded-image",
+      "uuid": "0bd33302-675d-4e6a-82d7-5fe990ef3686@eb30c",
+      "displayName": "",
+      "id": "eb30c",
+      "name": "Map #18.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6db00": {
+      "importer": "gltf-material",
+      "uuid": "0bd33302-675d-4e6a-82d7-5fe990ef3686@6db00",
+      "displayName": "",
+      "id": "6db00",
+      "name": "ToonSoldiers_weapons.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #18",
+        "uri": "0bd33302-675d-4e6a-82d7-5fe990ef3686@eb30c"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "0bd33302-675d-4e6a-82d7-5fe990ef3686@52954",
+    "assetFinder": {
+      "meshes": [
+        "0bd33302-675d-4e6a-82d7-5fe990ef3686@2908e"
+      ],
+      "skeletons": [],
+      "textures": [
+        "0bd33302-675d-4e6a-82d7-5fe990ef3686@16491"
+      ],
+      "materials": [
+        "0bd33302-675d-4e6a-82d7-5fe990ef3686@6db00"
+      ],
+      "scenes": [
+        "0bd33302-675d-4e6a-82d7-5fe990ef3686@52954"
+      ]
+    }
+  }
+}

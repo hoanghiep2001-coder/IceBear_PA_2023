@@ -1,0 +1,123 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c0cf4246-e711-48fc-80d7-ba3e8a320036",
+  "files": [],
+  "subMetas": {
+    "14724": {
+      "importer": "gltf-material",
+      "uuid": "c0cf4246-e711-48fc-80d7-ba3e8a320036@14724",
+      "displayName": "",
+      "id": "14724",
+      "name": "metal_material.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2c100": {
+      "importer": "gltf-mesh",
+      "uuid": "c0cf4246-e711-48fc-80d7-ba3e8a320036@2c100",
+      "displayName": "",
+      "id": "2c100",
+      "name": "Bar_05.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b896e": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c0cf4246-e711-48fc-80d7-ba3e8a320036@b896e",
+      "displayName": "",
+      "id": "b896e",
+      "name": "file6.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5189c": {
+      "importer": "texture",
+      "uuid": "c0cf4246-e711-48fc-80d7-ba3e8a320036@5189c",
+      "displayName": "",
+      "id": "5189c",
+      "name": "file6.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c0cf4246-e711-48fc-80d7-ba3e8a320036@b896e"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "12e1f": {
+      "importer": "gltf-scene",
+      "uuid": "c0cf4246-e711-48fc-80d7-ba3e8a320036@12e1f",
+      "displayName": "",
+      "id": "12e1f",
+      "name": "Bar_05.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file6",
+        "uri": "c0cf4246-e711-48fc-80d7-ba3e8a320036@b896e"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "c0cf4246-e711-48fc-80d7-ba3e8a320036@12e1f",
+    "assetFinder": {
+      "meshes": [
+        "c0cf4246-e711-48fc-80d7-ba3e8a320036@2c100"
+      ],
+      "skeletons": [],
+      "textures": [
+        "c0cf4246-e711-48fc-80d7-ba3e8a320036@5189c"
+      ],
+      "materials": [
+        "c0cf4246-e711-48fc-80d7-ba3e8a320036@14724"
+      ],
+      "scenes": [
+        "c0cf4246-e711-48fc-80d7-ba3e8a320036@12e1f"
+      ]
+    }
+  }
+}

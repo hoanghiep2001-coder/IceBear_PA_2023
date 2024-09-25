@@ -1,0 +1,145 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "6fdb7048-099f-4964-a018-62270e142082",
+  "files": [],
+  "subMetas": {
+    "8105e": {
+      "importer": "gltf-mesh",
+      "uuid": "6fdb7048-099f-4964-a018-62270e142082@8105e",
+      "displayName": "",
+      "id": "8105e",
+      "name": "Amphora_2.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f2eff": {
+      "importer": "gltf-mesh",
+      "uuid": "6fdb7048-099f-4964-a018-62270e142082@f2eff",
+      "displayName": "",
+      "id": "f2eff",
+      "name": "Amphora_3.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3f5ae": {
+      "importer": "gltf-mesh",
+      "uuid": "6fdb7048-099f-4964-a018-62270e142082@3f5ae",
+      "displayName": "",
+      "id": "3f5ae",
+      "name": "Amphora_1.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "6fdb7048-099f-4964-a018-62270e142082@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "6fdb7048-099f-4964-a018-62270e142082@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "6fdb7048-099f-4964-a018-62270e142082@48b02"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "018b8": {
+      "importer": "gltf-scene",
+      "uuid": "6fdb7048-099f-4964-a018-62270e142082@018b8",
+      "displayName": "",
+      "id": "018b8",
+      "name": "amphora.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "6fdb7048-099f-4964-a018-62270e142082@48b02"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "6fdb7048-099f-4964-a018-62270e142082@018b8",
+    "assetFinder": {
+      "meshes": [
+        "6fdb7048-099f-4964-a018-62270e142082@8105e",
+        "6fdb7048-099f-4964-a018-62270e142082@f2eff",
+        "6fdb7048-099f-4964-a018-62270e142082@3f5ae"
+      ],
+      "skeletons": [],
+      "textures": [
+        "6fdb7048-099f-4964-a018-62270e142082@7d6ab"
+      ],
+      "materials": [
+        "a136eaf6-6b89-4d9a-8d71-a2774436a158"
+      ],
+      "scenes": [
+        "6fdb7048-099f-4964-a018-62270e142082@018b8"
+      ]
+    },
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/Room/Mesh/Theme03/Materials_amphora"
+  }
+}

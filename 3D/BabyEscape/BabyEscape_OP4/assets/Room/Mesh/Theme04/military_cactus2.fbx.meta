@@ -1,0 +1,123 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "73548c9e-d8c8-48aa-bcab-e3c77d0c0bda",
+  "files": [],
+  "subMetas": {
+    "9cca7": {
+      "importer": "gltf-mesh",
+      "uuid": "73548c9e-d8c8-48aa-bcab-e3c77d0c0bda@9cca7",
+      "displayName": "",
+      "id": "9cca7",
+      "name": "military_streetmap.007.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "73548c9e-d8c8-48aa-bcab-e3c77d0c0bda@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "73548c9e-d8c8-48aa-bcab-e3c77d0c0bda@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "73548c9e-d8c8-48aa-bcab-e3c77d0c0bda@48b02"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "37cdd": {
+      "importer": "gltf-material",
+      "uuid": "73548c9e-d8c8-48aa-bcab-e3c77d0c0bda@37cdd",
+      "displayName": "",
+      "id": "37cdd",
+      "name": "Mat_Environment.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "68d04": {
+      "importer": "gltf-scene",
+      "uuid": "73548c9e-d8c8-48aa-bcab-e3c77d0c0bda@68d04",
+      "displayName": "",
+      "id": "68d04",
+      "name": "military_cactus2.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "73548c9e-d8c8-48aa-bcab-e3c77d0c0bda@48b02"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "73548c9e-d8c8-48aa-bcab-e3c77d0c0bda@68d04",
+    "assetFinder": {
+      "meshes": [
+        "73548c9e-d8c8-48aa-bcab-e3c77d0c0bda@9cca7"
+      ],
+      "skeletons": [],
+      "textures": [
+        "73548c9e-d8c8-48aa-bcab-e3c77d0c0bda@7d6ab"
+      ],
+      "materials": [
+        "73548c9e-d8c8-48aa-bcab-e3c77d0c0bda@37cdd"
+      ],
+      "scenes": [
+        "73548c9e-d8c8-48aa-bcab-e3c77d0c0bda@68d04"
+      ]
+    }
+  }
+}

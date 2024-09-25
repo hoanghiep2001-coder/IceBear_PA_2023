@@ -1,0 +1,123 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a2ee25ac-5180-49c3-833e-c44b6a6c498e",
+  "files": [],
+  "subMetas": {
+    "2e14d": {
+      "importer": "gltf-mesh",
+      "uuid": "a2ee25ac-5180-49c3-833e-c44b6a6c498e@2e14d",
+      "displayName": "",
+      "id": "2e14d",
+      "name": "Mesh.059.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "a2ee25ac-5180-49c3-833e-c44b6a6c498e@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "a2ee25ac-5180-49c3-833e-c44b6a6c498e@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "a2ee25ac-5180-49c3-833e-c44b6a6c498e@48b02"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "37cdd": {
+      "importer": "gltf-material",
+      "uuid": "a2ee25ac-5180-49c3-833e-c44b6a6c498e@37cdd",
+      "displayName": "",
+      "id": "37cdd",
+      "name": "Mat_Environment.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "14a5b": {
+      "importer": "gltf-scene",
+      "uuid": "a2ee25ac-5180-49c3-833e-c44b6a6c498e@14a5b",
+      "displayName": "",
+      "id": "14a5b",
+      "name": "ammo_box.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "a2ee25ac-5180-49c3-833e-c44b6a6c498e@48b02"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "a2ee25ac-5180-49c3-833e-c44b6a6c498e@14a5b",
+    "assetFinder": {
+      "meshes": [
+        "a2ee25ac-5180-49c3-833e-c44b6a6c498e@2e14d"
+      ],
+      "skeletons": [],
+      "textures": [
+        "a2ee25ac-5180-49c3-833e-c44b6a6c498e@7d6ab"
+      ],
+      "materials": [
+        "a2ee25ac-5180-49c3-833e-c44b6a6c498e@37cdd"
+      ],
+      "scenes": [
+        "a2ee25ac-5180-49c3-833e-c44b6a6c498e@14a5b"
+      ]
+    }
+  }
+}

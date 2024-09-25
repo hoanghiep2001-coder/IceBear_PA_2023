@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "21e358ad-c830-41d6-a569-1b8e249ed19e",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "4f161": {
+      "importer": "gltf-animation",
+      "uuid": "21e358ad-c830-41d6-a569-1b8e249ed19e@4f161",
+      "displayName": "",
+      "id": "4f161",
+      "name": "Cat_Skinshow_cry.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 4.333333492279053
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "974a2": {
+      "importer": "gltf-scene",
+      "uuid": "21e358ad-c830-41d6-a569-1b8e249ed19e@974a2",
+      "displayName": "",
+      "id": "974a2",
+      "name": "Cat_Skinshow_cry.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Cat_Skinshow_cry",
+        "duration": 4.333333492279053,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Cat_Skinshow_cry",
+            "from": 0,
+            "to": 4.333333492279053,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "21e358ad-c830-41d6-a569-1b8e249ed19e@974a2",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "21e358ad-c830-41d6-a569-1b8e249ed19e@974a2"
+      ]
+    }
+  }
+}

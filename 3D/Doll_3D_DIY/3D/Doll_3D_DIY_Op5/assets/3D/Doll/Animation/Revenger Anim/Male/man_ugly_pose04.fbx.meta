@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "508e738e-fac1-4c1a-bb1a-8cbef3773005",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "d406e": {
+      "importer": "gltf-animation",
+      "uuid": "508e738e-fac1-4c1a-bb1a-8cbef3773005@d406e",
+      "displayName": "",
+      "id": "d406e",
+      "name": "man_ugly_pose04.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 20
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "5551a": {
+      "importer": "gltf-scene",
+      "uuid": "508e738e-fac1-4c1a-bb1a-8cbef3773005@5551a",
+      "displayName": "",
+      "id": "5551a",
+      "name": "man_ugly_pose04.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "man_ugly_pose04",
+        "duration": 20,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "man_ugly_pose04",
+            "from": 0,
+            "to": 20,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "508e738e-fac1-4c1a-bb1a-8cbef3773005@5551a",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "508e738e-fac1-4c1a-bb1a-8cbef3773005@5551a"
+      ]
+    }
+  }
+}

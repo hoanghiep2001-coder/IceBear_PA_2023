@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "30cd3f3d-f523-4c7d-b95f-59540170acc9",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "ed26c": {
+      "importer": "gltf-animation",
+      "uuid": "30cd3f3d-f523-4c7d-b95f-59540170acc9@ed26c",
+      "displayName": "",
+      "id": "ed26c",
+      "name": "Car_idle.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.6333333253860474
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "20f0b": {
+      "importer": "gltf-scene",
+      "uuid": "30cd3f3d-f523-4c7d-b95f-59540170acc9@20f0b",
+      "displayName": "",
+      "id": "20f0b",
+      "name": "Car_idle.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Car_idle",
+        "duration": 0.6333333253860474,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Car_idle",
+            "from": 0,
+            "to": 0.6333333253860474,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "30cd3f3d-f523-4c7d-b95f-59540170acc9@20f0b",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "30cd3f3d-f523-4c7d-b95f-59540170acc9@20f0b"
+      ]
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "48055fdd-9b72-42f8-bb1a-c9d362b92e6b",
+  "files": [],
+  "subMetas": {
+    "5446b": {
+      "importer": "gltf-mesh",
+      "uuid": "48055fdd-9b72-42f8-bb1a-c9d362b92e6b@5446b",
+      "displayName": "",
+      "id": "5446b",
+      "name": "ExitDoor_L.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4af23": {
+      "importer": "gltf-mesh",
+      "uuid": "48055fdd-9b72-42f8-bb1a-c9d362b92e6b@4af23",
+      "displayName": "",
+      "id": "4af23",
+      "name": "ExitDoor_R.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "48055fdd-9b72-42f8-bb1a-c9d362b92e6b@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "48055fdd-9b72-42f8-bb1a-c9d362b92e6b@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "48055fdd-9b72-42f8-bb1a-c9d362b92e6b@48b02"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "37cdd": {
+      "importer": "gltf-material",
+      "uuid": "48055fdd-9b72-42f8-bb1a-c9d362b92e6b@37cdd",
+      "displayName": "",
+      "id": "37cdd",
+      "name": "Mat_Environment.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f127d": {
+      "importer": "gltf-scene",
+      "uuid": "48055fdd-9b72-42f8-bb1a-c9d362b92e6b@f127d",
+      "displayName": "",
+      "id": "f127d",
+      "name": "exit_door.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "48055fdd-9b72-42f8-bb1a-c9d362b92e6b@48b02"
+      }
+    ],
+    "legacyFbxImporter": true,
+    "dumpMaterials": false,
+    "redirect": "48055fdd-9b72-42f8-bb1a-c9d362b92e6b@f127d",
+    "assetFinder": {
+      "meshes": [
+        "48055fdd-9b72-42f8-bb1a-c9d362b92e6b@5446b",
+        "48055fdd-9b72-42f8-bb1a-c9d362b92e6b@4af23"
+      ],
+      "skeletons": [],
+      "textures": [
+        "48055fdd-9b72-42f8-bb1a-c9d362b92e6b@7d6ab"
+      ],
+      "materials": [
+        "48055fdd-9b72-42f8-bb1a-c9d362b92e6b@37cdd"
+      ],
+      "scenes": [
+        "48055fdd-9b72-42f8-bb1a-c9d362b92e6b@f127d"
+      ]
+    }
+  }
+}

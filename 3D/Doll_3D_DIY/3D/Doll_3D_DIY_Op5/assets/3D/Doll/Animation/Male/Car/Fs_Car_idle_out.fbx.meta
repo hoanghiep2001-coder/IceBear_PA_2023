@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "bf3a4b6b-e8b0-49fd-ac98-2099df53f6a1",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "254e8": {
+      "importer": "gltf-animation",
+      "uuid": "bf3a4b6b-e8b0-49fd-ac98-2099df53f6a1@254e8",
+      "displayName": "",
+      "id": "254e8",
+      "name": "Fs_Car_idle_out_IP.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 3.5
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "a4033": {
+      "importer": "gltf-scene",
+      "uuid": "bf3a4b6b-e8b0-49fd-ac98-2099df53f6a1@a4033",
+      "displayName": "",
+      "id": "a4033",
+      "name": "Fs_Car_idle_out.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Fs_Car_idle_out_IP",
+        "duration": 3.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Fs_Car_idle_out_IP",
+            "from": 0,
+            "to": 3.5,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "bf3a4b6b-e8b0-49fd-ac98-2099df53f6a1@a4033",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "bf3a4b6b-e8b0-49fd-ac98-2099df53f6a1@a4033"
+      ]
+    }
+  }
+}

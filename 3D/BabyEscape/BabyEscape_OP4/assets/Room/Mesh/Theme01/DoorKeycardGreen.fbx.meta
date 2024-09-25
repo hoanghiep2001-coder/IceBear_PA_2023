@@ -1,0 +1,109 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "4089024b-2456-4198-aa79-2f23cb0fe746",
+  "files": [],
+  "subMetas": {
+    "67c06": {
+      "importer": "gltf-mesh",
+      "uuid": "4089024b-2456-4198-aa79-2f23cb0fe746@67c06",
+      "displayName": "",
+      "id": "67c06",
+      "name": "DoorKeycardGreen_.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "4089024b-2456-4198-aa79-2f23cb0fe746@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "4089024b-2456-4198-aa79-2f23cb0fe746@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "4089024b-2456-4198-aa79-2f23cb0fe746@48b02"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c3c52": {
+      "importer": "gltf-scene",
+      "uuid": "4089024b-2456-4198-aa79-2f23cb0fe746@c3c52",
+      "displayName": "",
+      "id": "c3c52",
+      "name": "DoorKeycardGreen.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "4089024b-2456-4198-aa79-2f23cb0fe746@48b02"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "4089024b-2456-4198-aa79-2f23cb0fe746@c3c52",
+    "assetFinder": {
+      "meshes": [
+        "4089024b-2456-4198-aa79-2f23cb0fe746@67c06"
+      ],
+      "skeletons": [],
+      "textures": [
+        "4089024b-2456-4198-aa79-2f23cb0fe746@7d6ab"
+      ],
+      "materials": [
+        "054ff486-43b0-47d2-b2e8-1c10a852e303"
+      ],
+      "scenes": [
+        "4089024b-2456-4198-aa79-2f23cb0fe746@c3c52"
+      ]
+    },
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/Room/Mesh/Theme01/Materials_DoorKeycardGreen"
+  }
+}

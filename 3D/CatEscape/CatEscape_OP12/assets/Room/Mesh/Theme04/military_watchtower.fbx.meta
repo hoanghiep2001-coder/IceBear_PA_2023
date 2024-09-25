@@ -1,0 +1,123 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3cbfbc54-c886-45fd-8da3-52b83d60268b",
+  "files": [],
+  "subMetas": {
+    "e61c7": {
+      "importer": "gltf-mesh",
+      "uuid": "3cbfbc54-c886-45fd-8da3-52b83d60268b@e61c7",
+      "displayName": "",
+      "id": "e61c7",
+      "name": "military_streetmap.011.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "3cbfbc54-c886-45fd-8da3-52b83d60268b@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "3cbfbc54-c886-45fd-8da3-52b83d60268b@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3cbfbc54-c886-45fd-8da3-52b83d60268b@48b02"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "37cdd": {
+      "importer": "gltf-material",
+      "uuid": "3cbfbc54-c886-45fd-8da3-52b83d60268b@37cdd",
+      "displayName": "",
+      "id": "37cdd",
+      "name": "Mat_Environment.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2a6a4": {
+      "importer": "gltf-scene",
+      "uuid": "3cbfbc54-c886-45fd-8da3-52b83d60268b@2a6a4",
+      "displayName": "",
+      "id": "2a6a4",
+      "name": "military_watchtower.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "3cbfbc54-c886-45fd-8da3-52b83d60268b@48b02"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "3cbfbc54-c886-45fd-8da3-52b83d60268b@2a6a4",
+    "assetFinder": {
+      "meshes": [
+        "3cbfbc54-c886-45fd-8da3-52b83d60268b@e61c7"
+      ],
+      "skeletons": [],
+      "textures": [
+        "3cbfbc54-c886-45fd-8da3-52b83d60268b@7d6ab"
+      ],
+      "materials": [
+        "3cbfbc54-c886-45fd-8da3-52b83d60268b@37cdd"
+      ],
+      "scenes": [
+        "3cbfbc54-c886-45fd-8da3-52b83d60268b@2a6a4"
+      ]
+    }
+  }
+}

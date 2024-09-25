@@ -1,0 +1,46 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": false,
+  "uuid": "0d2b9f0c-58bb-4d29-93df-ae6dbddbc6ab",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "0d2b9f0c-58bb-4d29-93df-ae6dbddbc6ab@48b02"
+      },
+      {
+        "name": "base_color_texture1",
+        "uri": "0d2b9f0c-58bb-4d29-93df-ae6dbddbc6ab@b1345"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "0d2b9f0c-58bb-4d29-93df-ae6dbddbc6ab@bdaca",
+    "assetFinder": {
+      "meshes": [
+        "0d2b9f0c-58bb-4d29-93df-ae6dbddbc6ab@86c5c",
+        "0d2b9f0c-58bb-4d29-93df-ae6dbddbc6ab@7a5c2",
+        "0d2b9f0c-58bb-4d29-93df-ae6dbddbc6ab@31c1e",
+        "0d2b9f0c-58bb-4d29-93df-ae6dbddbc6ab@42489"
+      ],
+      "skeletons": [
+        "0d2b9f0c-58bb-4d29-93df-ae6dbddbc6ab@30732",
+        "0d2b9f0c-58bb-4d29-93df-ae6dbddbc6ab@f1394",
+        "0d2b9f0c-58bb-4d29-93df-ae6dbddbc6ab@75ee4"
+      ],
+      "textures": [
+        "0d2b9f0c-58bb-4d29-93df-ae6dbddbc6ab@7d6ab",
+        "0d2b9f0c-58bb-4d29-93df-ae6dbddbc6ab@36c77"
+      ],
+      "materials": [
+        "0d2b9f0c-58bb-4d29-93df-ae6dbddbc6ab@26758",
+        "0d2b9f0c-58bb-4d29-93df-ae6dbddbc6ab@93df1"
+      ],
+      "scenes": [
+        "0d2b9f0c-58bb-4d29-93df-ae6dbddbc6ab@bdaca"
+      ]
+    }
+  }
+}

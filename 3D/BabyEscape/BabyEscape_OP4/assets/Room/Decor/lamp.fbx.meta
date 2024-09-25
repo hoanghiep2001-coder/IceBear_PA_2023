@@ -1,0 +1,109 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "005768ea-01c8-45ba-a110-b68661697780",
+  "files": [],
+  "subMetas": {
+    "eeb51": {
+      "importer": "gltf-mesh",
+      "uuid": "005768ea-01c8-45ba-a110-b68661697780@eeb51",
+      "displayName": "",
+      "id": "eeb51",
+      "name": "Lamp.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "43c71": {
+      "importer": "gltf-embeded-image",
+      "uuid": "005768ea-01c8-45ba-a110-b68661697780@43c71",
+      "displayName": "",
+      "id": "43c71",
+      "name": "file1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d20e9": {
+      "importer": "texture",
+      "uuid": "005768ea-01c8-45ba-a110-b68661697780@d20e9",
+      "displayName": "",
+      "id": "d20e9",
+      "name": "file1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "005768ea-01c8-45ba-a110-b68661697780@43c71"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7fa36": {
+      "importer": "gltf-scene",
+      "uuid": "005768ea-01c8-45ba-a110-b68661697780@7fa36",
+      "displayName": "",
+      "id": "7fa36",
+      "name": "lamp.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1",
+        "uri": "005768ea-01c8-45ba-a110-b68661697780@43c71"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "005768ea-01c8-45ba-a110-b68661697780@7fa36",
+    "assetFinder": {
+      "meshes": [
+        "005768ea-01c8-45ba-a110-b68661697780@eeb51"
+      ],
+      "skeletons": [],
+      "textures": [
+        "005768ea-01c8-45ba-a110-b68661697780@d20e9"
+      ],
+      "materials": [
+        "f0636711-7d4c-4444-8585-151af7f80786"
+      ],
+      "scenes": [
+        "005768ea-01c8-45ba-a110-b68661697780@7fa36"
+      ]
+    },
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/Room/Decor/Materials_lamp"
+  }
+}

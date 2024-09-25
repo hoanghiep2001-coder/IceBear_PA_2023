@@ -1,0 +1,32 @@
+{
+  "general": {
+    "designResolution": {
+      "width": 320,
+      "height": 480,
+      "fitHeight": true,
+      "fitWidth": true
+    }
+  },
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "Wall"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 3,
+      "1": 1
+    }
+  },
+  "layer": [
+    {
+      "name": "PickCat",
+      "value": 1
+    },
+    {
+      "name": "PickCat_UI",
+      "value": 2
+    }
+  ]
+}

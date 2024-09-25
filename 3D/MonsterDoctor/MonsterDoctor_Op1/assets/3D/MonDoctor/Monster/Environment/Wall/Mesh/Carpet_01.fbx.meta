@@ -1,0 +1,123 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "5c838e2b-3467-4154-98e1-3d4eba5ed5d3",
+  "files": [],
+  "subMetas": {
+    "bc2de": {
+      "importer": "gltf-mesh",
+      "uuid": "5c838e2b-3467-4154-98e1-3d4eba5ed5d3@bc2de",
+      "displayName": "",
+      "id": "bc2de",
+      "name": "Carpet_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "5c838e2b-3467-4154-98e1-3d4eba5ed5d3@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "5c838e2b-3467-4154-98e1-3d4eba5ed5d3@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "5c838e2b-3467-4154-98e1-3d4eba5ed5d3@48b02"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "032b2": {
+      "importer": "gltf-material",
+      "uuid": "5c838e2b-3467-4154-98e1-3d4eba5ed5d3@032b2",
+      "displayName": "",
+      "id": "032b2",
+      "name": "megatexture.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ceaa3": {
+      "importer": "gltf-scene",
+      "uuid": "5c838e2b-3467-4154-98e1-3d4eba5ed5d3@ceaa3",
+      "displayName": "",
+      "id": "ceaa3",
+      "name": "Carpet_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "5c838e2b-3467-4154-98e1-3d4eba5ed5d3@48b02"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "5c838e2b-3467-4154-98e1-3d4eba5ed5d3@ceaa3",
+    "assetFinder": {
+      "meshes": [
+        "5c838e2b-3467-4154-98e1-3d4eba5ed5d3@bc2de"
+      ],
+      "skeletons": [],
+      "textures": [
+        "5c838e2b-3467-4154-98e1-3d4eba5ed5d3@7d6ab"
+      ],
+      "materials": [
+        "5c838e2b-3467-4154-98e1-3d4eba5ed5d3@032b2"
+      ],
+      "scenes": [
+        "5c838e2b-3467-4154-98e1-3d4eba5ed5d3@ceaa3"
+      ]
+    }
+  }
+}

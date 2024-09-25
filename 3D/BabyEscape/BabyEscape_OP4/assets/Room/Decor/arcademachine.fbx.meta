@@ -1,0 +1,123 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e1ae8d4e-8960-4b3d-9a5b-2091f6f8bfd3",
+  "files": [],
+  "subMetas": {
+    "ed91a": {
+      "importer": "gltf-mesh",
+      "uuid": "e1ae8d4e-8960-4b3d-9a5b-2091f6f8bfd3@ed91a",
+      "displayName": "",
+      "id": "ed91a",
+      "name": "ArcadeMachine.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "43c71": {
+      "importer": "gltf-embeded-image",
+      "uuid": "e1ae8d4e-8960-4b3d-9a5b-2091f6f8bfd3@43c71",
+      "displayName": "",
+      "id": "43c71",
+      "name": "file1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d20e9": {
+      "importer": "texture",
+      "uuid": "e1ae8d4e-8960-4b3d-9a5b-2091f6f8bfd3@d20e9",
+      "displayName": "",
+      "id": "d20e9",
+      "name": "file1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "e1ae8d4e-8960-4b3d-9a5b-2091f6f8bfd3@43c71"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "632d3": {
+      "importer": "gltf-material",
+      "uuid": "e1ae8d4e-8960-4b3d-9a5b-2091f6f8bfd3@632d3",
+      "displayName": "",
+      "id": "632d3",
+      "name": "Megatexture.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6e711": {
+      "importer": "gltf-scene",
+      "uuid": "e1ae8d4e-8960-4b3d-9a5b-2091f6f8bfd3@6e711",
+      "displayName": "",
+      "id": "6e711",
+      "name": "arcademachine.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1",
+        "uri": "e1ae8d4e-8960-4b3d-9a5b-2091f6f8bfd3@43c71"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "e1ae8d4e-8960-4b3d-9a5b-2091f6f8bfd3@6e711",
+    "assetFinder": {
+      "meshes": [
+        "e1ae8d4e-8960-4b3d-9a5b-2091f6f8bfd3@ed91a"
+      ],
+      "skeletons": [],
+      "textures": [
+        "e1ae8d4e-8960-4b3d-9a5b-2091f6f8bfd3@d20e9"
+      ],
+      "materials": [
+        "e1ae8d4e-8960-4b3d-9a5b-2091f6f8bfd3@632d3"
+      ],
+      "scenes": [
+        "e1ae8d4e-8960-4b3d-9a5b-2091f6f8bfd3@6e711"
+      ]
+    }
+  }
+}

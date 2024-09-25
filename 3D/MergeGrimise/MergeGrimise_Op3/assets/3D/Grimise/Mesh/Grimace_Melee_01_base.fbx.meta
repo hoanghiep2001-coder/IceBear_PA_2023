@@ -1,0 +1,178 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "fc8233be-cc5a-4711-b117-d5dcb7bff08b",
+  "files": [],
+  "subMetas": {
+    "19538": {
+      "importer": "gltf-mesh",
+      "uuid": "fc8233be-cc5a-4711-b117-d5dcb7bff08b@19538",
+      "displayName": "",
+      "id": "19538",
+      "name": "Grimace_Melee_01_head.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "30732": {
+      "importer": "gltf-skeleton",
+      "uuid": "fc8233be-cc5a-4711-b117-d5dcb7bff08b@30732",
+      "displayName": "",
+      "id": "30732",
+      "name": "UnnamedSkeleton-0.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 18
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e8ba8": {
+      "importer": "gltf-mesh",
+      "uuid": "fc8233be-cc5a-4711-b117-d5dcb7bff08b@e8ba8",
+      "displayName": "",
+      "id": "e8ba8",
+      "name": "Grimace_Melee_01_body.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f1394": {
+      "importer": "gltf-skeleton",
+      "uuid": "fc8233be-cc5a-4711-b117-d5dcb7bff08b@f1394",
+      "displayName": "",
+      "id": "f1394",
+      "name": "UnnamedSkeleton-1.skeleton",
+      "userData": {
+        "gltfIndex": 1,
+        "jointsLength": 3
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "fc8233be-cc5a-4711-b117-d5dcb7bff08b@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "fc8233be-cc5a-4711-b117-d5dcb7bff08b@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "fc8233be-cc5a-4711-b117-d5dcb7bff08b@48b02"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0e7f7": {
+      "importer": "gltf-material",
+      "uuid": "fc8233be-cc5a-4711-b117-d5dcb7bff08b@0e7f7",
+      "displayName": "",
+      "id": "0e7f7",
+      "name": "m_Grimace_Melee.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2cb1d": {
+      "importer": "gltf-scene",
+      "uuid": "fc8233be-cc5a-4711-b117-d5dcb7bff08b@2cb1d",
+      "displayName": "",
+      "id": "2cb1d",
+      "name": "Grimace_Melee_01_base.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "fc8233be-cc5a-4711-b117-d5dcb7bff08b@48b02"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "fc8233be-cc5a-4711-b117-d5dcb7bff08b@2cb1d",
+    "assetFinder": {
+      "meshes": [
+        "fc8233be-cc5a-4711-b117-d5dcb7bff08b@e8ba8",
+        "fc8233be-cc5a-4711-b117-d5dcb7bff08b@19538"
+      ],
+      "skeletons": [
+        "fc8233be-cc5a-4711-b117-d5dcb7bff08b@30732",
+        "fc8233be-cc5a-4711-b117-d5dcb7bff08b@f1394"
+      ],
+      "textures": [
+        "fc8233be-cc5a-4711-b117-d5dcb7bff08b@7d6ab"
+      ],
+      "materials": [
+        "fc8233be-cc5a-4711-b117-d5dcb7bff08b@0e7f7"
+      ],
+      "scenes": [
+        "fc8233be-cc5a-4711-b117-d5dcb7bff08b@2cb1d"
+      ]
+    }
+  }
+}

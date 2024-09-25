@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "58562294-5461-450b-aa66-7796e3a67eb6",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "edcc5": {
+      "importer": "gltf-animation",
+      "uuid": "58562294-5461-450b-aa66-7796e3a67eb6@edcc5",
+      "displayName": "",
+      "id": "edcc5",
+      "name": "Fs_swimmingpool_IP.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 5.833333492279053
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "f3b0f": {
+      "importer": "gltf-scene",
+      "uuid": "58562294-5461-450b-aa66-7796e3a67eb6@f3b0f",
+      "displayName": "",
+      "id": "f3b0f",
+      "name": "Fs_swimmingpool.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Fs_swimmingpool_IP",
+        "duration": 5.833333492279053,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Fs_swimmingpool_IP",
+            "from": 0,
+            "to": 5.833333492279053,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "58562294-5461-450b-aa66-7796e3a67eb6@f3b0f",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "58562294-5461-450b-aa66-7796e3a67eb6@f3b0f"
+      ]
+    }
+  }
+}
